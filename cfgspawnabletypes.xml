@@ -4556,6 +4556,11 @@
             <item name="Battery9V" />
         </attachments>
     </type>
+	<type name="StarlightOptic">
+        <attachments>
+            <item name="Battery9V" />
+        </attachments>
+    </type>	
 	<type name="PowerGenerator">
         <attachments>
             <item name="SparkPlug" />

@@ -5225,10 +5225,10 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="ClaymoreMine">
-        <nominal>40</nominal>
+        <nominal>20</nominal>
         <lifetime>259200</lifetime>
         <restock>0</restock>
-        <min>20</min>
+        <min>10</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15432,10 +15432,10 @@
         <value name="Tier2"/>
     </type>
     <type name="RDG2SmokeGrenade_Black">
-        <nominal>50</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>25</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -15445,10 +15445,10 @@
         <usage name="Police"/>
     </type>
     <type name="RDG2SmokeGrenade_White">
-        <nominal>50</nominal>
+        <nominal>20</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>25</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19357,10 +19357,10 @@
         <category name="containers"/>
     </type>
     <type name="UniversalLight">
-        <nominal>150</nominal>
+        <nominal>30</nominal>
         <lifetime>7201</lifetime>
         <restock>0</restock>
-        <min>100</min>
+        <min>12</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>

@@ -16591,12 +16591,13 @@
 						<proxy type="Truck_01_Wheel" pos="-2.179965 0.459991 -0.980243" rpy="0.000000 185.275574 0.000000" dechance="0.000000" />
 						<proxy type="Truck_01_WheelDouble" pos="1.420045 0.429993 0.959693" rpy="0.000000 185.724426 0.000000" dechance="0.000000" />
 				</dispatch>
-		</group>
-		<!-- SEASONAL EVENT-->
-		<group name="Bonfire" lootmax="5">
+		</group>		
+		<group name="Bonfire" lootmax="8">
 				<usage name="SeasonalEvent" />
 				<usage name="Firefighter" />
+				<usage name="Convoy" />				
 				<container name="lootFloor" lootmax="5">
+						<category name="heli" />
 						<point pos="2.876667 0.5 3.211807" range="1.65" height="1.5" flags="32" />
 						<point pos="2.496737 0.5 -3.174454" range="1.65" height="1.5" flags="32" />
 						<point pos="-3.760472 0.5 3.067368" range="1.65" height="1.5" flags="32" />
@@ -16607,6 +16608,7 @@
 						<point pos="0.975612 0.5 -3.178558" range="1.65" height="1.5" flags="32" />
 				</container>
 		</group>
+		<!-- SEASONAL EVENT-->
 		<group name="ChristmasTree" lootmax="10">
 				<usage name="SeasonalEvent" />
 				<container name="lootFloor" lootmax="10">

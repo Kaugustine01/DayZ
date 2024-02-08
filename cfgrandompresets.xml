@@ -789,7 +789,7 @@
 				<item name="SodaCan_Fronta" chance="0.18" />
 				<item name="WaterBottle" chance="0.10" />
 		</cargo>
-		<cargo chance="0.33" name="food_custom">	
+		<cargo chance="0.45" name="food_custom">	
 			<item name="BakedBeansCan" chance="0.0357" />
 			<item name="BrisketSpread" chance="0.0357" />
 			<item name="CatFoodCan" chance="0.0357" />
