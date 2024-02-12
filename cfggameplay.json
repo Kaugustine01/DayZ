@@ -45,7 +45,9 @@
     },
     "WorldsData": {
         "lightingConfig": 1,
-        "objectSpawnersArr": [],
+        "objectSpawnersArr": [
+			"./custom/Castle.json"
+		],
         "environmentMinTemps": [
             -3.0,
             -2.0,

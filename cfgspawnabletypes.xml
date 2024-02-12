@@ -4598,6 +4598,9 @@
 		</attachments>
 		<!-- End of B95 attachments -->
 		<attachments chance="1.00">
+			<item name="HandcuffsLocked" chance="1.00" />
+		</attachments>			
+		<attachments chance="1.00">
 			<item name="PlateCarrierVest" chance="1.00" />
 		</attachments>
 		<!-- This is Plate Carrier attachments -->
@@ -4635,6 +4638,9 @@
 		<attachments chance="1.00">
 			<item name="NVGoggles" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>		
 		<attachments chance="1.00">
 			<item name="BalaclavaMask_Black" chance="1.00" />
 		</attachments>
@@ -4713,10 +4719,7 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="FieldShovel" chance="1.00" />
-		</attachments>		
-		<attachments chance="1.00">
-			<item name="HandcuffsLocked" chance="1.00" />
-		</attachments>			
+		</attachments>				
 	</type>	
 <!--
 	<type name="V3S_Chassis">
