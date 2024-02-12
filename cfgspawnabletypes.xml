@@ -4721,6 +4721,140 @@
 			<item name="FieldShovel" chance="1.00" />
 		</attachments>				
 	</type>	
+	<type name="SurvivorM_Peter">	
+		<attachments chance="1.00">
+			<item name="SVD" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>			
+		<attachments chance="1.00">
+			<item name="AK_Suppressor" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="GhillieAtt_Tan" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="PSO1Optic" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="VSS" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="Mag_VAL_20Rnd" chance="1.00" />
+		</attachments>			
+		<attachments chance="1.00">
+			<item name="GhillieAtt_Tan" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="KobraOptic" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>			
+		<attachments chance="1.00">
+			<item name="HandcuffsLocked" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="GhillieHood_Tan" chance="1.00" />
+		</attachments>			
+		<attachments chance="1.00">
+			<item name="NVGHeadstrap" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="NVGoggles" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BalaclavaMask_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierVest" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="PlateCarrierPouches" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="PlateCarrierHolster" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="MilitaryBelt" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="GhillieSuit_Tan" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="HunterPants_Brown" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="HuntingJacket_Brown" chance="1.00" />
+		</attachments>				
+		<attachments chance="1.00">
+			<item name="TacticalGloves_Green" chance="1.00" />
+		</attachments>			
+		<attachments chance="1.00">
+			<item name="JungleBoots_Green" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="NylonKnifeSheath" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CombatKnife" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_VAL_20Rnd" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="AmmoBox_762x54_20Rnd" chance="1.00" />
+		</attachments>			
+		<attachments chance="1.00">
+			<item name="SalineBagIV" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SalineBagIV" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BandageDressing" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Morphine" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Morphine" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Epinephrine" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FieldShovel" chance="1.00" />
+		</attachments>		
+	</type>	
 <!--
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">
