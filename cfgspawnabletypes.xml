@@ -4627,6 +4627,9 @@
 			<item name="MilitaryBelt" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
 			<item name="CargoPants_Black" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
@@ -4712,15 +4715,18 @@
 			<item name="Morphine" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="Epinephrine" chance="1.00" />
+			<item name="SalineBagIV" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Epinephrine" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
+		</attachments>	
 		<attachments chance="1.00">
 			<item name="FieldShovel" chance="1.00" />
-		</attachments>				
-	</type>	
+		</attachments>		
+	</type>
 	<type name="SurvivorM_Peter">	
 		<attachments chance="1.00">
 			<item name="SVD" chance="1.00" />
@@ -4780,8 +4786,17 @@
 			<item name="PlateCarrierPouches" chance="1.00" />
 		</attachments>		
 		<attachments chance="1.00">
-			<item name="PlateCarrierHolster" chance="1.00" />
-		</attachments>	
+			<item name="M67Grenade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M67Grenade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M67Grenade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M67Grenade" chance="1.00" />
+		</attachments>
 		<attachments chance="1.00">
 			<item name="MilitaryBelt" chance="1.00" />
 		</attachments>
@@ -4801,17 +4816,26 @@
 			<item name="TacticalGloves_Green" chance="1.00" />
 		</attachments>			
 		<attachments chance="1.00">
-			<item name="JungleBoots_Green" chance="1.00" />
+			<item name="CombatBoots_Black" chance="1.00" />
 		</attachments>	
 		<attachments chance="1.00">
-			<item name="NylonKnifeSheath" chance="1.00" />
-		</attachments>		
-		<attachments chance="1.00">
 			<item name="CombatKnife" chance="1.00" />
-		</attachments>		
+		</attachments>	
 		<attachments chance="1.00">
 			<item name="Mag_SVD_10Rnd" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_VAL_20Rnd" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="Mag_VAL_20Rnd" chance="1.00" />
+		</attachments>	
 		<attachments chance="1.00">
 			<item name="Mag_VAL_20Rnd" chance="1.00" />
 		</attachments>	
@@ -4820,9 +4844,15 @@
 		</attachments>	
 		<attachments chance="1.00">
 			<item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
+		</attachments>			
+		<attachments chance="1.00">
+			<item name="AmmoBox_9x39AP_20Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="AmmoBox_762x54Tracer_20Rnd" chance="1.00" />
+			<item name="AmmoBox_762x54_20Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AmmoBox_762x54_20Rnd" chance="1.00" />
 		</attachments>	
 		<attachments chance="1.00">
 			<item name="AmmoBox_762x54_20Rnd" chance="1.00" />
@@ -4851,6 +4881,9 @@
 		<attachments chance="1.00">
 			<item name="Epinephrine" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="TacticalBaconCan_Opened" chance="1.00" />
+		</attachments>		
 		<attachments chance="1.00">
 			<item name="FieldShovel" chance="1.00" />
 		</attachments>		
