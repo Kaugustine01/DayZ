@@ -5099,19 +5099,13 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Battery9V" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CivilianBelt" chance="1.00" />
 		</attachments>	
 		<attachments chance="1.00">
-			<item name="AviatorGlasses" chance="1.00" />
-		</attachments>	
-		<attachments chance="1.00">
-			<item name="ManSuit_Black" chance="1.00" />
-		</attachments>	
-		<attachments chance="1.00">
-			<item name="SlacksPants_Black" chance="1.00" />
-		</attachments>			
-		<attachments chance="1.00">
-			<item name="LeatherGloves_Beige" chance="1.00" />
-		</attachments>	
+			<item name="Canteen" chance="1.00" />
+		</attachments>				
 		<!--Plate Carrier Start-->
 		<attachments chance="1.00">
 			<item name="PlateCarrierVest_Black" chance="1.00" />
@@ -5140,18 +5134,24 @@
 		<attachments chance="1.00">
 			<item name="M67Grenade" chance="1.00" />
 		</attachments>				
-		<!--Plate Carrier End-->	
+		<!--Plate Carrier End-->
 		<attachments chance="1.00">
-			<item name="DressShoes_Black" chance="1.00" />
+			<item name="ManSuit_Black" chance="1.00" />
 		</attachments>	
 		<attachments chance="1.00">
-			<item name="CivilianBelt" chance="1.00" />
-		</attachments>	
-		<attachments chance="1.00">
-			<item name="Canteen" chance="1.00" />
+			<item name="SlacksPants_Black" chance="1.00" />
 		</attachments>	
 		<attachments chance="1.00">
 			<item name="Slingbag_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AviatorGlasses" chance="1.00" />
+		</attachments>			
+		<attachments chance="1.00">
+			<item name="LeatherGloves_Black" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="DressShoes_Black" chance="1.00" />
 		</attachments>	
 		<attachments chance="1.00">
 			<item name="Mag_Deagle_9rnd" chance="1.00" />
