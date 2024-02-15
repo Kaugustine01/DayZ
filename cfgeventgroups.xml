@@ -173,7 +173,7 @@
     </group>
     <!--pos x="13590.054" z="11515.854" a="0" y="13.902" group="Train_Accident_Rify"/-->
     <group name="Train_Accident_Rify">
-        <child type="StaticObj_Wreck_Train_742_Red_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" a="31.971" y="1.9"/>
+ <child type="StaticObj_Wreck_Train_742_Red_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" a="31.971" y="1.9"/>
         <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="5.215" z="3.712" a="359.098"/>
         <child type="Land_wreck_truck01_aban2_blue_DE" deloot="0" lootmax="3" lootmin="1" x="5.169" z="3.995" a="182.158" y="-0.122"/>
         <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="-20.735" z="-30.501" a="30.811" y="1.418"/>
