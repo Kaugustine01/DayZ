@@ -4968,7 +4968,7 @@
 			<item name="LeatherPants_Brown" chance="1.00" />
 		</attachments>	
 		<attachments chance="1.00">
-			<item name="LeatherBelt_Brown" chance="1.00" />
+			<item name="CivilianBelt" chance="1.00" />
 		</attachments>	
 		<attachments chance="1.00">
 			<item name="Canteen" chance="1.00" />
