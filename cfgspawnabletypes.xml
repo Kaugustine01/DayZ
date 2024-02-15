@@ -4915,10 +4915,7 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="HuntingOptic" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Ammo_308Win" chance="1.00" />
-		</attachments>			
+		</attachments>		
 		<!--Tundra End-->	
 		<attachments chance="1.00">
 			<item name="HandcuffsLocked" chance="1.00" />
@@ -4938,7 +4935,19 @@
 		</attachments>	
 		<attachments chance="1.00">
 			<item name="PlateCarrierPouches" chance="1.00" />
-		</attachments>			
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M67Grenade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M67Grenade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M67Grenade" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M67Grenade" chance="1.00" />
+		</attachments>		
 		<attachments chance="1.00">
 			<item name="PlateCarrierHolster" chance="1.00" />
 		</attachments>			
@@ -4962,7 +4971,16 @@
 			<item name="LeatherBelt_Brown" chance="1.00" />
 		</attachments>	
 		<attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
 			<item name="MedievalBoots" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="LeatherSack_Brown" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="LeatherGloves_Brown" chance="1.00" />
 		</attachments>		
 		<attachments chance="1.00">
 			<item name="Rope" chance="1.00" />
@@ -4989,6 +5007,9 @@
 			<item name="AmmoBox_762x39_20Rnd" chance="1.00" />
 		</attachments>		
 		<attachments chance="1.00">
+			<item name="Ammo_308Win" chance="1.00" />
+		</attachments>			
+		<attachments chance="1.00">
 			<item name="AmmoBox_308Win_20Rnd" chance="1.00" />
 		</attachments>	
 		<attachments chance="1.00">
@@ -4997,6 +5018,9 @@
 		<attachments chance="1.00">
 			<item name="AmmoBox_308Win_20Rnd" chance="1.00" />
 		</attachments>	
+		<attachments chance="1.00">
+			<item name="Mag_AKM_Drum75Rnd" chance="1.00" />
+		</attachments>			
 		<attachments chance="1.00">
 			<item name="SalineBagIV" chance="1.00" />
 		</attachments>
@@ -5027,7 +5051,7 @@
 		<attachments chance="1.00">
 			<item name="FieldShovel" chance="1.00" />
 		</attachments>			
-	</type>	
+	</type>
 <!--
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">
