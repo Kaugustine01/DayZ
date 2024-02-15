@@ -4583,8 +4583,8 @@
 			<item name="M4_Suppressor" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="ACOGOptic_6x" chance="1.00" />
-		</attachments>
+			<item name="ACOGOptic" chance="1.00" />
+		</attachments>	
 		<attachments chance="1.00">
 			<item name="Mag_STANAG_60Rnd" chance="1.00" />
 		</attachments>
@@ -4599,7 +4599,28 @@
 		<!-- End of B95 attachments -->
 		<attachments chance="1.00">
 			<item name="HandcuffsLocked" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Mich2001Helmet" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NVGoggles" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="MilitaryBelt" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="NylonKnifeSheath" chance="1.00" />
 		</attachments>			
+		<attachments chance="1.00">
+			<item name="CombatKnife" chance="1.00" />
+		</attachments>					
 		<attachments chance="1.00">
 			<item name="PlateCarrierVest" chance="1.00" />
 		</attachments>
@@ -4622,27 +4643,12 @@
 		<!-- End of Plate Carrier attachments -->
 		<attachments chance="1.00">
 			<item name="TacticalShirt_Black" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="MilitaryBelt" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Canteen" chance="1.00" />
-		</attachments>		
+		</attachments>	
 		<attachments chance="1.00">
 			<item name="CargoPants_Black" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AssaultBag_Black" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Mich2001Helmet" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="NVGoggles" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Battery9V" chance="1.00" />
 		</attachments>		
 		<attachments chance="1.00">
 			<item name="BalaclavaMask_Black" chance="1.00" />
@@ -4763,7 +4769,7 @@
 		</attachments>			
 		<attachments chance="1.00">
 			<item name="HandcuffsLocked" chance="1.00" />
-		</attachments>	
+		</attachments>		
 		<attachments chance="1.00">
 			<item name="GhillieHood_Tan" chance="1.00" />
 		</attachments>			
@@ -4776,6 +4782,18 @@
 		<attachments chance="1.00">
 			<item name="Battery9V" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="MilitaryBelt" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="NylonKnifeSheath" chance="1.00" />
+		</attachments>			
+		<attachments chance="1.00">
+			<item name="CombatKnife" chance="1.00" />
+		</attachments>					
 		<attachments chance="1.00">
 			<item name="BalaclavaMask_Green" chance="1.00" />
 		</attachments>
@@ -4798,12 +4816,6 @@
 			<item name="M67Grenade" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="MilitaryBelt" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
-			<item name="Canteen" chance="1.00" />
-		</attachments>
-		<attachments chance="1.00">
 			<item name="GhillieSuit_Tan" chance="1.00" />
 		</attachments>		
 		<attachments chance="1.00">
@@ -4817,9 +4829,6 @@
 		</attachments>			
 		<attachments chance="1.00">
 			<item name="CombatBoots_Black" chance="1.00" />
-		</attachments>	
-		<attachments chance="1.00">
-			<item name="CombatKnife" chance="1.00" />
 		</attachments>	
 		<attachments chance="1.00">
 			<item name="Mag_SVD_10Rnd" chance="1.00" />
@@ -4928,7 +4937,19 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Battery9V" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="CivilianBelt" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="Canteen" chance="1.00" />
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="LeatherKnifeSheath" chance="1.00" />
 		</attachments>			
+		<attachments chance="1.00">
+			<item name="CombatKnife" chance="1.00" />
+		</attachments>						
 		<!--Plate Carrier Start-->	
 		<attachments chance="1.00">
 			<item name="PlateCarrierVest" chance="1.00" />
@@ -4953,10 +4974,7 @@
 		</attachments>			
 		<attachments chance="1.00">
 			<item name="Magnum" chance="1.00" />
-		</attachments>	
-		<attachments chance="1.00">
-			<item name="Ammo_357" chance="1.00" />
-		</attachments>			
+		</attachments>		
 		<!--Plate Carrier End-->		
 		<attachments chance="1.00">
 			<item name="CowboyHat_Brown" chance="1.00" />
@@ -4966,12 +4984,6 @@
 		</attachments>			
 		<attachments chance="1.00">
 			<item name="LeatherPants_Brown" chance="1.00" />
-		</attachments>	
-		<attachments chance="1.00">
-			<item name="CivilianBelt" chance="1.00" />
-		</attachments>	
-		<attachments chance="1.00">
-			<item name="Canteen" chance="1.00" />
 		</attachments>		
 		<attachments chance="1.00">
 			<item name="MedievalBoots" chance="1.00" />
@@ -4990,7 +5002,10 @@
 		</attachments>	
 		<attachments chance="1.00">
 			<item name="DuctTape" chance="1.00" />
-		</attachments>		
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="Ammo_357" chance="1.00" />
+		</attachments>					
 		<attachments chance="1.00">
 			<item name="AmmoBox_357_20Rnd" chance="1.00" />
 		</attachments>		
@@ -5067,7 +5082,7 @@
 			<item name="M4_Suppressor" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="ACOGOptic_6x" chance="1.00" />
+			<item name="ACOGOptic" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="Mag_STANAG_60Rnd" chance="1.00" />
@@ -5105,7 +5120,16 @@
 		</attachments>	
 		<attachments chance="1.00">
 			<item name="Canteen" chance="1.00" />
-		</attachments>				
+		</attachments>	
+		<attachments chance="1.00">
+			<item name="NylonKnifeSheath" chance="1.00" />
+		</attachments>			
+		<attachments chance="1.00">
+			<item name="CombatKnife" chance="1.00" />
+		</attachments>			
+		<attachments chance="1.00">
+			<item name="BalaclavaMask_Blackskull" chance="1.00" />
+		</attachments>
 		<!--Plate Carrier Start-->
 		<attachments chance="1.00">
 			<item name="PlateCarrierVest_Black" chance="1.00" />
@@ -5116,6 +5140,15 @@
 		<attachments chance="1.00">
 			<item name="Deagle_Gold" chance="1.00" />	
 		</attachments>	
+		<attachments chance="1.00">
+			<item name="PistolSuppressor" chance="1.00" />	
+		</attachments>
+		<attachments chance="1.00">
+			<item name="FNP45_MRDSOptic" chance="1.00" />	
+		</attachments>		
+		<attachments chance="1.00">
+			<item name="Battery9V" chance="1.00" />	
+		</attachments>			
 		<attachments chance="1.00">
 			<item name="Mag_Deagle_9rnd" chance="1.00" />
 		</attachments>		
