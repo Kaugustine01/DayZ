@@ -46,6 +46,7 @@
     "WorldsData": {
         "lightingConfig": 1,
         "objectSpawnersArr": [
+            "./custom/NWAFCastle.json"
         ],
         "environmentMinTemps": [
             -3.0,
