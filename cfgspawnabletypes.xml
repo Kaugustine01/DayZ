@@ -4352,6 +4352,9 @@
 		<attachments chance="1.00">
 			<item name="Truck_01_WheelDouble" chance="1" />
 		</attachments>
+	   <attachments chance="1.00">
+			<item name="TruckBattery" chance="1" />
+		</attachments>		
 		<attachments chance="1.00">
 			<item name="HeadlightH7" chance="1" />
 		</attachments>
@@ -4368,161 +4371,8 @@
 			<item name="Truck_01_Door_2_1_Blue" chance="1" />
 		</attachments>	
 		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="FireworksLauncher" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>		
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>		
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>													
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>		
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>		
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>	
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="PetrolLighter" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="StarlightOptic" chance="1.00" />
-		</cargo>
-		<cargo chance="1.00">
-			<item name="KazuarOptic" chance="1.00" />
-		</cargo>				
+			<item name="CanisterGasoline" chance="1.00" />
+		</cargo> 
 	</type>
 	<type name="Truck_01_Covered_Orange">
 		<attachments chance="1.00">

@@ -1,54 +1,225 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <playerspawnpoints>
-
     <fresh>
-        <!-- runtime parameters used when player is spawning -->
         <spawn_params>
-            <!-- used to rate point against infected -->
-            <min_dist_infected>30.0</min_dist_infected>
-            <max_dist_infected>70.0</max_dist_infected>
-            <!-- used to rate point against other players -->
-            <min_dist_player>25.0</min_dist_player>
-            <max_dist_player>70.0</max_dist_player>
-            <!-- used to rate point against buildings -->
-            <min_dist_static>0.5</min_dist_static>
-            <max_dist_static>2.0</max_dist_static>
+            <min_dist_infected>30</min_dist_infected>
+            <max_dist_infected>70</max_dist_infected>
+            <min_dist_player>65</min_dist_player>
+            <max_dist_player>150</max_dist_player>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
         </spawn_params>
-
-         <generator_params>
-             <grid_density>8</grid_density>
-            <!-- total width of grid in metres -->
-            <grid_width>40.0</grid_width>
-            <!-- total height of grid in metres -->
-            <grid_height>40.0</grid_height>
-            <!--  minimum distance from buildings for valid spawn point -->
-            <min_dist_static>0.5</min_dist_static>
-            <!--  maximum distance from buildings used to rate valid spawn point -->
-            <max_dist_static>2.0</max_dist_static>
-            <!-- terrain slope limits for valid spawn point -->
+        <generator_params>
+            <grid_density>4</grid_density>
+            <grid_width>200</grid_width>
+            <grid_height>200</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
             <min_steepness>-45</min_steepness>
             <max_steepness>45</max_steepness>
         </generator_params>
-
-        <!-- centers for grids of spawn points -->
+        <group_params>
+            <enablegroups>true</enablegroups>
+            <lifetime>360</lifetime>
+            <counter>-1</counter>
+        </group_params>
         <generator_posbubbles>
-            <group name="VMC">
-                <pos x="4398" z="8211" />
-            </group>		
+            <group name="North">
+                <pos x="8757.742" z="11875.513" />
+                <pos x="13404.373" z="14722.688" />
+                <pos x="5689.945" z="11852.006" />
+                <pos x="5744.804" z="9286.175" />
+                <pos x="7517.877" z="14048.492" />
+                <pos x="11581.700" z="14614.000" />
+                <pos x="7729.012" z="12629.849" />
+                <pos x="6582.245" z="7508.025" />
+                <pos x="5346.021" z="14484.883" />
+                <pos x="9434.659" z="13915.317" />
+            </group>
+            <group name="East">
+                <pos x="11909.426" z="6432.040" />
+                <pos x="8138.609" z="8564.824" />
+                <pos x="12932.872" z="10189.173" />
+                <pos x="13580.554" z="11766.809" />
+                <pos x="10545.377" z="10260.771" />
+                <pos x="10448.940" z="8882.513" />
+                <pos x="11087.840" z="12478.969" />
+                <pos x="13103.048" z="7345.300" />
+                <pos x="13378.349" z="5439.850" />
+                <pos x="9940.60" z="6460.56" />
+            </group>
+            <group name="South">    
+                <pos x="10400.112" z="2237.542" />
+                <pos x="4888.580" z="2784.829" />
+                <pos x="6906.814" z="3086.961" />
+                <pos x="6447.458" z="2552.698" />
+                <pos x="12873.966" z="3729.957" />
+                <pos x="7512.342" z="4660.855" />
+                <pos x="9044.078" z="4934.135" />
+                <pos x="5828.543" z="5954.523" />
+                <pos x="10670.524" z="4568.996" />
+                <pos x="4927.973" z="7844.380" />
+            </group>
+            <group name="West">    
+                <pos x="2686.302" z="5229.044" />
+                <pos x="3433.691" z="3953.545" />
+                <pos x="1894.825" z="2126.238" />
+                <pos x="4523.444" z="4489.846" />
+                <pos x="2515.404" z="9651.739" />
+                <pos x="3570.656" z="13899.145" />
+                <pos x="4711.930" z="6356.809" />
+                <pos x="1493.279" z="11113.760" />
+                <pos x="2244.152" z="12250.476" />
+                <pos x="3518.464" z="9122.509" />
+            </group>
         </generator_posbubbles>
     </fresh>
     <hop>
+        <spawn_params>
+            <min_dist_infected>30.0</min_dist_infected>
+            <max_dist_infected>70.0</max_dist_infected>
+            <min_dist_player>25.0</min_dist_player>
+            <max_dist_player>70.0</max_dist_player>
+            <min_dist_static>0.5</min_dist_static>
+            <max_dist_static>2.0</max_dist_static>
+        </spawn_params>
+        <generator_params>
+            <grid_density>4</grid_density>
+            <grid_width>150</grid_width>
+            <grid_height>150</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+        <group_params>
+            <enablegroups>true</enablegroups>
+            <lifetime>360</lifetime>
+            <counter>-1</counter>
+        </group_params>
         <generator_posbubbles>
-            <group name="VMC">
-                <pos x="4398" z="8211" />
-            </group>				
+            <group name="North">
+                <pos x="8757.742" z="11875.513" />
+                <pos x="13404.373" z="14722.688" />
+                <pos x="5689.945" z="11852.006" />
+                <pos x="5744.804" z="9286.175" />
+                <pos x="7517.877" z="14048.492" />
+                <pos x="11581.700" z="14614.000" />
+                <pos x="7729.012" z="12629.849" />
+                <pos x="6582.245" z="7508.025" />
+                <pos x="5346.021" z="14484.883" />
+                <pos x="9434.659" z="13915.317" />
+            </group>
+            <group name="East">
+                <pos x="11909.426" z="6432.040" />
+                <pos x="8138.609" z="8564.824" />
+                <pos x="12932.872" z="10189.173" />
+                <pos x="13580.554" z="11766.809" />
+                <pos x="10545.377" z="10260.771" />
+                <pos x="10448.940" z="8882.513" />
+                <pos x="11087.840" z="12478.969" />
+                <pos x="13103.048" z="7345.300" />
+                <pos x="13378.349" z="5439.850" />
+                <pos x="9940.60" z="6460.56" />
+            </group>
+            <group name="South">    
+                <pos x="10400.112" z="2237.542" />
+                <pos x="4888.580" z="2784.829" />
+                <pos x="6906.814" z="3086.961" />
+                <pos x="6447.458" z="2552.698" />
+                <pos x="12873.966" z="3729.957" />
+                <pos x="7512.342" z="4660.855" />
+                <pos x="9044.078" z="4934.135" />
+                <pos x="5828.543" z="5954.523" />
+                <pos x="10670.524" z="4568.996" />
+                <pos x="4927.973" z="7844.380" />
+            </group>
+            <group name="West">    
+                <pos x="2686.302" z="5229.044" />
+                <pos x="3433.691" z="3953.545" />
+                <pos x="1894.825" z="2126.238" />
+                <pos x="4523.444" z="4489.846" />
+                <pos x="2515.404" z="9651.739" />
+                <pos x="3570.656" z="13899.145" />
+                <pos x="4711.930" z="6356.809" />
+                <pos x="1493.279" z="11113.760" />
+                <pos x="2244.152" z="12250.476" />
+                <pos x="3518.464" z="9122.509" />
+            </group>
         </generator_posbubbles>
     </hop>
     <travel>
+        <spawn_params>
+            <min_dist_infected>30.0</min_dist_infected>
+            <max_dist_infected>70.0</max_dist_infected>
+            <min_dist_player>25.0</min_dist_player>
+            <max_dist_player>70.0</max_dist_player>
+            <min_dist_static>0.5</min_dist_static>
+            <max_dist_static>2.0</max_dist_static>
+        </spawn_params>
+       <generator_params>
+            <grid_density>4</grid_density>
+            <grid_width>150</grid_width>
+            <grid_height>150</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+        <group_params>
+            <enablegroups>true</enablegroups>
+            <lifetime>360</lifetime>
+            <counter>-1</counter>
+        </group_params>
         <generator_posbubbles>
-            <group name="VMC">
-                <pos x="4398" z="8211" />
-            </group> 				
+            <group name="North">
+                <pos x="8757.742" z="11875.513" />
+                <pos x="13404.373" z="14722.688" />
+                <pos x="5689.945" z="11852.006" />
+                <pos x="5744.804" z="9286.175" />
+                <pos x="7517.877" z="14048.492" />
+                <pos x="11581.700" z="14614.000" />
+                <pos x="7729.012" z="12629.849" />
+                <pos x="6582.245" z="7508.025" />
+                <pos x="5346.021" z="14484.883" />
+                <pos x="9434.659" z="13915.317" />
+            </group>
+            <group name="East">
+                <pos x="11909.426" z="6432.040" />
+                <pos x="8138.609" z="8564.824" />
+                <pos x="12932.872" z="10189.173" />
+                <pos x="13580.554" z="11766.809" />
+                <pos x="10545.377" z="10260.771" />
+                <pos x="10448.940" z="8882.513" />
+                <pos x="11087.840" z="12478.969" />
+                <pos x="13103.048" z="7345.300" />
+                <pos x="13378.349" z="5439.850" />
+                <pos x="9940.60" z="6460.56" />
+            </group>
+            <group name="South">    
+                <pos x="10400.112" z="2237.542" />
+                <pos x="4888.580" z="2784.829" />
+                <pos x="6906.814" z="3086.961" />
+                <pos x="6447.458" z="2552.698" />
+                <pos x="12873.966" z="3729.957" />
+                <pos x="7512.342" z="4660.855" />
+                <pos x="9044.078" z="4934.135" />
+                <pos x="5828.543" z="5954.523" />
+                <pos x="10670.524" z="4568.996" />
+                <pos x="4927.973" z="7844.380" />
+            </group>
+            <group name="West">    
+                <pos x="2686.302" z="5229.044" />
+                <pos x="3433.691" z="3953.545" />
+                <pos x="1894.825" z="2126.238" />
+                <pos x="4523.444" z="4489.846" />
+                <pos x="2515.404" z="9651.739" />
+                <pos x="3570.656" z="13899.145" />
+                <pos x="4711.930" z="6356.809" />
+                <pos x="1493.279" z="11113.760" />
+                <pos x="2244.152" z="12250.476" />
+                <pos x="3518.464" z="9122.509" />
+            </group>
         </generator_posbubbles>
     </travel>
 </playerspawnpoints>
