@@ -5252,7 +5252,20 @@
 		<attachments chance="1.00">
 			<item name="FieldShovel" chance="1.00" />
 		</attachments>		
-	</type>			
+	</type>	
+
+	<!--1.24-->
+    <type name="Vikhr">
+        <attachments chance="0.25">
+            <item name="KashtanOptic" chance="0.50" />
+            <item name="PSO1Optic" chance="0.50" />
+        </attachments>
+        <attachments chance="0.35">
+            <item name="Mag_VSS_10Rnd" chance="0.50" />
+            <item name="Mag_VAL_20Rnd" chance="0.35" />
+            <item name="Mag_Vikhr_30Rnd" chance="0.15" />
+        </attachments>
+    </type>
 <!--
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">
