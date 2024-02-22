@@ -2599,12 +2599,12 @@
 			<item name="PSO11Optic" chance="1.00" />
 		</attachments>
 		<attachments chance="1.0">
-			<item name="Mag_VSS_10Rnd" chance="1.00" />
+			<item name="Mag_Vikhr_30Rnd" chance="1.00" />
 		</attachments>
 	</type>	
 	<type name="ASVAL">
 		<attachments chance="1.0">
-			<item name="Mag_VAL_20Rnd" chance="1.00" />
+			<item name="Mag_Vikhr_30Rnd" chance="1.00" />
 		</attachments>
 		<attachments chance="1.0">
 			<item name="BUISOptic" chance="0.20" />
@@ -5260,6 +5260,9 @@
             <item name="KashtanOptic" chance="0.50" />
             <item name="PSO1Optic" chance="0.50" />
         </attachments>
+        <attachments chance="1.0">
+            <item name="Battery9V" chance="1.0" />
+        </attachments>		
         <attachments chance="1.0">
             <item name="Mag_Vikhr_30Rnd" chance="1.0" />
         </attachments>
