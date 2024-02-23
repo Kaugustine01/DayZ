@@ -2913,7 +2913,8 @@
 			<item name="Mag_CZ550_10rnd" chance="1.00" />
 		</attachments>
 	</type>
-	<type name="PP19">
+	<!--Bizon-->
+	<type name="PP19"> 
 		<attachments chance="1.0">
 			<item name="PistolSuppressor" chance="1.00" />
 		</attachments>
@@ -2925,6 +2926,9 @@
 			<item name="PSO1Optic" chance="0.30" />
 			<item name="KobraOptic" chance="0.40" />
 		</attachments>
+		<attachments chance="1.0">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>		
 		<attachments chance="1.0">
 			<item name="Mag_PP19_64Rnd" chance="1.00" />
 		</attachments>

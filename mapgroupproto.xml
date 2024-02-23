@@ -12722,7 +12722,7 @@
 				<usage name="Military" />	
 				<usage name="Convoy" />						
 				<container name="lootFloor" lootmax="20">	
-						<category name="heli" />
+						<category name="m4a1" />
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />						
@@ -12759,7 +12759,7 @@
 				<usage name="Military" />
 				<usage name="Convoy" />				
 				<container name="lootFloor" lootmax="20">
-						<category name="heli" />	
+						<category name="m4a1" />	
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />
@@ -12805,7 +12805,7 @@
 				<usage name="Military" />
 				<usage name="Convoy" />						
 				<container name="lootFloor" lootmax="20">	
-						<category name="heli" />		
+						<category name="m4a1" />		
 						<category name="tools" />
 						<category name="containers" />
 						<category name="clothes" />						
@@ -16592,12 +16592,14 @@
 						<proxy type="Truck_01_WheelDouble" pos="1.420045 0.429993 0.959693" rpy="0.000000 185.724426 0.000000" dechance="0.000000" />
 				</dispatch>
 		</group>		
-		<group name="Bonfire" lootmax="8">
+		<group name="Bonfire" lootmax="15">
 				<usage name="SeasonalEvent" />
 				<usage name="Firefighter" />
+				<usage name="Military" />
 				<usage name="Convoy" />				
-				<container name="lootFloor" lootmax="5">
-						<category name="heli" />
+				<container name="lootFloor" lootmax="15">
+						<category name="m4a1" />
+						<category name="weapons" />
 						<point pos="2.876667 0.5 3.211807" range="1.65" height="1.5" flags="32" />
 						<point pos="2.496737 0.5 -3.174454" range="1.65" height="1.5" flags="32" />
 						<point pos="-3.760472 0.5 3.067368" range="1.65" height="1.5" flags="32" />

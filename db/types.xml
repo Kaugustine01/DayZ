@@ -11524,27 +11524,27 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="M4A1_Black">
-        <nominal>10</nominal>
+        <nominal>150</nominal>
         <lifetime>3603</lifetime>
         <restock>3600</restock>
-        <min>8</min>
+        <min>150</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="heli"/>
+        <category name="m4a1"/>
         <usage name="Convoy"/>		
     </type>
     <type name="M4A1_Green">
-        <nominal>10</nominal>
+        <nominal>150</nominal>
         <lifetime>3603</lifetime>
         <restock>3600</restock>
-        <min>8</min>
+        <min>150</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/> 
-        <category name="heli"/>
+        <category name="m4a1"/>
         <usage name="Convoy"/>
     </type>
     <type name="M4_CQBBttstck">
@@ -14105,7 +14105,8 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
-    <type name="PP19">
+    <!--Bizon-->
+    <type name="PP19"> 
         <nominal>80</nominal>
         <lifetime>7201</lifetime>
         <restock>3600</restock>
