@@ -1,0 +1,6878 @@
+[
+	{
+		"id": 37916,
+		"name": "Planks",
+		"price": "1200",
+		"category": "Supplies",
+		"hidden": false,
+		"types": [
+			"PileOfWoodenPlanks",
+			"Chainsaw",
+			"Battery9V",
+			"CanisterGasoline",
+			"ElectronicRepairKit"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37918,
+		"name": "Bolts",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Ammo_HuntingBolt",
+			"Ammo_HuntingBolt",
+			"Ammo_HuntingBolt",
+			"Ammo_HuntingBolt",
+			"Ammo_HuntingBolt"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37919,
+		"name": "Box 22",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AmmoBox_22_50Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37920,
+		"name": "Box 380",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37921,
+		"name": "Box 545x39",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AmmoBox_545x39_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37922,
+		"name": "Box 9x19",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AmmoBox_9x19_25rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37923,
+		"name": "Box 45",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Ammo_45ACP"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37924,
+		"name": "Box 9x39 AP",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AmmoBox_9x39AP_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37925,
+		"name": "Box 762x39",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AmmoBox_762x39_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37926,
+		"name": "Box 762x39 tracer",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AmmoBox_762x39Tracer_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37927,
+		"name": "Box 556x45",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AmmoBox_556x45_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37928,
+		"name": "Box 545x39 tracer",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AmmoBox_545x39Tracer_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37929,
+		"name": "Box 357",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AmmoBox_357_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37930,
+		"name": "Box 308",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AmmoBox_308Win_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37931,
+		"name": "Box 308 tracer",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AmmoBox_308WinTracer_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37932,
+		"name": "Box 556x45 tracer",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AmmoBox_556x45Tracer_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37933,
+		"name": "Box 762x54",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AmmoBox_762x54_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37934,
+		"name": "Box 762x54 tracer",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AmmoBox_762x54Tracer_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37935,
+		"name": "Box 12GA 00",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AmmoBox_00buck_10rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37936,
+		"name": "Box 12GA Slug",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AmmoBox_12gaSlug_10Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37937,
+		"name": "Box 12GA Rubber",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AmmoBox_12gaRubberSlug_10Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37938,
+		"name": "Bottle Suppressor",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"ImprovisedSuppressor"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37939,
+		"name": "Normalized Suppressor",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AK_Suppressor"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37940,
+		"name": "Standardized Suppressor",
+		"price": "50",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"M4_Suppressor"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37941,
+		"name": "EGD-2 Smoke Grenade black",
+		"price": "50",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"RDG2SmokeGrenade_Black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37942,
+		"name": "EGD-2 Smoke Grenade white",
+		"price": "50",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"RDG2SmokeGrenade_White"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37943,
+		"name": "M8 Smoke Grenade red",
+		"price": "50",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"M18SmokeGrenade_Red",
+			"ZmbM_Santa"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37944,
+		"name": "M8 Smoke Grenade green",
+		"price": "50",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"M18SmokeGrenade_Green"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37945,
+		"name": "M8 Smoke Grenade white",
+		"price": "50",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"M18SmokeGrenade_White",
+			"ZmbM_Santa"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37946,
+		"name": "M8 Smoke Grenade purple",
+		"price": "50",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"M18SmokeGrenade_Purple",
+			"ZmbM_Santa"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37947,
+		"name": "M8 Smoke Grenade yellow",
+		"price": "50",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"M18SmokeGrenade_Yellow"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37948,
+		"name": "40mm Smoke Grenade red",
+		"price": "50",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Ammo_40mm_Smoke_Red"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37949,
+		"name": "40mm Smoke Grenade black",
+		"price": "50",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"Ammo_40mm_Smoke_Black",
+			"ZmbM_Santa"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37950,
+		"name": "40mm Smoke Grenade green",
+		"price": "50",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Ammo_40mm_Smoke_Green"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37951,
+		"name": "40mm Smoke Grenade white",
+		"price": "50",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Ammo_40mm_Smoke_White"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37952,
+		"name": "Remote Detonator",
+		"price": "50",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"RemoteDetonator",
+			"ZmbM_Santa"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37953,
+		"name": "Land Mine",
+		"price": "100",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"LandMineTrap"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37954,
+		"name": "EGD-5 Frag Grenade",
+		"price": "100",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"RGD5Grenade"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37956,
+		"name": "8-M4 Flashbang",
+		"price": "50",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"FlashGrenade"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37957,
+		"name": "Claymore w/Detonator",
+		"price": "150",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"ClaymoreMine"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37958,
+		"name": "PO-X Vial",
+		"price": "150",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Grenade_ChemGas"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37959,
+		"name": "40mm Explosive Grenade",
+		"price": "150",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Ammo_40mm_Explosive"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37960,
+		"name": "40mm PO-X Grenade",
+		"price": "150",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Ammo_40mm_ChemGas"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37961,
+		"name": "IED w/Detonator and case",
+		"price": "1000",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"ImprovisedExplosive",
+			"Plastic_Explosive",
+			"Plastic_Explosive",
+			"RemoteDetonator"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37962,
+		"name": "KA Bayonet",
+		"price": "50",
+		"category": "Melee",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AK_Bayonet"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37963,
+		"name": "M4-A1 Bayonet",
+		"price": "50",
+		"category": "Melee",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"M9A1_Bayonet"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37964,
+		"name": "Mosin 91/30 Bayonet",
+		"price": "50",
+		"category": "Melee",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Mosin_Bayonet"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37965,
+		"name": "SK 59/66 Bayonet",
+		"price": "50",
+		"category": "Melee",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"SKS_Bayonet"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37966,
+		"name": "Cleaver",
+		"price": "50",
+		"category": "Melee",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Cleaver"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37967,
+		"name": "Combat Knife",
+		"price": "50",
+		"category": "Melee",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"CombatKnife"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37968,
+		"name": "Crude Machete",
+		"price": "50",
+		"category": "Melee",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"CrudeMachete"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37969,
+		"name": "Fange",
+		"price": "50",
+		"category": "Melee",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"FangeKnife"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37970,
+		"name": "Hunting Knife",
+		"price": "50",
+		"category": "Melee",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HuntingKnife"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37971,
+		"name": "Kitchen Knife",
+		"price": "50",
+		"category": "Melee",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"KitchenKnife"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37972,
+		"name": "Kukri",
+		"price": "50",
+		"category": "Melee",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"KukriKnife"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37973,
+		"name": "Machete",
+		"price": "50",
+		"category": "Melee",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Machete"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37974,
+		"name": "Oriental Machete",
+		"price": "50",
+		"category": "Melee",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"OrientalMachete"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37975,
+		"name": "Steak Knife",
+		"price": "50",
+		"category": "Melee",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"SteakKnife"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37976,
+		"name": "Sickle",
+		"price": "50",
+		"category": "Melee",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Sickle"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37977,
+		"name": "Sword",
+		"price": "50",
+		"category": "Melee",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Sword"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37978,
+		"name": "Mace",
+		"price": "50",
+		"category": "Melee",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Mace"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37979,
+		"name": "Baseball Bat",
+		"price": "50",
+		"category": "Melee",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BaseballBat"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37980,
+		"name": "Brass Knuckles",
+		"price": "50",
+		"category": "Melee",
+		"hidden": false,
+		"types": [
+			"BrassKnuckles_Shiny",
+			"ZmbM_Santa"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37982,
+		"name": "Derringer",
+		"price": "100",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Derringer_Black",
+			"AmmoBox_357_20Rnd",
+			"AmmoBox_357_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37983,
+		"name": "IJ-70",
+		"price": "100",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"MakarovIJ70",
+			"Mag_IJ70_8Rnd",
+			"Mag_IJ70_8Rnd",
+			"AmmoBox_380_35rnd",
+			"AmmoBox_380_35rnd",
+			"PistolSuppressor"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37985,
+		"name": "P1",
+		"price": "100",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"P1",
+			"Mag_P1_8Rnd",
+			"Mag_P1_8Rnd",
+			"AmmoBox_9x19_25rnd",
+			"AmmoBox_9x19_25rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37986,
+		"name": "Mlock-91",
+		"price": "100",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Glock19",
+			"AmmoBox_9x19_25rnd",
+			"PistolSuppressor",
+			"Mag_Glock_15Rnd",
+			"Mag_Glock_15Rnd",
+			"AmmoBox_9x19_25rnd",
+			"FNP45_MRDSOptic",
+			"Battery9V",
+			"TLRLight",
+			"Battery9V"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37988,
+		"name": "Revolver",
+		"price": "200",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Magnum",
+			"AmmoBox_357_20Rnd",
+			"AmmoBox_357_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37989,
+		"name": "Kolt 1911",
+		"price": "200",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Mag_1911_7Rnd",
+			"Mag_1911_7Rnd",
+			"PistolSuppressor",
+			"Colt1911",
+			"TLRLight",
+			"Battery9V",
+			"AmmoBox_45ACP_25rnd",
+			"AmmoBox_45ACP_25rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37990,
+		"name": "Longhorn",
+		"price": "200",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"LongHorn",
+			"HuntingOptic",
+			"AmmoBox_308Win_20Rnd",
+			"AmmoBox_308Win_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37991,
+		"name": "BK-133",
+		"price": "300",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Mp133Shotgun",
+			"AmmoBox_12gaSlug_10Rnd",
+			"AmmoBox_12gaSlug_10Rnd",
+			"FNP45_MRDSOptic",
+			"Battery9V"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37995,
+		"name": "Repeater Carbine",
+		"price": "300",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Repeater",
+			"AmmoBox_357_20Rnd",
+			"AmmoBox_357_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37996,
+		"name": "Sporter 22",
+		"price": "300",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Ruger1022",
+			"Mag_Ruger1022_30Rnd",
+			"Mag_Ruger1022_30Rnd",
+			"AmmoBox_22_50Rnd",
+			"HuntingOptic"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37997,
+		"name": "Cross Bow autumn",
+		"price": "300",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Crossbow_Autumn",
+			"Ammo_HuntingBolt",
+			"Ammo_HuntingBolt"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37998,
+		"name": "Cross Bow spring",
+		"price": "300",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Crossbow_Wood",
+			"Ammo_HuntingBolt",
+			"Ammo_HuntingBolt"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37999,
+		"name": "Cross Bow summer",
+		"price": "300",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Crossbow_Summer",
+			"Ammo_HuntingBolt",
+			"Ammo_HuntingBolt"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38000,
+		"name": "Cross Bow black",
+		"price": "300",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Crossbow_Black",
+			"Ammo_HuntingBolt",
+			"Ammo_HuntingBolt"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38001,
+		"name": "Bizon",
+		"price": "400",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"PP19",
+			"PP19_Bttstck",
+			"PistolSuppressor",
+			"KobraOptic",
+			"Mag_PP19_64Rnd",
+			"Mag_PP19_64Rnd",
+			"AmmoBox_380_35rnd",
+			"Battery9V",
+			"AmmoBox_380_35rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38002,
+		"name": "Builder",
+		"price": "2000",
+		"category": "Supplies",
+		"hidden": false,
+		"types": [
+			"PileOfWoodenPlanks",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"Hatchet",
+			"Hatchet",
+			"Whetstone",
+			"Whetstone",
+			"Shovel",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"MetalWire",
+			"CombinationLock4",
+			"Hacksaw",
+			"WoodAxe",
+			"Pliers",
+			"FenceKit",
+			"WatchtowerKit"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38003,
+		"name": "Plastic Explosive",
+		"price": "400",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"Plastic_Explosive",
+			"ZmbM_Santa"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38005,
+		"name": "NBC Suit",
+		"price": "1200",
+		"category": "Kits",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"NBCHoodYellow",
+			"NBCJacketYellow",
+			"NBCPantsYellow",
+			"NBCGlovesYellow",
+			"NBCBootsYellow",
+			"GP5GasMask",
+			"GasMask_Filter_Improvised",
+			"GasMask_Filter_Improvised"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38006,
+		"name": "M70 Tundra",
+		"price": "750",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Winchester70",
+			"HuntingOptic",
+			"AmmoBox_308Win_20Rnd",
+			"AmmoBox_308Win_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38007,
+		"name": "Fireworks",
+		"price": "800",
+		"category": "Misc",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"PetrolLighter",
+			"FireworksLauncher"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38011,
+		"name": "DMR",
+		"price": "750",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"M14",
+			"Mag_M14_20Rnd",
+			"ACOGOptic_6x",
+			"AmmoBox_308Win_20Rnd",
+			"Mag_M14_20Rnd",
+			"AmmoBox_308Win_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38060,
+		"name": "AUR A1",
+		"price": "400",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AugShort",
+			"Mag_Aug_30Rnd",
+			"Mag_Aug_30Rnd",
+			"AmmoBox_556x45_20Rnd",
+			"AmmoBox_556x45_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38061,
+		"name": "SK 59/66",
+		"price": "400",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"SKS",
+			"PUScopeOptic",
+			"AmmoBox_762x39_20Rnd",
+			"AmmoBox_762x39_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38062,
+		"name": "AUR AX",
+		"price": "500",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Aug",
+			"Mag_STANAG_60Rnd",
+			"Mag_STANAG_60Rnd",
+			"AmmoBox_556x45_20Rnd",
+			"AmmoBox_556x45_20Rnd",
+			"M4_Suppressor",
+			"ACOGOptic",
+			"Battery9V",
+			"UniversalLight"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38063,
+		"name": "KA-101",
+		"price": "500",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AK101",
+			"AK_PlasticBttstck",
+			"KashtanOptic",
+			"Battery9V",
+			"Mag_AK101_30Rnd",
+			"Mag_AK101_30Rnd",
+			"AK_Suppressor",
+			"AmmoBox_556x45_20Rnd",
+			"AmmoBox_556x45_20Rnd",
+			"UniversalLight",
+			"AK_RailHndgrd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37984,
+		"name": "CR-75",
+		"price": "100",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"CZ75",
+			"Mag_CZ75_15Rnd",
+			"Mag_CZ75_15Rnd",
+			"AmmoBox_9x19_25rnd",
+			"PistolSuppressor",
+			"AmmoBox_9x19_25rnd",
+			"FNP45_MRDSOptic",
+			"Battery9V",
+			"TLRLight",
+			"Battery9V"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37981,
+		"name": "MK II",
+		"price": "100",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"MKII",
+			"Mag_MKII_10Rnd",
+			"Mag_MKII_10Rnd",
+			"AmmoBox_22_50Rnd",
+			"AmmoBox_22_50Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37987,
+		"name": "Deagle",
+		"price": "200",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Mag_Deagle_9rnd",
+			"Mag_Deagle_9rnd",
+			"AmmoBox_357_20Rnd",
+			"Deagle",
+			"AmmoBox_357_20Rnd",
+			"PistolSuppressor",
+			"FNP45_MRDSOptic",
+			"Battery9V"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37992,
+		"name": "CR-61 Skorpion",
+		"price": "300",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"CZ61",
+			"PistolSuppressor",
+			"Mag_CZ61_20Rnd",
+			"Mag_CZ61_20Rnd",
+			"AmmoBox_380_35rnd",
+			"AmmoBox_380_35rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37993,
+		"name": "SG5-K",
+		"price": "300",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"MP5K",
+			"MP5_RailHndgrd",
+			"MP5k_StockBttstck",
+			"Mag_MP5_30Rnd",
+			"Mag_MP5_30Rnd",
+			"ReflexOptic",
+			"Battery9V",
+			"AmmoBox_9x19_25rnd",
+			"AmmoBox_9x19_25rnd",
+			"PistolSuppressor",
+			"Battery9V",
+			"UniversalLight"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38059,
+		"name": "USG-45",
+		"price": "400",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"UMP45",
+			"ZmbM_Santa",
+			"Mag_UMP_25Rnd",
+			"Mag_UMP_25Rnd",
+			"AmmoBox_45ACP_25rnd",
+			"AmmoBox_45ACP_25rnd",
+			"ReflexOptic",
+			"Battery9V",
+			"PistolSuppressor",
+			"Battery9V",
+			"UniversalLight"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37955,
+		"name": "6-M7 Frag Grenade",
+		"price": "100",
+		"category": "Boom",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"M67Grenade"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38071,
+		"name": "LE-MAS",
+		"price": "500",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"FAMAS",
+			"Mag_FAMAS_25Rnd",
+			"Mag_FAMAS_25Rnd",
+			"AmmoBox_556x45_20Rnd",
+			"AmmoBox_556x45_20Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38072,
+		"name": "M16-A2",
+		"price": "500",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"M16A2",
+			"AmmoBox_556x45_20Rnd",
+			"AmmoBox_556x45_20Rnd",
+			"Mag_STANAG_60Rnd",
+			"Mag_STANAG_60Rnd",
+			"M4_Suppressor"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38073,
+		"name": "SVAL",
+		"price": "500",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"ASVAL",
+			"Mag_VAL_20Rnd",
+			"Mag_VAL_20Rnd",
+			"AmmoBox_9x39_20Rnd",
+			"AmmoBox_9x39_20Rnd",
+			"ACOGOptic",
+			"UniversalLight",
+			"Battery9V"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38074,
+		"name": "CR-527",
+		"price": "500",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"CZ527",
+			"AmmoBox_762x39_20Rnd",
+			"AmmoBox_762x39_20Rnd",
+			"Mag_CZ527_5rnd",
+			"Mag_CZ527_5rnd",
+			"HuntingOptic"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38075,
+		"name": "CR-550 Savanna",
+		"price": "500",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"CZ550",
+			"Mag_CZ550_10rnd",
+			"Mag_CZ550_10rnd",
+			"AmmoBox_308Win_20Rnd",
+			"AmmoBox_308Win_20Rnd",
+			"HuntingOptic"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38076,
+		"name": "Pioneer",
+		"price": "500",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Scout",
+			"AmmoBox_556x45_20Rnd",
+			"AmmoBox_556x45_20Rnd",
+			"ACOGOptic_6x",
+			"Mag_Scout_5Rnd",
+			"Mag_Scout_5Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38077,
+		"name": "KA-M",
+		"price": "750",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AKM",
+			"Mag_AKM_Drum75Rnd",
+			"Mag_AKM_Drum75Rnd",
+			"AmmoBox_762x39_20Rnd",
+			"AmmoBox_762x39_20Rnd",
+			"AmmoBox_762x39_20Rnd",
+			"AK_PlasticBttstck",
+			"AK_RailHndgrd",
+			"KashtanOptic",
+			"AK_Suppressor",
+			"UniversalLight",
+			"Battery9V"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38004,
+		"name": "M4-A1",
+		"price": "750",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"M4A1",
+			"UniversalLight",
+			"Mag_STANAG_60Rnd",
+			"M4_CQBBttstck",
+			"M4_Suppressor",
+			"M4_RISHndgrd",
+			"ZmbM_Santa",
+			"Battery9V",
+			"AmmoBox_556x45_20Rnd",
+			"AmmoBox_556x45_20Rnd",
+			"AmmoBox_556x45_20Rnd",
+			"Mag_STANAG_60Rnd",
+			"ACOGOptic"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38078,
+		"name": "LAR",
+		"price": "750",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"FAL",
+			"Mag_FAL_20Rnd",
+			"Mag_FAL_20Rnd",
+			"Fal_OeBttstck",
+			"AmmoBox_308Win_20Rnd",
+			"AmmoBox_308Win_20Rnd",
+			"ACOGOptic_6x"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38081,
+		"name": "Mosin 91/30",
+		"price": "750",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Mosin9130",
+			"AmmoBox_762x54_20Rnd",
+			"AmmoBox_762x54_20Rnd",
+			"Mosin_Compensator",
+			"PUScopeOptic"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38082,
+		"name": "Blaze",
+		"price": "750",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"B95",
+			"AmmoBox_308Win_20Rnd",
+			"AmmoBox_308Win_20Rnd",
+			"HuntingOptic"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38083,
+		"name": "VSD",
+		"price": "750",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"SVD",
+			"Mag_SVD_10Rnd",
+			"Mag_SVD_10Rnd",
+			"AK_Suppressor",
+			"PSO11Optic",
+			"AmmoBox_762x54_20Rnd",
+			"AmmoBox_762x54_20Rnd",
+			"Battery9V"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38084,
+		"name": "VSS",
+		"price": "750",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"VSS",
+			"AmmoBox_9x39_20Rnd",
+			"AmmoBox_9x39_20Rnd",
+			"Mag_VAL_20Rnd",
+			"Mag_VAL_20Rnd",
+			"Battery9V",
+			"KobraOptic"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38085,
+		"name": "M79 grenade launcher",
+		"price": "750",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"M79",
+			"Ammo_40mm_Explosive",
+			"Ammo_40mm_Explosive",
+			"Ammo_40mm_Smoke_White",
+			"Ammo_40mm_Smoke_White"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38070,
+		"name": "KA-74",
+		"price": "500",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Mag_AK74_45Rnd",
+			"Mag_AK74_45Rnd",
+			"AK74_WoodBttstck_Black",
+			"KashtanOptic",
+			"Battery9V",
+			"AK74_Black",
+			"AmmoBox_545x39_20Rnd",
+			"AmmoBox_545x39_20Rnd",
+			"UniversalLight",
+			"AK_RailHndgrd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38134,
+		"name": "Boonie Hat DPM camo",
+		"price": "50",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BoonieHat_DPM"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38137,
+		"name": "Boonie Hat olive",
+		"price": "50",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BoonieHat_Olive"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38139,
+		"name": "Boonie Hat tan",
+		"price": "50",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BoonieHat_Tan"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38140,
+		"name": "Cowboy Hat black",
+		"price": "50",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"CowboyHat_black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38141,
+		"name": "Cowboy Hat brown",
+		"price": "50",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"CowboyHat_Brown"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38142,
+		"name": "Cowboy Hat dark brown",
+		"price": "50",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"CowboyHat_darkBrown"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38143,
+		"name": "Cowboy Hat green",
+		"price": "50",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"CowboyHat_green"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38144,
+		"name": "Witch Hood black",
+		"price": "50",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"WitchHood_Black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38145,
+		"name": "Witch Hood red",
+		"price": "50",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"WitchHood_Red"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38146,
+		"name": "Witch Hood brown",
+		"price": "50",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"WitchHood_Brown"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38149,
+		"name": "Armored Hood black",
+		"price": "100",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"WitchHoodCoif_Black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38150,
+		"name": "Armored Hood red",
+		"price": "100",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"WitchHoodCoif_Red"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38151,
+		"name": "Armored Hood brown",
+		"price": "100",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"WitchHoodCoif_Brown"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38152,
+		"name": "Assault Helmet black",
+		"price": "100",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"GorkaHelmet_Black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38153,
+		"name": "Assault Helmet green",
+		"price": "100",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"GorkaHelmet_Green"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38154,
+		"name": "Ballistic Helmet black",
+		"price": "100",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BallisticHelmet_Black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38155,
+		"name": "Ballistic Helmet green",
+		"price": "100",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BallisticHelmet_Green"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38183,
+		"name": "Athletic Sunglasses green",
+		"price": "50",
+		"category": "Eyes",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"SportGlasses_Green"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38157,
+		"name": "Balaclava Beige",
+		"price": "50",
+		"category": "Face",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Balaclava3Holes_Beige"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38158,
+		"name": "Balaclava blue",
+		"price": "50",
+		"category": "Face",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Balaclava3Holes_Blue"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38159,
+		"name": "Balaclava black",
+		"price": "50",
+		"category": "Face",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Balaclava3Holes_Black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38160,
+		"name": "Balaclava green",
+		"price": "50",
+		"category": "Face",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Balaclava3Holes_Green"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38168,
+		"name": "Ski Mask blue",
+		"price": "50",
+		"category": "Face",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BalaclavaMask_Blue"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38169,
+		"name": "Ski Mask pink",
+		"price": "50",
+		"category": "Face",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BalaclavaMask_Pink"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38170,
+		"name": "Ski Mask beige",
+		"price": "50",
+		"category": "Face",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BalaclavaMask_Beige"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38171,
+		"name": "Ski Mask black",
+		"price": "50",
+		"category": "Face",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BalaclavaMask_Black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38172,
+		"name": "Ski Mask green",
+		"price": "50",
+		"category": "Face",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BalaclavaMask_Green"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38173,
+		"name": "Ski Mask white",
+		"price": "50",
+		"category": "Face",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BalaclavaMask_White"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38174,
+		"name": "Ski Mask black skull",
+		"price": "50",
+		"category": "Face",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BalaclavaMask_Blackskull"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38178,
+		"name": "Combat Gas Mask",
+		"price": "100",
+		"category": "Face",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"GasMask",
+			"CharcoalTablets"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38156,
+		"name": "Tactical Helmet",
+		"price": "350",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Mich2001Helmet",
+			"NVGoggles",
+			"Battery9V"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38147,
+		"name": "Head Torch red light",
+		"price": "50",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Headtorch_Black",
+			"Battery9V"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38179,
+		"name": "NBC Respirator",
+		"price": "100",
+		"category": "Face",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AirborneMask",
+			"GasMask_Filter"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38181,
+		"name": "Athletic Sunglasses black",
+		"price": "50",
+		"category": "Eyes",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"SportGlasses_Black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38182,
+		"name": "Athletic Sunglasses blue",
+		"price": "50",
+		"category": "Eyes",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"SportGlasses_Blue"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38184,
+		"name": "Athletic Sunglasses orange",
+		"price": "50",
+		"category": "Eyes",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"SportGlasses_Orange"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38185,
+		"name": "Aviator Sunglasses",
+		"price": "50",
+		"category": "Eyes",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AviatorGlasses"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38186,
+		"name": "Casual Sunglasses",
+		"price": "50",
+		"category": "Eyes",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"DesignerGlasses"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38187,
+		"name": "Classic Sunglasses",
+		"price": "50",
+		"category": "Eyes",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"ThickFramesGlasses"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38188,
+		"name": "Slim Glasses",
+		"price": "50",
+		"category": "Eyes",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"ThinFramesGlasses"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38189,
+		"name": "Tactical Goggles",
+		"price": "50",
+		"category": "Eyes",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"TacticalGoggles"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38205,
+		"name": "Combat Gloves brown",
+		"price": "50",
+		"category": "Gloves",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"OMNOGloves_Brown"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38206,
+		"name": "Combat Gloves grey",
+		"price": "50",
+		"category": "Gloves",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"OMNOGloves_Gray"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38207,
+		"name": "Tactical Gloves beige",
+		"price": "50",
+		"category": "Gloves",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"TacticalGloves_Beige"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38208,
+		"name": "Tactical Gloves black",
+		"price": "50",
+		"category": "Gloves",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"TacticalGloves_Black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38209,
+		"name": "Tactical Gloves green",
+		"price": "50",
+		"category": "Gloves",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"TacticalGloves_Green"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38210,
+		"name": "NBC Gloves gray",
+		"price": "100",
+		"category": "Gloves",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"NBCGlovesGray"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38211,
+		"name": "Assault Boots anarchy",
+		"price": "50",
+		"category": "Feet",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"MilitaryBoots_Redpunk"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38212,
+		"name": "Assault Boots black",
+		"price": "50",
+		"category": "Feet",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"MilitaryBoots_Black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38213,
+		"name": "Assault Boots blue rock",
+		"price": "50",
+		"category": "Feet",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"MilitaryBoots_Bluerock"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38214,
+		"name": "Assault Boots brown",
+		"price": "50",
+		"category": "Feet",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"MilitaryBoots_Brown"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38215,
+		"name": "Assault Boots beige",
+		"price": "50",
+		"category": "Feet",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"MilitaryBoots_Beige"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38216,
+		"name": "Jungle Boots beige",
+		"price": "50",
+		"category": "Feet",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"JungleBoots_Beige"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38217,
+		"name": "Jungle Boots black",
+		"price": "50",
+		"category": "Feet",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"JungleBoots_Black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38218,
+		"name": "Jungle Boots brown",
+		"price": "50",
+		"category": "Feet",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"JungleBoots_Brown"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38219,
+		"name": "Jungle Boots green",
+		"price": "50",
+		"category": "Feet",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"JungleBoots_Green"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38220,
+		"name": "Jungle Boots olive",
+		"price": "50",
+		"category": "Feet",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"JungleBoots_Olive"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38221,
+		"name": "NBC Boots gray",
+		"price": "100",
+		"category": "Feet",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"NBCBootsGray"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38222,
+		"name": "NBC Hood gray",
+		"price": "100",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"NBCHoodGray"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38223,
+		"name": "BDU Jacket",
+		"price": "50",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BDUJacket"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38224,
+		"name": "Combat Jacket",
+		"price": "50",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"TTsKOJacket_Camo"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38225,
+		"name": "CUU Jacket",
+		"price": "50",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"USMCJacket_Desert"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38226,
+		"name": "Field Jacket olive",
+		"price": "50",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"M65Jacket_Olive"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38228,
+		"name": "NBC Jacket gray",
+		"price": "100",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"NBCJacketGray"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38229,
+		"name": "BDU pants",
+		"price": "50",
+		"category": "Legs",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BDUPants"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38230,
+		"name": "Combat Pants",
+		"price": "50",
+		"category": "Legs",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"TTSKOPants"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38231,
+		"name": "CUU Pants",
+		"price": "50",
+		"category": "Legs",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"USMCPants_Desert"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38232,
+		"name": "Hunter Pants spring",
+		"price": "50",
+		"category": "Legs",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HunterPants_Spring"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38233,
+		"name": "NBC Pants grey",
+		"price": "100",
+		"category": "Legs",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"NBCPantsGray"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38234,
+		"name": "Assault Vest with Utility Butt",
+		"price": "50",
+		"category": "Chest",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"SmershVest",
+			"SmershBag"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38236,
+		"name": "Field Vest black",
+		"price": "50",
+		"category": "Chest",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"UKAssVest_Black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38238,
+		"name": "Field Vest khaki",
+		"price": "50",
+		"category": "Chest",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"UKAssVest_Khaki"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38237,
+		"name": "Field Vest DPM camo",
+		"price": "50",
+		"category": "Chest",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"UKAssVest_Camo"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38239,
+		"name": "Field Vest olive",
+		"price": "50",
+		"category": "Chest",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"UKAssVest_Olive"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38240,
+		"name": "Tactical Vest black",
+		"price": "50",
+		"category": "Chest",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HighCapacityVest_Black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38241,
+		"name": "Tactical Vest olive",
+		"price": "50",
+		"category": "Chest",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HighCapacityVest_Olive"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38244,
+		"name": "Plate Carrier black pouches ho",
+		"price": "100",
+		"category": "Chest",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"PlateCarrierVest_Black",
+			"PlateCarrierHolster_Black",
+			"PlateCarrierPouches_Black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38243,
+		"name": "Plate Carrier std. pouches h",
+		"price": "100",
+		"category": "Chest",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"PlateCarrierVest",
+			"PlateCarrierHolster",
+			"PlateCarrierPouches"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38245,
+		"name": "Plate Carrier green pouches ho",
+		"price": "100",
+		"category": "Chest",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"PlateCarrierVest_Green",
+			"PlateCarrierHolster_Green",
+			"PlateCarrierPouches_Green"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38246,
+		"name": "Plate Carrier camo pouches hol",
+		"price": "100",
+		"category": "Chest",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"PlateCarrierVest_Camo",
+			"PlateCarrierHolster_Camo",
+			"PlateCarrierPouches_Camo"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38247,
+		"name": "Civilian Belt",
+		"price": "25",
+		"category": "Belts",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"CivilianBelt"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38248,
+		"name": "Hip Pack black",
+		"price": "25",
+		"category": "Belts",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HipPack_Black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38249,
+		"name": "Hip Pack green",
+		"price": "25",
+		"category": "Belts",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HipPack_Green"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38250,
+		"name": "Hip Pack party",
+		"price": "25",
+		"category": "Belts",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HipPack_Party"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38251,
+		"name": "Hip Pack medical",
+		"price": "25",
+		"category": "Belts",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HipPack_Medical"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38252,
+		"name": "Tactical Belt sheath holster c",
+		"price": "50",
+		"category": "Belts",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"MilitaryBelt",
+			"NylonKnifeSheath",
+			"PlateCarrierHolster",
+			"Canteen"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38253,
+		"name": "Assault Backpack black",
+		"price": "50",
+		"category": "Bags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AssaultBag_Black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38254,
+		"name": "Assault Backpack green",
+		"price": "50",
+		"category": "Bags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AssaultBag_Green"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38255,
+		"name": "Assault Backpack camo",
+		"price": "50",
+		"category": "Bags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AssaultBag_Ttsko"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38256,
+		"name": "Combat Backpack",
+		"price": "50",
+		"category": "Bags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"TortillaBag"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38257,
+		"name": "Tactical Backpack brown",
+		"price": "50",
+		"category": "Bags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"CoyoteBag_Brown"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38258,
+		"name": "Tactical Backpack green",
+		"price": "50",
+		"category": "Bags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"CoyoteBag_Green"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38259,
+		"name": "Field Backpack black",
+		"price": "50",
+		"category": "Bags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AliceBag_Black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38260,
+		"name": "Field Backpack camo",
+		"price": "50",
+		"category": "Bags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AliceBag_Camo"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38261,
+		"name": "Field Backpack green",
+		"price": "50",
+		"category": "Bags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AliceBag_Green"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38262,
+		"name": "Hunter Backpack",
+		"price": "50",
+		"category": "Bags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HuntingBag"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38267,
+		"name": "Mountain Backpack blue",
+		"price": "50",
+		"category": "Bags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"MountainBag_Blue"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38268,
+		"name": "Mountain Backpack green",
+		"price": "50",
+		"category": "Bags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"MountainBag_Green"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38269,
+		"name": "Mountain  Backpack orange",
+		"price": "50",
+		"category": "Bags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"MountainBag_Orange"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38270,
+		"name": "Mountain Backpack red",
+		"price": "50",
+		"category": "Bags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"MountainBag_Red"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38273,
+		"name": "Dry Bag Backpack blue",
+		"price": "100",
+		"category": "Bags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"DryBag_Blue"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38272,
+		"name": "Dry Bag Backpack black",
+		"price": "100",
+		"category": "Bags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"DryBag_Black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38274,
+		"name": "Dry Bag Backpack green",
+		"price": "100",
+		"category": "Bags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"DryBag_Green"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38275,
+		"name": "Dry Bag Backpack orange",
+		"price": "100",
+		"category": "Bags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"DryBag_Orange"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38276,
+		"name": "Dry Bag Backpack red",
+		"price": "100",
+		"category": "Bags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"DryBag_Red"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38277,
+		"name": "Dry Bag Backpack yellow",
+		"price": "100",
+		"category": "Bags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"DryBag_Yellow"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38278,
+		"name": "Blood Test Kit",
+		"price": "10",
+		"category": "Medical Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BloodTestKit"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38279,
+		"name": "Chlorine Tablets",
+		"price": "10",
+		"category": "Medical Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"PurificationTablets"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38280,
+		"name": "Charcoal Tablets",
+		"price": "10",
+		"category": "Medical Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"CharcoalTablets"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38281,
+		"name": "Multivitamin",
+		"price": "10",
+		"category": "Medical Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"VitaminBottle"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38282,
+		"name": "Tetracycline",
+		"price": "10",
+		"category": "Medical Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"TetracyclineAntibiotics"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38283,
+		"name": "Codeine pills",
+		"price": "10",
+		"category": "Medical Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"PainkillerTablets"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38284,
+		"name": "Morphine Injector",
+		"price": "10",
+		"category": "Medical Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Morphine"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38302,
+		"name": "Bandages",
+		"price": "10",
+		"category": "Medical Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BandageDressing"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38303,
+		"name": "Epinephrine Injector",
+		"price": "10",
+		"category": "Medical Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Epinephrine"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38304,
+		"name": "PO-X Antidote",
+		"price": "10",
+		"category": "Medical Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"AntiChemInjector"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38305,
+		"name": "IV Saline Bag",
+		"price": "10",
+		"category": "Medical Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"SalineBagIV"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38306,
+		"name": "Splint",
+		"price": "10",
+		"category": "Medical Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Splint"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38307,
+		"name": "Handsaw",
+		"price": "10",
+		"category": "Tools",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HandSaw"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38308,
+		"name": "Splitting axe",
+		"price": "10",
+		"category": "Tools",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"WoodAxe"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38309,
+		"name": "Shovel",
+		"price": "10",
+		"category": "Tools",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Shovel"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38310,
+		"name": "Tactical Shovel",
+		"price": "10",
+		"category": "Tools",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"FieldShovel"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38311,
+		"name": "Sledge Hammer",
+		"price": "10",
+		"category": "Tools",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"SledgeHammer"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38312,
+		"name": "Pick Axe",
+		"price": "10",
+		"category": "Tools",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Pickaxe"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38313,
+		"name": "Pliers",
+		"price": "10",
+		"category": "Tools",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Pliers"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38314,
+		"name": "Hatchet",
+		"price": "10",
+		"category": "Tools",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Hatchet"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38315,
+		"name": "Sharpening Stone",
+		"price": "10",
+		"category": "Tools",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Whetstone"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38316,
+		"name": "Sewing Kit",
+		"price": "10",
+		"category": "Tools",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"SewingKit"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38317,
+		"name": "Leather Sewing Kit",
+		"price": "10",
+		"category": "Tools",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"LeatherSewingKit"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38318,
+		"name": "Epoxy",
+		"price": "10",
+		"category": "Tools",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"EpoxyPutty"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38319,
+		"name": "Duct Tape",
+		"price": "10",
+		"category": "Tools",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"DuctTape"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38320,
+		"name": "Rope",
+		"price": "10",
+		"category": "Tools",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Rope"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38321,
+		"name": "Gun Cleaning Kit",
+		"price": "10",
+		"category": "Tools",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"WeaponCleaningKit"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38323,
+		"name": "Boxed Nails",
+		"price": "10",
+		"category": "Building Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"NailBox"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38324,
+		"name": "Fence Kit",
+		"price": "10",
+		"category": "Building Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"FenceKit"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38325,
+		"name": "Watchtower Kit",
+		"price": "10",
+		"category": "Building Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"WatchtowerKit"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38327,
+		"name": "Combination Lock 4 Dial",
+		"price": "10",
+		"category": "Building Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"CombinationLock4"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38328,
+		"name": "Metal Wire",
+		"price": "10",
+		"category": "Building Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"MetalWire"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38326,
+		"name": "Wooden Logs x10",
+		"price": "100",
+		"category": "Building Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38329,
+		"name": "Barbed Wire",
+		"price": "10",
+		"category": "Building Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BarbedWire"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38331,
+		"name": "Sheet Metal",
+		"price": "100",
+		"category": "Building Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"MetalPlate"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38345,
+		"name": "Large Stones x32",
+		"price": "100",
+		"category": "Building Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone",
+			"Stone"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38353,
+		"name": "Medium Tent green",
+		"price": "100",
+		"category": "Storage",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"MediumTent_Green"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38354,
+		"name": "Medium Tent orange",
+		"price": "100",
+		"category": "Storage",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"MediumTent_Orange"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38352,
+		"name": "Medium Tent blue",
+		"price": "100",
+		"category": "Storage",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"MediumTent"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38346,
+		"name": "Oil Barrel green",
+		"price": "100",
+		"category": "Storage",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Barrel_Green"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38355,
+		"name": "Large Tent",
+		"price": "150",
+		"category": "Storage",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"LargeTent"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38356,
+		"name": "Car Tent",
+		"price": "200",
+		"category": "Storage",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"CarTent"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38357,
+		"name": "Camo Net",
+		"price": "10",
+		"category": "Miscellaneous",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"CamoNet"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37915,
+		"name": "Flag white",
+		"price": "0",
+		"category": "Faction",
+		"hidden": false,
+		"types": [
+			"Flag_White",
+			"ZmbM_Santa"
+		],
+		"required_role_ids": [
+			"1203026525935378442"
+		],
+		"required_roles_all_required": false,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38358,
+		"name": "Cooking Pot",
+		"price": "10",
+		"category": "Miscellaneous",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Pot"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38359,
+		"name": "Gas Stove",
+		"price": "10",
+		"category": "Miscellaneous",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"PortableGasStove"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38360,
+		"name": "Binoculars",
+		"price": "10",
+		"category": "Miscellaneous",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Binoculars"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38362,
+		"name": "Range Finder",
+		"price": "10",
+		"category": "Miscellaneous",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Rangefinder",
+			"Battery9V"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38363,
+		"name": "Map",
+		"price": "10",
+		"category": "Miscellaneous",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"ChernarusMap"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38364,
+		"name": "Lighter",
+		"price": "10",
+		"category": "Miscellaneous",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"PetrolLighter"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38365,
+		"name": "Gas Lamp",
+		"price": "10",
+		"category": "Miscellaneous",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"PortableGasLamp"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38366,
+		"name": "Garden Lime",
+		"price": "10",
+		"category": "Miscellaneous",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"GardenLime"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38367,
+		"name": "Signal pistol 3 red flares",
+		"price": "10",
+		"category": "Miscellaneous",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Flaregun",
+			"Ammo_FlareRed",
+			"Ammo_FlareRed",
+			"Ammo_FlareRed"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38368,
+		"name": "Signal pistol 3 green flares",
+		"price": "10",
+		"category": "Miscellaneous",
+		"hidden": false,
+		"types": [
+			"Flaregun",
+			"Ammo_FlareGreen",
+			"Ammo_FlareGreen",
+			"Ammo_FlareGreen"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38369,
+		"name": "Signal pistol 3 blue flares",
+		"price": "10",
+		"category": "Miscellaneous",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Flaregun",
+			"Ammo_FlareBlue",
+			"Ammo_FlareBlue",
+			"Ammo_FlareBlue"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38370,
+		"name": "Signal pistol 3 yellow flares",
+		"price": "10",
+		"category": "Miscellaneous",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Flaregun",
+			"Ammo_Flare",
+			"Ammo_Flare",
+			"Ammo_Flare"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38371,
+		"name": "Handcuffs",
+		"price": "10",
+		"category": "Miscellaneous",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Handcuffs"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38372,
+		"name": "Lockpick",
+		"price": "10",
+		"category": "Miscellaneous",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Lockpick"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38148,
+		"name": "Head Torch white light",
+		"price": "50",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Headtorch_Grey",
+			"Battery9V"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38361,
+		"name": "GPS Receiver",
+		"price": "10",
+		"category": "Miscellaneous",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"GPSReceiver",
+			"Battery9V"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38461,
+		"name": "Sheet metal 50",
+		"price": "500",
+		"category": "Building Supplies",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"MetalPlate",
+			"MetalPlate",
+			"MetalPlate",
+			"MetalPlate",
+			"MetalPlate"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38227,
+		"name": "Hunting Jacket spring",
+		"price": "50",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HuntingJacket_Spring"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38010,
+		"name": "Ghillie Mossy",
+		"price": "600",
+		"category": "Clothes",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"GhillieSuit_Mossy",
+			"GhillieHood_Mossy"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 41000,
+		"name": "BK",
+		"price": "2500",
+		"category": "Kits",
+		"hidden": false,
+		"types": [
+			"ZmbM_Mummy",
+			"M4A1_Green",
+			"M4_CQBBttstck",
+			"M4_RISHndgrd",
+			"UniversalLight",
+			"Battery9V",
+			"M4_Suppressor",
+			"GhillieAtt_Mossy",
+			"ACOGOptic_6x",
+			"Mag_STANAG_60Rnd",
+			"Winchester70",
+			"GhillieAtt_Mossy",
+			"ImprovisedSuppressor",
+			"HuntingOptic",
+			"HandcuffsLocked",
+			"PlateCarrierVest_Camo",
+			"PlateCarrierHolster_Camo",
+			"PlateCarrierPouches_Camo",
+			"M67Grenade",
+			"M67Grenade",
+			"M67Grenade",
+			"M67Grenade",
+			"Mag_STANAG_60Rnd",
+			"Mag_STANAG_60Rnd",
+			"Mag_STANAG_60Rnd",
+			"Mag_STANAG_60Rnd",
+			"MilitaryBelt",
+			"NylonKnifeSheath",
+			"Canteen",
+			"BDUJacket",
+			"BDUPants",
+			"AssaultBag_Ttsko",
+			"Mich2001Helmet",
+			"NVGoggles",
+			"Battery9V",
+			"BalaclavaMask_Green",
+			"AviatorGlasses",
+			"TacticalGloves_Green",
+			"MilitaryBoots_Beige",
+			"CombatKnife",
+			"Mag_STANAG_60Rnd",
+			"AmmoBox_308Win_20Rnd",
+			"BandageDressing",
+			"BandageDressing",
+			"TacticalBaconCan",
+			"TacticalBaconCan",
+			"TetracyclineAntibiotics",
+			"AmmoBox_308Win_20Rnd",
+			"VitaminBottle",
+			"DuctTape"
+		],
+		"required_role_ids": [
+			"1199803453233451018",
+			"1200456806351249419",
+			"1199804327561273365"
+		],
+		"required_roles_all_required": false,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 40442,
+		"name": "Power Generator",
+		"price": "1",
+		"category": "Staff",
+		"hidden": true,
+		"types": [
+			"PowerGenerator"
+		],
+		"required_role_ids": [
+			"1203026525935378442"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 40444,
+		"name": "Jerry Can",
+		"price": "1",
+		"category": "Staff",
+		"hidden": true,
+		"types": [
+			"CanisterGasoline"
+		],
+		"required_role_ids": [
+			"1203026525935378442"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 40445,
+		"name": "Spark Plug",
+		"price": "1",
+		"category": "Staff",
+		"hidden": true,
+		"types": [
+			"SparkPlug"
+		],
+		"required_role_ids": [
+			"1203026525935378442"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 39367,
+		"name": "Poke",
+		"price": "1",
+		"category": "Staff",
+		"hidden": false,
+		"types": [
+			"EasterEgg",
+			"ZmbM_Santa"
+		],
+		"required_role_ids": [
+			"1199803453233451018",
+			"1200456806351249419",
+			"1199804327561273365"
+		],
+		"required_roles_all_required": false,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 42730,
+		"name": "Flags",
+		"price": "1",
+		"category": "Staff",
+		"hidden": false,
+		"types": [
+			"Flag_APA",
+			"Flag_Altis",
+			"Flag_BabyDeer",
+			"Flag_Bear",
+			"Flag_Bohemia",
+			"Flag_BrainZ",
+			"Flag_CDF",
+			"Flag_CHEL",
+			"Flag_CMC",
+			"Flag_Cannibals",
+			"Flag_Chedaki",
+			"Flag_Chernarus",
+			"Flag_DayZ",
+			"Flag_HunterZ",
+			"Flag_Livonia",
+			"Flag_LivoniaArmy",
+			"Flag_LivoniaPolice",
+			"Flag_NAPA",
+			"Flag_NSahrani",
+			"Flag_Pirates",
+			"Flag_RSTA",
+			"Flag_Refuge",
+			"Flag_Rooster",
+			"Flag_SSahrani",
+			"Flag_Snake",
+			"Flag_TEC",
+			"Flag_UEC",
+			"Flag_Wolf",
+			"Flag_Zenit",
+			"ZmbM_Santa"
+		],
+		"required_role_ids": [
+			"1199803453233451018",
+			"1200456806351249419",
+			"1199804327561273365"
+		],
+		"required_roles_all_required": false,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 37917,
+		"name": "Sniper",
+		"price": "5000",
+		"category": "Kits",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"GhillieHood_Tan",
+			"NVGHeadstrap",
+			"NVGoggles",
+			"Battery9V",
+			"SVD",
+			"PSO1Optic",
+			"Battery9V",
+			"VSS",
+			"KobraOptic",
+			"Battery9V",
+			"BalaclavaMask_Green",
+			"PlateCarrierVest",
+			"PlateCarrierPouches",
+			"PlateCarrierHolster",
+			"MilitaryBelt",
+			"SportGlasses_Black",
+			"BandageDressing",
+			"BandageDressing",
+			"SalineBagIV",
+			"Morphine",
+			"Canteen",
+			"GhillieAtt_Tan",
+			"GhillieAtt_Tan",
+			"JungleBoots_Green",
+			"NylonKnifeSheath",
+			"Mag_VAL_20Rnd",
+			"Mag_VAL_20Rnd",
+			"TacticalGloves_Green",
+			"AmmoBox_9x39AP_20Rnd",
+			"AmmoBox_9x39AP_20Rnd",
+			"AmmoBox_762x54Tracer_20Rnd",
+			"AmmoBox_762x54_20Rnd",
+			"GhillieSuit_Tan",
+			"AK_Suppressor",
+			"Mag_SVD_10Rnd",
+			"Mag_SVD_10Rnd",
+			"HunterPants_Brown",
+			"HuntingJacket_Brown"
+		],
+		"required_role_ids": [
+			"1199803453233451018",
+			"1200456806351249419",
+			"1199804327561273365"
+		],
+		"required_roles_all_required": false,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 38009,
+		"name": "PVP",
+		"price": "2500",
+		"category": "Kits",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"PlateCarrierVest_Black",
+			"PlateCarrierHolster_Black",
+			"PlateCarrierPouches_Black",
+			"FirefighterJacket_Black",
+			"MilitaryBelt",
+			"NylonKnifeSheath",
+			"FirefightersPants_Black",
+			"Mich2001Helmet",
+			"BalaclavaMask_Blackskull",
+			"TacticalGloves_Black",
+			"MilitaryBoots_Redpunk",
+			"Morphine",
+			"NVGoggles",
+			"Canteen",
+			"AKM",
+			"Mag_AKM_Drum75Rnd",
+			"AK_PlasticBttstck",
+			"AK_RailHndgrd",
+			"KashtanOptic",
+			"AK_Suppressor",
+			"AmmoBox_308WinTracer_20Rnd",
+			"AmmoBox_308Win_20Rnd",
+			"B95",
+			"HuntingOptic",
+			"AmmoBox_762x39_20Rnd",
+			"AmmoBox_762x39Tracer_20Rnd",
+			"Ammo_762x39Tracer",
+			"AssaultBag_Black",
+			"Battery9V",
+			"SalineBagIV"
+		],
+		"required_role_ids": [
+			"1199803453233451018",
+			"1200456806351249419",
+			"1199804327561273365"
+		],
+		"required_roles_all_required": false,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 43056,
+		"name": "Vikhr",
+		"price": "500",
+		"category": "Weapons",
+		"hidden": false,
+		"types": [
+			"Vikhr",
+			"Mag_Vikhr_30Rnd",
+			"Mag_Vikhr_30Rnd",
+			"AmmoBox_9x39_20Rnd",
+			"AmmoBox_9x39_20Rnd",
+			"ZmbM_Santa",
+			"PSO1Optic",
+			"Battery9V"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 43073,
+		"name": "Vikhr 30 rnd mag",
+		"price": "100",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Mag_Vikhr_30Rnd"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 43074,
+		"name": "Ballistic helmet woodland",
+		"price": "100",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BallisticHelmet_Woodland"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 43075,
+		"name": "Ballistic helmet desert",
+		"price": "100",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BallisticHelmet_Desert"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 43076,
+		"name": "Ballistic helmet BDU",
+		"price": "100",
+		"category": "Head",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BallisticHelmet_BDU"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 43086,
+		"name": "Cupids bolt",
+		"price": "100",
+		"category": "Ammo",
+		"hidden": false,
+		"types": [
+			"Ammo_CupidsBolt"
+		],
+		"required_role_ids": [
+			"1201184964436312095"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44818,
+		"name": "Rider jacket & cargo pants",
+		"price": "100",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"RidersJacket_Black",
+			"CargoPants_Black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44819,
+		"name": "Patrol set Jacket & pants summ",
+		"price": "100",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"GorkaPants_Summer",
+			"GorkaEJacket_Summer"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44820,
+		"name": "Patrol set Jacket & pants autu",
+		"price": "100",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"GorkaPants_Autumn",
+			"GorkaEJacket_Autumn"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44821,
+		"name": "Firefighter set Jacket pants",
+		"price": "100",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"FirefighterJacket_Black",
+			"FirefightersPants_Black"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44822,
+		"name": "Paramedic set blue",
+		"price": "100",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"ParamedicJacket_Blue",
+			"ParamedicPants_Blue"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44823,
+		"name": "Paramedic set red",
+		"price": "100",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"ParamedicJacket_Crimson",
+			"ParamedicPants_Crimson"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44824,
+		"name": "Paramedic set green",
+		"price": "100",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"ParamedicJacket_Green",
+			"ParamedicPants_Green"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44825,
+		"name": "Hunter set Jacket pants brown",
+		"price": "100",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HunterPants_Brown",
+			"HuntingJacket_Brown"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44826,
+		"name": "Hunter set Jacket pants spring",
+		"price": "100",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HunterPants_Spring",
+			"HuntingJacket_Spring"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44827,
+		"name": "Hunter set Jacket pants summer",
+		"price": "100",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HunterPants_Summer",
+			"HuntingJacket_Summer"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44828,
+		"name": "Hunter set Jacket pants autumn",
+		"price": "100",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HunterPants_Autumn",
+			"HuntingJacket_Autumn"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44829,
+		"name": "Hunter set Jacket pants winter",
+		"price": "100",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HunterPants_Winter",
+			"HuntingJacket_Winter"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44830,
+		"name": "Denim set Jacket and pants",
+		"price": "100",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"DenimJacket",
+			"Jeans_Blue"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44817,
+		"name": "CUU set Jacket & Pants desert",
+		"price": "100",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"USMCJacket_Desert",
+			"USMCPants_Desert"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44806,
+		"name": "Hunting Pants autumn",
+		"price": "50",
+		"category": "Legs",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HunterPants_Autumn"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44801,
+		"name": "Hunting Jacket winter",
+		"price": "50",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HuntingJacket_Winter"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44802,
+		"name": "Hunting Jacket autumn",
+		"price": "50",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HuntingJacket_Autumn"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44803,
+		"name": "Hunting Jacket summer",
+		"price": "50",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HuntingJacket_Summer"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44804,
+		"name": "Hunting Jacket brown",
+		"price": "50",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HuntingJacket_Brown"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44805,
+		"name": "Hunting Pants winter",
+		"price": "50",
+		"category": "Legs",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HunterPants_Winter"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44807,
+		"name": "Hunting Pants summer",
+		"price": "50",
+		"category": "Legs",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HunterPants_Summer"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44808,
+		"name": "Hunting Pants brown",
+		"price": "50",
+		"category": "Legs",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"HunterPants_Brown"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44809,
+		"name": "Wooden Logs x20",
+		"price": "200",
+		"category": "Building",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog",
+			"WoodenLog"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44810,
+		"name": "Boxed nails x10",
+		"price": "100",
+		"category": "Building",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44811,
+		"name": "Metal wire x10 with pliers",
+		"price": "110",
+		"category": "Building",
+		"hidden": false,
+		"types": [
+			"MetalWire",
+			"MetalWire",
+			"MetalWire",
+			"MetalWire",
+			"MetalWire",
+			"MetalWire",
+			"MetalWire",
+			"MetalWire",
+			"MetalWire",
+			"MetalWire",
+			"Pliers",
+			"ZmbM_Santa"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44812,
+		"name": "Sharpening stones x10",
+		"price": "100",
+		"category": "Building",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Whetstone",
+			"Whetstone",
+			"Whetstone",
+			"Whetstone",
+			"Whetstone",
+			"Whetstone",
+			"Whetstone",
+			"Whetstone",
+			"Whetstone",
+			"Whetstone"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44814,
+		"name": "BDU set Jacket and pants",
+		"price": "100",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"BDUJacket",
+			"BDUPants"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44815,
+		"name": "Combat set Jacket & pants",
+		"price": "100",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"TTsKOJacket_Camo",
+			"TTSKOPants"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 44816,
+		"name": "CUU set Jacket & pants woodlan",
+		"price": "100",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"USMCJacket_Woodland",
+			"USMCPants_Woodland"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 45390,
+		"name": "Flag Red",
+		"price": "100",
+		"category": "Faction",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Flag_Bear"
+		],
+		"required_role_ids": [
+			"1209180698775257208"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 45391,
+		"name": "Armbands Red",
+		"price": "100",
+		"category": "Faction",
+		"hidden": false,
+		"types": [
+			"Armband_Red",
+			"ZmbM_Santa",
+			"Armband_Red",
+			"Armband_Red",
+			"Armband_Red",
+			"Armband_Red",
+			"Armband_Red",
+			"Armband_Red",
+			"Armband_Red",
+			"Armband_Red",
+			"Armband_Red"
+		],
+		"required_role_ids": [
+			"1204800194533924874"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": false,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 45409,
+		"name": "Orel police set Jacket pants",
+		"price": "100",
+		"category": "Torso",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"PoliceJacketOrel",
+			"PolicePantsOrel"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 45626,
+		"name": "Neutral flag",
+		"price": "100",
+		"category": "Flags",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"Flag_Zenit"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 45773,
+		"name": "Red Faction",
+		"price": "800",
+		"category": "Kits",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"M4A1",
+			"M4_RISHndgrd",
+			"UniversalLight",
+			"Battery9V",
+			"M4_Suppressor",
+			"M4_CQBBttstck",
+			"Mag_STANAG_60Rnd",
+			"Mag_STANAG_60Rnd",
+			"Ammo_556x45",
+			"Ammo_556x45",
+			"FAL",
+			"Fal_OeBttstck",
+			"ACOGOptic",
+			"Battery9V",
+			"ImprovisedSuppressor",
+			"HuntingOptic",
+			"Mag_FAL_20Rnd",
+			"Mag_FAL_20Rnd",
+			"Ammo_308Win",
+			"Ammo_308Win",
+			"M67Grenade",
+			"M67Grenade",
+			"Glock19",
+			"PistolSuppressor",
+			"TLRLight",
+			"Battery9V",
+			"BalaclavaMask_Blackskull",
+			"WitchHood_Black",
+			"NVGHeadstrap",
+			"NVGoggles",
+			"Battery9V",
+			"M65Jacket_Black",
+			"CargoPants_Black",
+			"AssaultBag_Black",
+			"MilitaryBoots_Black",
+			"PlateCarrierVest_Black",
+			"PlateCarrierHolster_Black",
+			"PlateCarrierPouches_Black",
+			"SurgicalGloves_Blue",
+			"WeaponCleaningKit",
+			"WaterBottle",
+			"TacticalBaconCan",
+			"SalineBagIV",
+			"Morphine",
+			"Epinephrine",
+			"PainkillerTablets",
+			"TetracyclineAntibiotics",
+			"BandageDressing",
+			"MilitaryBelt"
+		],
+		"required_role_ids": [
+			"1200456806351249419",
+			"1199810209024061612",
+			"1199804327561273365",
+			"1211080365481926726"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	},
+	{
+		"id": 45775,
+		"name": "Boxed nails x20",
+		"price": "200",
+		"category": "Building",
+		"hidden": false,
+		"types": [
+			"ZmbM_Santa",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox",
+			"NailBox"
+		],
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"rate_limit_enabled": false,
+		"rate_limit_is_global": true,
+		"rate_limit_amount": null,
+		"rate_limit_window": null
+	}
+]

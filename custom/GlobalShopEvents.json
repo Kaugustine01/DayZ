@@ -1,0 +1,344 @@
+[
+	{
+		"id": 858,
+		"name": "Sarka red",
+		"price_per_restart": 2500,
+		"category": "Vehicles",
+		"event_xml": "PGV2ZW50IG5hbWU9IlZlaGljbGUiPgogIDxub21pbmFsPjE8L25vbWluYWw+CiAgPG1pbj4xPC9taW4+CiAgPG1heD4xPC9tYXg+CiAgPGxpZmV0aW1lPjM4ODgwMDA8L2xpZmV0aW1lPgogIDxyZXN0b2NrPjA8L3Jlc3RvY2s+CiAgPHNhZmVyYWRpdXM+MTwvc2FmZXJhZGl1cz4KICA8ZGlzdGFuY2VyYWRpdXM+MTwvZGlzdGFuY2VyYWRpdXM+CiAgPGNsZWFudXByYWRpdXM+MTAwPC9jbGVhbnVwcmFkaXVzPgogIDxmbGFncyBkZWxldGFibGU9IjAiIGluaXRfcmFuZG9tPSIwIiByZW1vdmVfZGFtYWdlZD0iMSIgLz4KICA8cG9zaXRpb24+Zml4ZWQ8L3Bvc2l0aW9uPgogIDxsaW1pdD5jaGlsZDwvbGltaXQ+CiAgPGFjdGl2ZT4xPC9hY3RpdmU+CiAgPGNoaWxkcmVuPgogICAgPGNoaWxkIGxvb3RtYXg9IjAiIGxvb3RtaW49IjAiIG1heD0iMSIgbWluPSIxIiB0eXBlPSJTZWRhbl8wMl9SZWQiIC8+CiAgPC9jaGlsZHJlbj4KPC9ldmVudD4=",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 867,
+		"name": "Truck green",
+		"price_per_restart": 2500,
+		"category": "Vehicles",
+		"event_xml": "PGV2ZW50IG5hbWU9IlZlaGljbGUiPgogIDxub21pbmFsPjE8L25vbWluYWw+CiAgPG1pbj4xPC9taW4+CiAgPG1heD4xPC9tYXg+CiAgPGxpZmV0aW1lPjM4ODgwMDA8L2xpZmV0aW1lPgogIDxyZXN0b2NrPjA8L3Jlc3RvY2s+CiAgPHNhZmVyYWRpdXM+MTwvc2FmZXJhZGl1cz4KICA8ZGlzdGFuY2VyYWRpdXM+MTwvZGlzdGFuY2VyYWRpdXM+CiAgPGNsZWFudXByYWRpdXM+MTAwPC9jbGVhbnVwcmFkaXVzPgogIDxmbGFncyBkZWxldGFibGU9IjAiIGluaXRfcmFuZG9tPSIwIiByZW1vdmVfZGFtYWdlZD0iMSIgLz4KICA8cG9zaXRpb24+Zml4ZWQ8L3Bvc2l0aW9uPgogIDxsaW1pdD5jaGlsZDwvbGltaXQ+CiAgPGFjdGl2ZT4xPC9hY3RpdmU+CiAgPGNoaWxkcmVuPgogICAgPGNoaWxkIGxvb3RtYXg9IjAiIGxvb3RtaW49IjAiIG1heD0iMSIgbWluPSIxIiB0eXBlPSJUcnVja18wMV9Db3ZlcmVkIiAvPgogIDwvY2hpbGRyZW4+CjwvZXZlbnQ+",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 859,
+		"name": "Sarka grey",
+		"price_per_restart": 2500,
+		"category": "Vehicles",
+		"event_xml": "PGV2ZW50IG5hbWU9IlZlaGljbGUiPgogIDxub21pbmFsPjE8L25vbWluYWw+CiAgPG1pbj4xPC9taW4+CiAgPG1heD4xPC9tYXg+CiAgPGxpZmV0aW1lPjM4ODgwMDA8L2xpZmV0aW1lPgogIDxyZXN0b2NrPjA8L3Jlc3RvY2s+CiAgPHNhZmVyYWRpdXM+MTwvc2FmZXJhZGl1cz4KICA8ZGlzdGFuY2VyYWRpdXM+MTwvZGlzdGFuY2VyYWRpdXM+CiAgPGNsZWFudXByYWRpdXM+MTAwPC9jbGVhbnVwcmFkaXVzPgogIDxmbGFncyBkZWxldGFibGU9IjAiIGluaXRfcmFuZG9tPSIwIiByZW1vdmVfZGFtYWdlZD0iMSIgLz4KICA8cG9zaXRpb24+Zml4ZWQ8L3Bvc2l0aW9uPgogIDxsaW1pdD5jaGlsZDwvbGltaXQ+CiAgPGFjdGl2ZT4xPC9hY3RpdmU+CiAgPGNoaWxkcmVuPgogICAgPGNoaWxkIGxvb3RtYXg9IjAiIGxvb3RtaW49IjAiIG1heD0iMSIgbWluPSIxIiB0eXBlPSJTZWRhbl8wMl9HcmV5IiAvPgogIDwvY2hpbGRyZW4+CjwvZXZlbnQ+",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 868,
+		"name": "Truck blue",
+		"price_per_restart": 2500,
+		"category": "Vehicles",
+		"event_xml": "PGV2ZW50IG5hbWU9IlZlaGljbGUiPgogIDxub21pbmFsPjE8L25vbWluYWw+CiAgPG1pbj4xPC9taW4+CiAgPG1heD4xPC9tYXg+CiAgPGxpZmV0aW1lPjM4ODgwMDA8L2xpZmV0aW1lPgogIDxyZXN0b2NrPjA8L3Jlc3RvY2s+CiAgPHNhZmVyYWRpdXM+MTwvc2FmZXJhZGl1cz4KICA8ZGlzdGFuY2VyYWRpdXM+MTwvZGlzdGFuY2VyYWRpdXM+CiAgPGNsZWFudXByYWRpdXM+MTAwPC9jbGVhbnVwcmFkaXVzPgogIDxmbGFncyBkZWxldGFibGU9IjAiIGluaXRfcmFuZG9tPSIwIiByZW1vdmVfZGFtYWdlZD0iMSIgLz4KICA8cG9zaXRpb24+Zml4ZWQ8L3Bvc2l0aW9uPgogIDxsaW1pdD5jaGlsZDwvbGltaXQ+CiAgPGFjdGl2ZT4xPC9hY3RpdmU+CiAgPGNoaWxkcmVuPgogICAgPGNoaWxkIGxvb3RtYXg9IjAiIGxvb3RtaW49IjAiIG1heD0iMSIgbWluPSIxIiB0eXBlPSJUcnVja18wMV9Db3ZlcmVkX0JsdWUiIC8+CiAgPC9jaGlsZHJlbj4KPC9ldmVudD4=",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 869,
+		"name": "Humvee",
+		"price_per_restart": 2500,
+		"category": "Vehicles",
+		"event_xml": "PGV2ZW50IG5hbWU9IlZlaGljbGUiPgogIDxub21pbmFsPjE8L25vbWluYWw+CiAgPG1pbj4xPC9taW4+CiAgPG1heD4xPC9tYXg+CiAgPGxpZmV0aW1lPjM4ODgwMDA8L2xpZmV0aW1lPgogIDxyZXN0b2NrPjA8L3Jlc3RvY2s+CiAgPHNhZmVyYWRpdXM+MTwvc2FmZXJhZGl1cz4KICA8ZGlzdGFuY2VyYWRpdXM+MTwvZGlzdGFuY2VyYWRpdXM+CiAgPGNsZWFudXByYWRpdXM+MTAwPC9jbGVhbnVwcmFkaXVzPgogIDxmbGFncyBkZWxldGFibGU9IjAiIGluaXRfcmFuZG9tPSIwIiByZW1vdmVfZGFtYWdlZD0iMSIgLz4KICA8cG9zaXRpb24+Zml4ZWQ8L3Bvc2l0aW9uPgogIDxsaW1pdD5jaGlsZDwvbGltaXQ+CiAgPGFjdGl2ZT4xPC9hY3RpdmU+CiAgPGNoaWxkcmVuPgogICAgPGNoaWxkIGxvb3RtYXg9IjAiIGxvb3RtaW49IjAiIG1heD0iMSIgbWluPSIxIiB0eXBlPSJPZmZyb2FkXzAyIiAvPgogIDwvY2hpbGRyZW4+CjwvZXZlbnQ+",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 854,
+		"name": "Gunter red",
+		"price_per_restart": 2500,
+		"category": "Vehicles",
+		"event_xml": "PGV2ZW50IG5hbWU9IlZlaGljbGUiPgogIDxub21pbmFsPjE8L25vbWluYWw+CiAgPG1pbj4xPC9taW4+CiAgPG1heD4xPC9tYXg+CiAgPGxpZmV0aW1lPjM4ODgwMDA8L2xpZmV0aW1lPgogIDxyZXN0b2NrPjA8L3Jlc3RvY2s+CiAgPHNhZmVyYWRpdXM+MTwvc2FmZXJhZGl1cz4KICA8ZGlzdGFuY2VyYWRpdXM+MTwvZGlzdGFuY2VyYWRpdXM+CiAgPGNsZWFudXByYWRpdXM+MTAwPC9jbGVhbnVwcmFkaXVzPgogIDxmbGFncyBkZWxldGFibGU9IjAiIGluaXRfcmFuZG9tPSIwIiByZW1vdmVfZGFtYWdlZD0iMSIgLz4KICA8cG9zaXRpb24+Zml4ZWQ8L3Bvc2l0aW9uPgogIDxsaW1pdD5jaGlsZDwvbGltaXQ+CiAgPGFjdGl2ZT4xPC9hY3RpdmU+CiAgPGNoaWxkcmVuPgogICAgPGNoaWxkIGxvb3RtYXg9IjAiIGxvb3RtaW49IjAiIG1heD0iMSIgbWluPSIxIiB0eXBlPSJIYXRjaGJhY2tfMDIiIC8+CiAgPC9jaGlsZHJlbj4KPC9ldmVudD4=",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 896,
+		"name": "NPC PVP Oliver",
+		"price_per_restart": 1,
+		"category": "NPCs",
+		"event_xml": "PGV2ZW50IG5hbWU9IlN0YXRpYyI+CiAgPG5vbWluYWw+MTwvbm9taW5hbD4KICA8bWluPjE8L21pbj4KICA8bWF4PjE8L21heD4KICA8bGlmZXRpbWU+Mzg4ODAwMDwvbGlmZXRpbWU+CiAgPHJlc3RvY2s+MDwvcmVzdG9jaz4KICA8c2FmZXJhZGl1cz4xPC9zYWZlcmFkaXVzPgogIDxkaXN0YW5jZXJhZGl1cz4xPC9kaXN0YW5jZXJhZGl1cz4KICA8Y2xlYW51cHJhZGl1cz4xMDA8L2NsZWFudXByYWRpdXM+CiAgPGZsYWdzIGRlbGV0YWJsZT0iMCIgaW5pdF9yYW5kb209IjAiIHJlbW92ZV9kYW1hZ2VkPSIxIiAvPgogIDxwb3NpdGlvbj5maXhlZDwvcG9zaXRpb24+CiAgPGxpbWl0PmNoaWxkPC9saW1pdD4KICA8YWN0aXZlPjE8L2FjdGl2ZT4KICA8Y2hpbGRyZW4+CiAgICA8Y2hpbGQgbG9vdG1heD0iMCIgbG9vdG1pbj0iMCIgbWF4PSIxIiBtaW49IjEiIHR5cGU9IlN1cnZpdm9yTV9PbGl2ZXIiIC8+CiAgPC9jaGlsZHJlbj4KPC9ldmVudD4=",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199803453233451018",
+			"1200456806351249419",
+			"1199804327561273365"
+		],
+		"required_roles_all_required": false,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 855,
+		"name": "Gunter black",
+		"price_per_restart": 2500,
+		"category": "Vehicles",
+		"event_xml": "PGV2ZW50IG5hbWU9IlZlaGljbGUiPgogIDxub21pbmFsPjE8L25vbWluYWw+CiAgPG1pbj4xPC9taW4+CiAgPG1heD4xPC9tYXg+CiAgPGxpZmV0aW1lPjM4ODgwMDA8L2xpZmV0aW1lPgogIDxyZXN0b2NrPjA8L3Jlc3RvY2s+CiAgPHNhZmVyYWRpdXM+MTwvc2FmZXJhZGl1cz4KICA8ZGlzdGFuY2VyYWRpdXM+MTwvZGlzdGFuY2VyYWRpdXM+CiAgPGNsZWFudXByYWRpdXM+MTAwPC9jbGVhbnVwcmFkaXVzPgogIDxmbGFncyBkZWxldGFibGU9IjAiIGluaXRfcmFuZG9tPSIwIiByZW1vdmVfZGFtYWdlZD0iMSIgLz4KICA8cG9zaXRpb24+Zml4ZWQ8L3Bvc2l0aW9uPgogIDxsaW1pdD5jaGlsZDwvbGltaXQ+CiAgPGFjdGl2ZT4xPC9hY3RpdmU+CiAgPGNoaWxkcmVuPgogICAgPGNoaWxkIGxvb3RtYXg9IjAiIGxvb3RtaW49IjAiIG1heD0iMSIgbWluPSIxIiB0eXBlPSJIYXRjaGJhY2tfMDJfQmxhY2siIC8+CiAgPC9jaGlsZHJlbj4KPC9ldmVudD4=",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 856,
+		"name": "Gunter blue",
+		"price_per_restart": 2500,
+		"category": "Vehicles",
+		"event_xml": "PGV2ZW50IG5hbWU9IlZlaGljbGUiPgogIDxub21pbmFsPjE8L25vbWluYWw+CiAgPG1pbj4xPC9taW4+CiAgPG1heD4xPC9tYXg+CiAgPGxpZmV0aW1lPjM4ODgwMDA8L2xpZmV0aW1lPgogIDxyZXN0b2NrPjA8L3Jlc3RvY2s+CiAgPHNhZmVyYWRpdXM+MTwvc2FmZXJhZGl1cz4KICA8ZGlzdGFuY2VyYWRpdXM+MTwvZGlzdGFuY2VyYWRpdXM+CiAgPGNsZWFudXByYWRpdXM+MTAwPC9jbGVhbnVwcmFkaXVzPgogIDxmbGFncyBkZWxldGFibGU9IjAiIGluaXRfcmFuZG9tPSIwIiByZW1vdmVfZGFtYWdlZD0iMSIgLz4KICA8cG9zaXRpb24+Zml4ZWQ8L3Bvc2l0aW9uPgogIDxsaW1pdD5jaGlsZDwvbGltaXQ+CiAgPGFjdGl2ZT4xPC9hY3RpdmU+CiAgPGNoaWxkcmVuPgogICAgPGNoaWxkIGxvb3RtYXg9IjAiIGxvb3RtaW49IjAiIG1heD0iMSIgbWluPSIxIiB0eXBlPSJIYXRjaGJhY2tfMDJfQmx1ZSIgLz4KICA8L2NoaWxkcmVuPgo8L2V2ZW50Pg==",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 857,
+		"name": "Sarak yellow",
+		"price_per_restart": 2500,
+		"category": "Vehicles",
+		"event_xml": "PGV2ZW50IG5hbWU9IlZlaGljbGUiPgogIDxub21pbmFsPjE8L25vbWluYWw+CiAgPG1pbj4xPC9taW4+CiAgPG1heD4xPC9tYXg+CiAgPGxpZmV0aW1lPjM4ODgwMDA8L2xpZmV0aW1lPgogIDxyZXN0b2NrPjA8L3Jlc3RvY2s+CiAgPHNhZmVyYWRpdXM+MTwvc2FmZXJhZGl1cz4KICA8ZGlzdGFuY2VyYWRpdXM+MTwvZGlzdGFuY2VyYWRpdXM+CiAgPGNsZWFudXByYWRpdXM+MTAwPC9jbGVhbnVwcmFkaXVzPgogIDxmbGFncyBkZWxldGFibGU9IjAiIGluaXRfcmFuZG9tPSIwIiByZW1vdmVfZGFtYWdlZD0iMSIgLz4KICA8cG9zaXRpb24+Zml4ZWQ8L3Bvc2l0aW9uPgogIDxsaW1pdD5jaGlsZDwvbGltaXQ+CiAgPGFjdGl2ZT4xPC9hY3RpdmU+CiAgPGNoaWxkcmVuPgogICAgPGNoaWxkIGxvb3RtYXg9IjAiIGxvb3RtaW49IjAiIG1heD0iMSIgbWluPSIxIiB0eXBlPSJTZWRhbl8wMiIgLz4KICA8L2NoaWxkcmVuPgo8L2V2ZW50Pg==",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 860,
+		"name": "Olga white",
+		"price_per_restart": 2500,
+		"category": "Vehicles",
+		"event_xml": "PGV2ZW50IG5hbWU9IlZlaGljbGUiPgogIDxub21pbmFsPjE8L25vbWluYWw+CiAgPG1pbj4xPC9taW4+CiAgPG1heD4xPC9tYXg+CiAgPGxpZmV0aW1lPjM4ODgwMDA8L2xpZmV0aW1lPgogIDxyZXN0b2NrPjA8L3Jlc3RvY2s+CiAgPHNhZmVyYWRpdXM+MTwvc2FmZXJhZGl1cz4KICA8ZGlzdGFuY2VyYWRpdXM+MTwvZGlzdGFuY2VyYWRpdXM+CiAgPGNsZWFudXByYWRpdXM+MTAwPC9jbGVhbnVwcmFkaXVzPgogIDxmbGFncyBkZWxldGFibGU9IjAiIGluaXRfcmFuZG9tPSIwIiByZW1vdmVfZGFtYWdlZD0iMSIgLz4KICA8cG9zaXRpb24+Zml4ZWQ8L3Bvc2l0aW9uPgogIDxsaW1pdD5jaGlsZDwvbGltaXQ+CiAgPGFjdGl2ZT4xPC9hY3RpdmU+CiAgPGNoaWxkcmVuPgogICAgPGNoaWxkIGxvb3RtYXg9IjAiIGxvb3RtaW49IjAiIG1heD0iMSIgbWluPSIxIiB0eXBlPSJDaXZpbGlhblNlZGFuIiAvPgogIDwvY2hpbGRyZW4+CjwvZXZlbnQ+",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 861,
+		"name": "Olga red",
+		"price_per_restart": 2500,
+		"category": "Vehicles",
+		"event_xml": "PGV2ZW50IG5hbWU9IlZlaGljbGUiPgogIDxub21pbmFsPjE8L25vbWluYWw+CiAgPG1pbj4xPC9taW4+CiAgPG1heD4xPC9tYXg+CiAgPGxpZmV0aW1lPjM4ODgwMDA8L2xpZmV0aW1lPgogIDxyZXN0b2NrPjA8L3Jlc3RvY2s+CiAgPHNhZmVyYWRpdXM+MTwvc2FmZXJhZGl1cz4KICA8ZGlzdGFuY2VyYWRpdXM+MTwvZGlzdGFuY2VyYWRpdXM+CiAgPGNsZWFudXByYWRpdXM+MTAwPC9jbGVhbnVwcmFkaXVzPgogIDxmbGFncyBkZWxldGFibGU9IjAiIGluaXRfcmFuZG9tPSIwIiByZW1vdmVfZGFtYWdlZD0iMSIgLz4KICA8cG9zaXRpb24+Zml4ZWQ8L3Bvc2l0aW9uPgogIDxsaW1pdD5jaGlsZDwvbGltaXQ+CiAgPGFjdGl2ZT4xPC9hY3RpdmU+CiAgPGNoaWxkcmVuPgogICAgPGNoaWxkIGxvb3RtYXg9IjAiIGxvb3RtaW49IjAiIG1heD0iMSIgbWluPSIxIiB0eXBlPSJDaXZpbGlhblNlZGFuX1dpbmUiIC8+CiAgPC9jaGlsZHJlbj4KPC9ldmVudD4=",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 862,
+		"name": "Olga black",
+		"price_per_restart": 2500,
+		"category": "Vehicles",
+		"event_xml": "PGV2ZW50IG5hbWU9IlZlaGljbGUiPgogIDxub21pbmFsPjE8L25vbWluYWw+CiAgPG1pbj4xPC9taW4+CiAgPG1heD4xPC9tYXg+CiAgPGxpZmV0aW1lPjM4ODgwMDA8L2xpZmV0aW1lPgogIDxyZXN0b2NrPjA8L3Jlc3RvY2s+CiAgPHNhZmVyYWRpdXM+MTwvc2FmZXJhZGl1cz4KICA8ZGlzdGFuY2VyYWRpdXM+MTwvZGlzdGFuY2VyYWRpdXM+CiAgPGNsZWFudXByYWRpdXM+MTAwPC9jbGVhbnVwcmFkaXVzPgogIDxmbGFncyBkZWxldGFibGU9IjAiIGluaXRfcmFuZG9tPSIwIiByZW1vdmVfZGFtYWdlZD0iMSIgLz4KICA8cG9zaXRpb24+Zml4ZWQ8L3Bvc2l0aW9uPgogIDxsaW1pdD5jaGlsZDwvbGltaXQ+CiAgPGFjdGl2ZT4xPC9hY3RpdmU+CiAgPGNoaWxkcmVuPgogICAgPGNoaWxkIGxvb3RtYXg9IjAiIGxvb3RtaW49IjAiIG1heD0iMSIgbWluPSIxIiB0eXBlPSJDaXZpbGlhblNlZGFuX0JsYWNrIiAvPgogIDwvY2hpbGRyZW4+CjwvZXZlbnQ+",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 863,
+		"name": "ADA whilte",
+		"price_per_restart": 2500,
+		"category": "Vehicles",
+		"event_xml": "PGV2ZW50IG5hbWU9IlZlaGljbGUiPgogIDxub21pbmFsPjE8L25vbWluYWw+CiAgPG1pbj4xPC9taW4+CiAgPG1heD4xPC9tYXg+CiAgPGxpZmV0aW1lPjM4ODgwMDA8L2xpZmV0aW1lPgogIDxyZXN0b2NrPjA8L3Jlc3RvY2s+CiAgPHNhZmVyYWRpdXM+MTwvc2FmZXJhZGl1cz4KICA8ZGlzdGFuY2VyYWRpdXM+MTwvZGlzdGFuY2VyYWRpdXM+CiAgPGNsZWFudXByYWRpdXM+MTAwPC9jbGVhbnVwcmFkaXVzPgogIDxmbGFncyBkZWxldGFibGU9IjAiIGluaXRfcmFuZG9tPSIwIiByZW1vdmVfZGFtYWdlZD0iMSIgLz4KICA8cG9zaXRpb24+Zml4ZWQ8L3Bvc2l0aW9uPgogIDxsaW1pdD5jaGlsZDwvbGltaXQ+CiAgPGFjdGl2ZT4xPC9hY3RpdmU+CiAgPGNoaWxkcmVuPgogICAgPGNoaWxkIGxvb3RtYXg9IjAiIGxvb3RtaW49IjAiIG1heD0iMSIgbWluPSIxIiB0eXBlPSJPZmZyb2FkSGF0Y2hiYWNrX1doaXRlIiAvPgogIDwvY2hpbGRyZW4+CjwvZXZlbnQ+",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 864,
+		"name": "ADA green",
+		"price_per_restart": 2500,
+		"category": "Vehicles",
+		"event_xml": "PGV2ZW50IG5hbWU9IlZlaGljbGUiPgogIDxub21pbmFsPjE8L25vbWluYWw+CiAgPG1pbj4xPC9taW4+CiAgPG1heD4xPC9tYXg+CiAgPGxpZmV0aW1lPjM4ODgwMDA8L2xpZmV0aW1lPgogIDxyZXN0b2NrPjA8L3Jlc3RvY2s+CiAgPHNhZmVyYWRpdXM+MTwvc2FmZXJhZGl1cz4KICA8ZGlzdGFuY2VyYWRpdXM+MTwvZGlzdGFuY2VyYWRpdXM+CiAgPGNsZWFudXByYWRpdXM+MTAwPC9jbGVhbnVwcmFkaXVzPgogIDxmbGFncyBkZWxldGFibGU9IjAiIGluaXRfcmFuZG9tPSIwIiByZW1vdmVfZGFtYWdlZD0iMSIgLz4KICA8cG9zaXRpb24+Zml4ZWQ8L3Bvc2l0aW9uPgogIDxsaW1pdD5jaGlsZDwvbGltaXQ+CiAgPGFjdGl2ZT4xPC9hY3RpdmU+CiAgPGNoaWxkcmVuPgogICAgPGNoaWxkIGxvb3RtYXg9IjAiIGxvb3RtaW49IjAiIG1heD0iMSIgbWluPSIxIiB0eXBlPSJPZmZyb2FkSGF0Y2hiYWNrIiAvPgogIDwvY2hpbGRyZW4+CjwvZXZlbnQ+",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 865,
+		"name": "ADA blue",
+		"price_per_restart": 2500,
+		"category": "Vehicles",
+		"event_xml": "PGV2ZW50IG5hbWU9IlZlaGljbGUiPgogIDxub21pbmFsPjE8L25vbWluYWw+CiAgPG1pbj4xPC9taW4+CiAgPG1heD4xPC9tYXg+CiAgPGxpZmV0aW1lPjM4ODgwMDA8L2xpZmV0aW1lPgogIDxyZXN0b2NrPjA8L3Jlc3RvY2s+CiAgPHNhZmVyYWRpdXM+MTwvc2FmZXJhZGl1cz4KICA8ZGlzdGFuY2VyYWRpdXM+MTwvZGlzdGFuY2VyYWRpdXM+CiAgPGNsZWFudXByYWRpdXM+MTAwPC9jbGVhbnVwcmFkaXVzPgogIDxmbGFncyBkZWxldGFibGU9IjAiIGluaXRfcmFuZG9tPSIwIiByZW1vdmVfZGFtYWdlZD0iMSIgLz4KICA8cG9zaXRpb24+Zml4ZWQ8L3Bvc2l0aW9uPgogIDxsaW1pdD5jaGlsZDwvbGltaXQ+CiAgPGFjdGl2ZT4xPC9hY3RpdmU+CiAgPGNoaWxkcmVuPgogICAgPGNoaWxkIGxvb3RtYXg9IjAiIGxvb3RtaW49IjAiIG1heD0iMSIgbWluPSIxIiB0eXBlPSJPZmZyb2FkSGF0Y2hiYWNrX0JsdWUiIC8+CiAgPC9jaGlsZHJlbj4KPC9ldmVudD4=",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 866,
+		"name": "Truck orange",
+		"price_per_restart": 2500,
+		"category": "Vehicles",
+		"event_xml": "PGV2ZW50IG5hbWU9IlZlaGljbGUiPgogIDxub21pbmFsPjE8L25vbWluYWw+CiAgPG1pbj4xPC9taW4+CiAgPG1heD4xPC9tYXg+CiAgPGxpZmV0aW1lPjM4ODgwMDA8L2xpZmV0aW1lPgogIDxyZXN0b2NrPjA8L3Jlc3RvY2s+CiAgPHNhZmVyYWRpdXM+MTwvc2FmZXJhZGl1cz4KICA8ZGlzdGFuY2VyYWRpdXM+MTwvZGlzdGFuY2VyYWRpdXM+CiAgPGNsZWFudXByYWRpdXM+MTAwPC9jbGVhbnVwcmFkaXVzPgogIDxmbGFncyBkZWxldGFibGU9IjAiIGluaXRfcmFuZG9tPSIwIiByZW1vdmVfZGFtYWdlZD0iMSIgLz4KICA8cG9zaXRpb24+Zml4ZWQ8L3Bvc2l0aW9uPgogIDxsaW1pdD5jaGlsZDwvbGltaXQ+CiAgPGFjdGl2ZT4xPC9hY3RpdmU+CiAgPGNoaWxkcmVuPgogICAgPGNoaWxkIGxvb3RtYXg9IjAiIGxvb3RtaW49IjAiIG1heD0iMSIgbWluPSIxIiB0eXBlPSJUcnVja18wMV9Db3ZlcmVkX09yYW5nZSIgLz4KICA8L2NoaWxkcmVuPgo8L2V2ZW50Pg==",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199806628753580083"
+		],
+		"required_roles_all_required": true,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 899,
+		"name": "NPC Sniper Peter",
+		"price_per_restart": 1,
+		"category": "NPCs",
+		"event_xml": "PGV2ZW50IG5hbWU9IlN0YXRpYyI+CiAgPG5vbWluYWw+MTwvbm9taW5hbD4KICA8bWluPjE8L21pbj4KICA8bWF4PjE8L21heD4KICA8bGlmZXRpbWU+Mzg4ODAwMDwvbGlmZXRpbWU+CiAgPHJlc3RvY2s+MDwvcmVzdG9jaz4KICA8c2FmZXJhZGl1cz4xPC9zYWZlcmFkaXVzPgogIDxkaXN0YW5jZXJhZGl1cz4xPC9kaXN0YW5jZXJhZGl1cz4KICA8Y2xlYW51cHJhZGl1cz4xMDA8L2NsZWFudXByYWRpdXM+CiAgPGZsYWdzIGRlbGV0YWJsZT0iMCIgaW5pdF9yYW5kb209IjAiIHJlbW92ZV9kYW1hZ2VkPSIxIiAvPgogIDxwb3NpdGlvbj5maXhlZDwvcG9zaXRpb24+CiAgPGxpbWl0PmNoaWxkPC9saW1pdD4KICA8YWN0aXZlPjE8L2FjdGl2ZT4KICA8Y2hpbGRyZW4+CiAgICA8Y2hpbGQgbG9vdG1heD0iMCIgbG9vdG1pbj0iMCIgbWF4PSIxIiBtaW49IjEiIHR5cGU9IlN1cnZpdm9yTV9QZXRlciIgLz4KICA8L2NoaWxkcmVuPgo8L2V2ZW50Pg==",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199803453233451018",
+			"1200456806351249419",
+			"1199804327561273365"
+		],
+		"required_roles_all_required": false,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 900,
+		"name": "Bear",
+		"price_per_restart": 1,
+		"category": "Staff",
+		"event_xml": "PGV2ZW50IG5hbWU9Ikl0ZW0iPgogICAgICAgIDxub21pbmFsPjE8L25vbWluYWw+CiAgICAgICAgPG1pbj4xPC9taW4+CiAgICAgICAgPG1heD4xPC9tYXg+CiAgICAgICAgPGxpZmV0aW1lPjE4MDwvbGlmZXRpbWU+CiAgICAgICAgPHJlc3RvY2s+MDwvcmVzdG9jaz4KICAgICAgICA8c2FmZXJhZGl1cz4yMDA8L3NhZmVyYWRpdXM+CiAgICAgICAgPGRpc3RhbmNlcmFkaXVzPjA8L2Rpc3RhbmNlcmFkaXVzPgogICAgICAgIDxjbGVhbnVwcmFkaXVzPjA8L2NsZWFudXByYWRpdXM+CiAgICAgICAgPGZsYWdzIGRlbGV0YWJsZT0iMCIgaW5pdF9yYW5kb209IjAiIHJlbW92ZV9kYW1hZ2VkPSIxIiAvPgogICAgICAgIDxwb3NpdGlvbj5maXhlZDwvcG9zaXRpb24+CiAgICAgICAgPGxpbWl0PmN1c3RvbTwvbGltaXQ+CiAgICAgICAgPGFjdGl2ZT4xPC9hY3RpdmU+CiAgICAgICAgPGNoaWxkcmVuPgogICAgICAgICAgICA8Y2hpbGQgbG9vdG1heD0iMCIgbG9vdG1pbj0iMCIgbWF4PSIxIiBtaW49IjEiIHR5cGU9IkFuaW1hbF9VcnN1c0FyY3RvcyIgLz4KICAgICAgICA8L2NoaWxkcmVuPgogICAgPC9ldmVudD4=",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199803453233451018",
+			"1200456806351249419",
+			"1199804327561273365"
+		],
+		"required_roles_all_required": false,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 917,
+		"name": "Wolf",
+		"price_per_restart": 1,
+		"category": "Staff",
+		"event_xml": "PGV2ZW50IG5hbWU9Ikl0ZW0iPgogIDxub21pbmFsPjE8L25vbWluYWw+CiAgPG1pbj4xPC9taW4+CiAgPG1heD4xPC9tYXg+CiAgPGxpZmV0aW1lPjE4MDwvbGlmZXRpbWU+CiAgPHJlc3RvY2s+MDwvcmVzdG9jaz4KICA8c2FmZXJhZGl1cz4yMDA8L3NhZmVyYWRpdXM+CiAgPGRpc3RhbmNlcmFkaXVzPjA8L2Rpc3RhbmNlcmFkaXVzPgogIDxjbGVhbnVwcmFkaXVzPjA8L2NsZWFudXByYWRpdXM+CiAgPGZsYWdzIGRlbGV0YWJsZT0iMCIgaW5pdF9yYW5kb209IjAiIHJlbW92ZV9kYW1hZ2VkPSIxIiAvPgogIDxwb3NpdGlvbj5maXhlZDwvcG9zaXRpb24+CiAgPGxpbWl0PmN1c3RvbTwvbGltaXQ+CiAgPGFjdGl2ZT4xPC9hY3RpdmU+CiAgPGNoaWxkcmVuPgogICAgPGNoaWxkIGxvb3RtYXg9IjAiIGxvb3RtaW49IjAiIG1heD0iMSIgbWluPSIxIiB0eXBlPSJBbmltYWxfQ2FuaXNMdXB1c19XaGl0ZSIgLz4KICA8L2NoaWxkcmVuPgo8L2V2ZW50Pg==",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199803453233451018",
+			"1200456806351249419",
+			"1199804327561273365"
+		],
+		"required_roles_all_required": false,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 919,
+		"name": "NPC Cowboy Jose",
+		"price_per_restart": 1,
+		"category": "NPCs",
+		"event_xml": "PGV2ZW50IG5hbWU9IlN0YXRpYyI+CiAgPG5vbWluYWw+MTwvbm9taW5hbD4KICA8bWluPjE8L21pbj4KICA8bWF4PjE8L21heD4KICA8bGlmZXRpbWU+Mzg4ODAwMDwvbGlmZXRpbWU+CiAgPHJlc3RvY2s+MDwvcmVzdG9jaz4KICA8c2FmZXJhZGl1cz4xPC9zYWZlcmFkaXVzPgogIDxkaXN0YW5jZXJhZGl1cz4xPC9kaXN0YW5jZXJhZGl1cz4KICA8Y2xlYW51cHJhZGl1cz4xMDA8L2NsZWFudXByYWRpdXM+CiAgPGZsYWdzIGRlbGV0YWJsZT0iMCIgaW5pdF9yYW5kb209IjAiIHJlbW92ZV9kYW1hZ2VkPSIxIiAvPgogIDxwb3NpdGlvbj5maXhlZDwvcG9zaXRpb24+CiAgPGxpbWl0PmNoaWxkPC9saW1pdD4KICA8YWN0aXZlPjE8L2FjdGl2ZT4KICA8Y2hpbGRyZW4+CiAgICA8Y2hpbGQgbG9vdG1heD0iMCIgbG9vdG1pbj0iMCIgbWF4PSIxIiBtaW49IjEiIHR5cGU9IlN1cnZpdm9yTV9Kb3NlIiAvPgogIDwvY2hpbGRyZW4+CjwvZXZlbnQ+",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199803453233451018",
+			"1200456806351249419",
+			"1199804327561273365"
+		],
+		"required_roles_all_required": false,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	},
+	{
+		"id": 922,
+		"name": "NPC Business Lewis",
+		"price_per_restart": 1,
+		"category": "NPCs",
+		"event_xml": "PGV2ZW50IG5hbWU9IlN0YXRpYyI+CiAgPG5vbWluYWw+MTwvbm9taW5hbD4KICA8bWluPjE8L21pbj4KICA8bWF4PjE8L21heD4KICA8bGlmZXRpbWU+Mzg4ODAwMDwvbGlmZXRpbWU+CiAgPHJlc3RvY2s+MDwvcmVzdG9jaz4KICA8c2FmZXJhZGl1cz4xPC9zYWZlcmFkaXVzPgogIDxkaXN0YW5jZXJhZGl1cz4xPC9kaXN0YW5jZXJhZGl1cz4KICA8Y2xlYW51cHJhZGl1cz4xMDA8L2NsZWFudXByYWRpdXM+CiAgPGZsYWdzIGRlbGV0YWJsZT0iMCIgaW5pdF9yYW5kb209IjAiIHJlbW92ZV9kYW1hZ2VkPSIxIiAvPgogIDxwb3NpdGlvbj5maXhlZDwvcG9zaXRpb24+CiAgPGxpbWl0PmNoaWxkPC9saW1pdD4KICA8YWN0aXZlPjE8L2FjdGl2ZT4KICA8Y2hpbGRyZW4+CiAgICA8Y2hpbGQgbG9vdG1heD0iMCIgbG9vdG1pbj0iMCIgbWF4PSIxIiBtaW49IjEiIHR5cGU9IlN1cnZpdm9yTV9MZXdpcyIgLz4KICA8L2NoaWxkcmVuPgo8L2V2ZW50Pg==",
+		"event_zone": null,
+		"required_role_ids": [
+			"1199803453233451018",
+			"1200456806351249419",
+			"1199804327561273365"
+		],
+		"required_roles_all_required": false,
+		"event_group": null,
+		"restart_minimum": null,
+		"restart_maximum": null
+	}
+]
