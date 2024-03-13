@@ -1407,6 +1407,10 @@
         <pos x="4927.973" z="7844.380" a="0" y="333.543" group="Traffic_VMC" />
         <pos x="3518.464" z="9122.509" a="0" y="310.821" group="Traffic_Vybor" />
     </event>
+    <event name="StaticMildrop">
+        <zone smin="0" smax="0" dmin="1" dmax="2" r="30" />
+            <pos x="4172.5" y="301" z="7766.8" a="0" group="Mildrop" />
+    </event>      
     <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />

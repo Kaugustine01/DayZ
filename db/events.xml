@@ -1117,4 +1117,20 @@
             <child lootmax="0" lootmin="0" max="5" min="3" type="Truck_01_Covered_Orange" />
         </children>
     </event>
+    <event name="StaticMildrop">
+        <nominal>3</nominal>
+        <min>1</min>
+        <max>3</max>
+        <lifetime>5400</lifetime>
+        <restock>0</restock>
+        <saferadius>25</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>1000</cleanupradius>
+        <secondary>InfectedArmy</secondary>
+        <flags deletable="1" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children/>
+    </event>    
 </events>
