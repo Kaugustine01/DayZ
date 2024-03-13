@@ -1,23 +1,5 @@
 {
-  "Areas": [
-    {
-      "AreaName": "CluckerField",
-      "Type": "SpookyArea",
-      "TriggerType": "EffectTrigger",
-      "Data": {
-        "Pos": [
-          4172.5,
-          300,
-          7766.8
-        ],
-        "ParticleName": "graphics/particles/smoke_M18_red_02"
-      },
-      "PlayerData": {
-        "AroundPartName": "graphics/particles/",
-        "TinyPartName": "graphics/particles/",
-        "PPERequesterType": ""
-      }
-    },    
+  "Areas": [  
     {
       "AreaName": "Ship-SW",
       "Type": "ContaminatedArea_Static",
