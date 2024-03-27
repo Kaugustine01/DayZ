@@ -12752,11 +12752,10 @@
 						<point pos="2.162994 -1.856922 1.857910" range="0.489321" height="0.239521" flags="32" />
 						<point pos="-4.164428 -1.856922 2.812988" range="0.277910" height="1.145630" flags="32" />
 						<point pos="-4.802368 -1.856922 -0.578615" range="0.329033" height="1.024933" flags="32" />
-				</container>	
+				</container>					
 				<dispatch dechance="1.0">
-					<proxy type="M4A1_Black" pos="-4.902368 -1.956922 -0.578615" rpy="0.0 0.0 0.0" dechance="0.50" />	
-					<proxy type="M4A1_Green" pos="-4.902368 -1.956922 -0.578615" rpy="0.0 0.0 0.0" dechance="0.50" />					
-				</dispatch>				
+					<proxy type="M4A1_Green" pos="-3.017131 -1.5 0.206791" rpy="90.0 30.0 -10.0" dechance="1.00" />						
+				</dispatch>						
 		</group>
 		<group name="Wreck_Mi8" lootmax="20">
 				<usage name="Military" />	
@@ -12832,11 +12831,10 @@
 						<point pos="-5.446472 -1.813892 -1.698241" range="0.548840" height="1.410522" />
 						<point pos="-2.769746 -1.517029 -2.799561" range="0.203125" height="0.507813" />
 						<point pos="-3.818542 -1.811153 -1.685303" range="0.460957" height="1.302490" />
-				</container>		
-				<dispatch dechance="1.0">
-					<proxy type="M4A1_Black" pos="-3.918542 -1.911153 -1.685303" rpy="0.0 0.0 0.0" dechance="0.50" />	
-					<proxy type="M4A1_Green" pos="-3.918542 -1.911153 -1.685303" rpy="0.0 0.0 0.0" dechance="0.50" />					
-				</dispatch>							
+				</container>
+				<dispatch dechance="0.50">
+					<proxy type="M4A1_Black" pos="-8.088387 -1.1 -0.340433" rpy="0.0 15.0 0.0" dechance="1.00" />						
+				</dispatch>
 		</group>
 		<group name="Land_Wreck_C130J" lootmax="10">
 				<usage name="Military" />
@@ -16614,11 +16612,17 @@
 						<point pos="0.829929 0.5 3.131861" range="1.65" height="1.5" flags="32" />
 						<point pos="0.975612 0.5 -3.178558" range="1.65" height="1.5" flags="32" />
 				</container>
-				<dispatch dechance="1.0">
-					<proxy type="M14" pos="0.985612 0.5 -3.278558" rpy="0.0 0.0 0.0" dechance="0.33" />	
-					<proxy type="Aug" pos="0.985612 0.5 -3.278558" rpy="0.0 0.0 0.0" dechance="0.33" />	
-					<proxy type="FAL" pos="0.985612 0.5 -3.278558" rpy="0.0 0.0 0.0" dechance="0.32" />		
-					<proxy type="Plastic_Explosive" pos="0.985612 0.5 -3.278558" rpy="0.0 0.0 0.0" dechance="0.02" />										
+				<dispatch dechance="0.33">
+					<proxy type="M14" pos="-0.985612 -2.5 -3.758558" rpy="-0.05 0.0 -0.05" dechance="1.0" />	
+				</dispatch>
+				<dispatch dechance="0.33">			
+					<proxy type="Aug" pos="-0.985612 -2.5 -3.758558" rpy="-0.05 0.0 -0.05" dechance="1.0" />	
+				</dispatch>
+				<dispatch dechance="0.32">
+					<proxy type="FAL" pos="-0.985612 -2.5 -3.758558" rpy="-0.05 0.0 -0.05" dechance="1.0" />		
+				</dispatch>
+				<dispatch dechance="0.02">
+					<proxy type="Plastic_Explosive" pos="-0.985612 -2.5 -3.758558" rpy="-0.05 0.0 -0.05" dechance="1.0" />										
 				</dispatch>					
 		</group>
 
