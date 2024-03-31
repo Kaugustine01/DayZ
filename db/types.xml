@@ -6443,7 +6443,7 @@
     </type>
     <type name="EasterEgg">
         <nominal>0</nominal>
-        <lifetime>7201</lifetime>
+        <lifetime>259200</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -13864,40 +13864,40 @@
         <usage name="Military"/>
     </type>
     <type name="OffroadHatchback">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>3</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="OffroadHatchback_Blue">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>3</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="OffroadHatchback_White">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>3</lifetime>
         <restock>1800</restock>
-        <min>1</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
     <type name="Offroad_02">
-        <nominal>5</nominal>
+        <nominal>0</nominal>
         <lifetime>1800</lifetime>
         <restock>0</restock>
-        <min>3</min>
+        <min>0</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
