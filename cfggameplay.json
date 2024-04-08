@@ -46,7 +46,7 @@
     "WorldsData": {
         "lightingConfig": 1,
         "objectSpawnersArr": [
-            "./custom/CastleCluckker.json",
+            "./custom/BaseCluckCastle.json",
             "./custom/BaseStaryelugaCompound.json",
             "./custom/BaseChurchCastle.json"
         ],
