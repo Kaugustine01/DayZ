@@ -47,8 +47,8 @@
         "lightingConfig": 1,
         "objectSpawnersArr": [
             "./custom/BaseCluckCastle.json",
-            "./custom/BaseStaryelugaCompound.json",
-            "./custom/BaseChurchCastle.json"
+			"./custom/BaseCluckCastleBunker.json",
+            "./custom/BaseChurchCastle.json"            
         ],
         "environmentMinTemps": [
             -3.0,
