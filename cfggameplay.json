@@ -46,9 +46,10 @@
     "WorldsData": {
         "lightingConfig": 1,
         "objectSpawnersArr": [
+            "./custom/SafezoneDevilsCastle.json",      
             "./custom/BaseCluckCastle.json",
 			"./custom/BaseCluckCastleBunker.json",
-            "./custom/BaseChurchCastle.json"            
+            "./custom/BaseChurchCastle.json"
         ],
         "environmentMinTemps": [
             -3.0,
