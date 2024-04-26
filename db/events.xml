@@ -1150,4 +1150,38 @@
             <child lootmax="5" lootmin="0" max="0" min="30" type="ZmbM_Mummy"/>
         </children>
     </event> 
+    <event name="NPCLewis">        
+        <nominal>1</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <saferadius>1</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorM_Lewis"/>
+        </children>
+    </event>	
+    <event name="NPCOliver">        
+        <nominal>1</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <saferadius>1</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorM_Oliver"/>
+        </children>
+    </event>    
 </events>
