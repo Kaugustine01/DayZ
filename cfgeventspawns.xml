@@ -1411,10 +1411,10 @@
         <zone smin="0" smax="0" dmin="1" dmax="2" r="30" />
             <pos x="4172.5" y="301" z="7766.8" a="0" group="Mildrop" />
     </event> 
-    <event name="NPCLewis">	
+    <event name="StaticNPCLewis">	
         <pos x="3959.5344" z="10738.403" a="0.0" />
     </event>
-    <event name="NPCOliver">	
+    <event name="StaticNPCOliver">	
         <pos x="4486.8055" z="9392.9761" a="0.0" />
     </event>         
     <event name="VehicleTransitBus" />
