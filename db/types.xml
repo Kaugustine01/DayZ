@@ -18591,10 +18591,10 @@
         <category name="tools"/>
     </type>
     <type name="TetracyclineAntibiotics">
-        <nominal>750</nominal>
+        <nominal>200</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>400</min>
+        <min>100</min>
         <quantmin>100</quantmin>
         <quantmax>100</quantmax>
         <cost>100</cost>
