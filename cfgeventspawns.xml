@@ -1416,6 +1416,9 @@
     </event>
     <event name="StaticNPCOliver">	
         <pos x="4486.8055" z="9392.9761" a="0.0" />
+    </event>    
+    <event name="ItemPunchedCard">
+        <pos x="3835.800048828125" z="9951.16015625" a="362.15289306640627" />
     </event>         
     <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />

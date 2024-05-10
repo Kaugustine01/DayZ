@@ -1184,4 +1184,21 @@
             <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorM_Oliver"/>
         </children>
     </event>    
+    <event name="ItemPunchedCard">
+        <nominal>1</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>14400</lifetime>
+        <restock>7200</restock>
+        <saferadius>0</saferadius>
+        <distanceradius>0</distanceradius>
+        <cleanupradius>25</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="PunchedCard"/>
+        </children>
+    </event>    
 </events>

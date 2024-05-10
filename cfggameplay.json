@@ -50,7 +50,9 @@
             "./custom/BaseCluckCastle.json",
 			"./custom/BaseCluckCastleBunker.json",
             "./custom/BaseChurchCastle.json",
-            "./custom/BaseStaff.json"
+            "./custom/BaseStaff.json",
+            "./custom/BaseIsland"
+
         ],
         "environmentMinTemps": [
             -3.0,

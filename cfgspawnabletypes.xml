@@ -5607,6 +5607,10 @@
             <item name="Mag_Vikhr_30Rnd" chance="1.0" />
         </attachments>
     </type>
+
+	<type name="PunchedCard">
+		<damage min="0.9" max="0.9" />
+	</type>
 <!--
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">
