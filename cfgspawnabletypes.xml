@@ -5493,6 +5493,9 @@
 		<attachments chance="1.00">
 			<item name="Battery9V" chance="1.00" />
 		</attachments>
+		<attachments chance="1.00">
+			<item name="FieldShovel" chance="1.00" />
+		</attachments>			
 	</type>		
 	<type name="SurvivorM_Seth">
 		<attachments chance="1.00">
