@@ -6230,8 +6230,7 @@
 	<!--1.24-->
     <type name="Vikhr">
         <attachments chance="1.0">
-            <item name="KashtanOptic" chance="0.50" />
-            <item name="PSO1Optic" chance="0.50" />
+            <item name="KobraOptic" chance="1.00" />
         </attachments>
         <attachments chance="1.0">
             <item name="Battery9V" chance="1.0" />
@@ -6244,6 +6243,23 @@
 	<type name="PunchedCard">
 		<damage min="0.9" max="0.9" />
 	</type>
+
+	<!--1.25-->
+	<type name="SV98">
+        <attachments chance="1.0">
+            <item name="M4_T3NRDSOptic" chance="0.30" />
+            <item name="ReflexOptic" chance="0.30" />
+            <item name="ACOGOptic" chance="0.25" />
+            <item name="ACOGOptic_6x" chance="0.15" />
+        </attachments>
+        <attachments chance="1.0">
+            <item name="Battery9V" chance="1.0" />
+        </attachments>				
+        <attachments chance="1.0">
+            <item name="Mag_SV98_10Rnd" chance="1.0" />
+        </attachments>
+    </type>
+
 <!--
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">
