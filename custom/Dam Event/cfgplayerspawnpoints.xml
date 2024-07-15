@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<playerspawnpoints>
+    <fresh>
+        <spawn_params>
+            <min_dist_infected>30</min_dist_infected>
+            <max_dist_infected>70</max_dist_infected>
+            <min_dist_player>65</min_dist_player>
+            <max_dist_player>150</max_dist_player>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+        </spawn_params>
+        <generator_params>
+            <grid_density>4</grid_density>
+            <grid_width>200</grid_width>
+            <grid_height>200</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+        <group_params>
+            <enablegroups>true</enablegroups>
+            <groups_as_regular>true</groups_as_regular>            
+            <lifetime>360</lifetime>
+            <counter>-1</counter>
+        </group_params>
+        <generator_posbubbles>
+			<group name="North">    		        
+		        <pos x="13460.7" y="42.3009" z="11732.2" a="0"/> 
+		        <pos x="13534.4" y="35.6492" z="11752" a="0"/>   
+		        <pos x="13563.8" y="36.174" z="11892.6" a="0"/>
+		        <pos x="13127.4" y="53.2421" z="11861.8" a="0"/>
+		        <pos x="13510.5" y="57.0969" z="12115.5" a="0"/> 
+		        <pos x="13560.3" y="50.3074" z="12095.3" a="0"/>
+                <pos x="13452.27" z="12170.57" a="0"/>
+			</group>
+            <group name="East">	
+				<pos x="13491" y="68.769" z="12253.1" a="0"/> 
+	     	    <pos x="13324" y="59.2345" z="11849" a="0"/> 
+		        <pos x="13617.3" y="26.8925" z="11814.6" a="0"/> 
+		        <pos x="13514.2" y="43.3611" z="11837.6" a="0"/> 
+		        <pos x="13384.1" y="51.7076" z="11818.2" a="0"/> 
+		        <pos x="13218.9" y="48.8807" z="11784.6" a="0"/> 
+				<pos x="13278" y="43.3507" z="11706.9" a="0"/> 
+		    </group>
+            <group name="South">    
+				<pos x="13346.3" y="44.6105" z="11736.6" a="0"/> 	
+				<pos x="13406.8" y="40.1154" z="11656.6" a="0"/>
+		        <pos x="13472.4" y="67.5962" z="12198.4" a="0"/>           	
+		        <pos x="13213.4" y="59.9867" z="11851.2" a="0"/> 
+		        <pos x="13469.1" y="47.6423" z="11795.1" a="0"/> 
+		        <pos x="13456.6" y="54.2844" z="11851.9" a="0"/>
+                <pos x="13550.45" z="12109.33" a="0"/>
+                <pos x="13379.61" z="12115.89" a="0"/>
+		    </group>
+            <group name="west">  
+				<pos x="13527" y="40.7253" z="11863.9" a="0"/> 
+		        <pos x="13114.2" y="58.7509" z="11891.4" a="0"/> 
+		        <pos x="13204.5" y="54.7584" z="11821.9" a="0"/>
+		        <pos x="13294.2" y="49.1563" z="11783.1" a="0"/>
+		        <pos x="13374.7" y="44.5323" z="11733.6" a="0"/> 
+		        <pos x="13451.4" y="69.6218" z="12203.1" a="0"/>
+				<pos x="13379.3" y="68.4895" z="12112.8" a="0"/>
+			</group>	 
+        </generator_posbubbles>
+    </fresh>
+    <hop>
+        <spawn_params>
+            <min_dist_infected>30.0</min_dist_infected>
+            <max_dist_infected>70.0</max_dist_infected>
+            <min_dist_player>25.0</min_dist_player>
+            <max_dist_player>70.0</max_dist_player>
+            <min_dist_static>0.5</min_dist_static>
+            <max_dist_static>2.0</max_dist_static>
+        </spawn_params>
+        <generator_params>
+            <grid_density>4</grid_density>
+            <grid_width>150</grid_width>
+            <grid_height>150</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+        <group_params>
+            <enablegroups>true</enablegroups>
+            <groups_as_regular>true</groups_as_regular>
+            <lifetime>360</lifetime>
+            <counter>-1</counter>
+        </group_params>
+        <generator_posbubbles>
+			<group name="North">    		        
+		        <pos x="13460.7" y="42.3009" z="11732.2" a="0"/> 
+		        <pos x="13534.4" y="35.6492" z="11752" a="0"/>   
+		        <pos x="13563.8" y="36.174" z="11892.6" a="0"/>
+		        <pos x="13127.4" y="53.2421" z="11861.8" a="0"/>
+		        <pos x="13510.5" y="57.0969" z="12115.5" a="0"/> 
+		        <pos x="13560.3" y="50.3074" z="12095.3" a="0"/>
+                <pos x="13452.27" z="12170.57" a="0"/>
+			</group>
+            <group name="East">	
+				<pos x="13491" y="68.769" z="12253.1" a="0"/> 
+	     	    <pos x="13324" y="59.2345" z="11849" a="0"/> 
+		        <pos x="13617.3" y="26.8925" z="11814.6" a="0"/> 
+		        <pos x="13514.2" y="43.3611" z="11837.6" a="0"/> 
+		        <pos x="13384.1" y="51.7076" z="11818.2" a="0"/> 
+		        <pos x="13218.9" y="48.8807" z="11784.6" a="0"/> 
+				<pos x="13278" y="43.3507" z="11706.9" a="0"/> 
+		    </group>
+            <group name="South">    
+				<pos x="13346.3" y="44.6105" z="11736.6" a="0"/> 	
+				<pos x="13406.8" y="40.1154" z="11656.6" a="0"/>
+		        <pos x="13472.4" y="67.5962" z="12198.4" a="0"/>           	
+		        <pos x="13213.4" y="59.9867" z="11851.2" a="0"/> 
+		        <pos x="13469.1" y="47.6423" z="11795.1" a="0"/> 
+		        <pos x="13456.6" y="54.2844" z="11851.9" a="0"/>
+                <pos x="13550.45" z="12109.33" a="0"/>
+                <pos x="13379.61" z="12115.89" a="0"/>
+		    </group>
+            <group name="west">  
+				<pos x="13527" y="40.7253" z="11863.9" a="0"/> 
+		        <pos x="13114.2" y="58.7509" z="11891.4" a="0"/> 
+		        <pos x="13204.5" y="54.7584" z="11821.9" a="0"/>
+		        <pos x="13294.2" y="49.1563" z="11783.1" a="0"/>
+		        <pos x="13374.7" y="44.5323" z="11733.6" a="0"/> 
+		        <pos x="13451.4" y="69.6218" z="12203.1" a="0"/>
+				<pos x="13379.3" y="68.4895" z="12112.8" a="0"/>
+			</group>	 
+        </generator_posbubbles>
+    </hop>
+    <travel>
+        <spawn_params>
+            <min_dist_infected>30.0</min_dist_infected>
+            <max_dist_infected>70.0</max_dist_infected>
+            <min_dist_player>25.0</min_dist_player>
+            <max_dist_player>70.0</max_dist_player>
+            <min_dist_static>0.5</min_dist_static>
+            <max_dist_static>2.0</max_dist_static>
+        </spawn_params>
+       <generator_params>
+            <grid_density>4</grid_density>
+            <grid_width>150</grid_width>
+            <grid_height>150</grid_height>
+            <min_dist_static>0</min_dist_static>
+            <max_dist_static>2</max_dist_static>
+            <min_steepness>-45</min_steepness>
+            <max_steepness>45</max_steepness>
+        </generator_params>
+        <group_params>
+            <enablegroups>true</enablegroups>
+            <groups_as_regular>true</groups_as_regular>
+            <lifetime>360</lifetime>
+            <counter>-1</counter>
+        </group_params>
+        <generator_posbubbles>
+			<group name="North">    		        
+		        <pos x="13460.7" y="42.3009" z="11732.2" a="0"/> 
+		        <pos x="13534.4" y="35.6492" z="11752" a="0"/>   
+		        <pos x="13563.8" y="36.174" z="11892.6" a="0"/>
+		        <pos x="13127.4" y="53.2421" z="11861.8" a="0"/>
+		        <pos x="13510.5" y="57.0969" z="12115.5" a="0"/> 
+		        <pos x="13560.3" y="50.3074" z="12095.3" a="0"/>
+                <pos x="13452.27" z="12170.57" a="0"/>
+			</group>
+            <group name="East">	
+				<pos x="13491" y="68.769" z="12253.1" a="0"/> 
+	     	    <pos x="13324" y="59.2345" z="11849" a="0"/> 
+		        <pos x="13617.3" y="26.8925" z="11814.6" a="0"/> 
+		        <pos x="13514.2" y="43.3611" z="11837.6" a="0"/> 
+		        <pos x="13384.1" y="51.7076" z="11818.2" a="0"/> 
+		        <pos x="13218.9" y="48.8807" z="11784.6" a="0"/> 
+				<pos x="13278" y="43.3507" z="11706.9" a="0"/> 
+		    </group>
+            <group name="South">    
+				<pos x="13346.3" y="44.6105" z="11736.6" a="0"/> 	
+				<pos x="13406.8" y="40.1154" z="11656.6" a="0"/>
+		        <pos x="13472.4" y="67.5962" z="12198.4" a="0"/>           	
+		        <pos x="13213.4" y="59.9867" z="11851.2" a="0"/> 
+		        <pos x="13469.1" y="47.6423" z="11795.1" a="0"/> 
+		        <pos x="13456.6" y="54.2844" z="11851.9" a="0"/>
+                <pos x="13550.45" z="12109.33" a="0"/>
+                <pos x="13379.61" z="12115.89" a="0"/>
+		    </group>
+            <group name="west">  
+				<pos x="13527" y="40.7253" z="11863.9" a="0"/> 
+		        <pos x="13114.2" y="58.7509" z="11891.4" a="0"/> 
+		        <pos x="13204.5" y="54.7584" z="11821.9" a="0"/>
+		        <pos x="13294.2" y="49.1563" z="11783.1" a="0"/>
+		        <pos x="13374.7" y="44.5323" z="11733.6" a="0"/> 
+		        <pos x="13451.4" y="69.6218" z="12203.1" a="0"/>
+				<pos x="13379.3" y="68.4895" z="12112.8" a="0"/>
+			</group>	 
+        </generator_posbubbles>
+    </travel>
+</playerspawnpoints>
