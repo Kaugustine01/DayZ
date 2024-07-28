@@ -1,8 +1,8 @@
 {
     "version": 122,
     "GeneralData": {
-        "disableBaseDamage": true,
-        "disableContainerDamage": true,
+        "disableBaseDamage": false,
+        "disableContainerDamage": false,
         "disableRespawnDialog": false,
         "disableRespawnInUnconsciousness": false
     },
@@ -46,11 +46,11 @@
     "WorldsData": {
         "lightingConfig": 1,
         "objectSpawnersArr": [
-            "./custom/SafezoneDevilsCastle.json",     
+            "./custom/SafezoneDevilsCastle.json",
             "./custom/BaseStaff.json",
-            "./custom/BaseCluckCastle.json",
-			"./custom/BaseCluckCastleBunker.json",
-            "./custom/BaseIsland"
+            "./custom/BaseIsland.json",
+			"./custom/BasePrisonIslandBridge.json"
+			
         ],
         "environmentMinTemps": [
             -3.0,
