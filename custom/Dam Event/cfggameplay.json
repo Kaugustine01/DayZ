@@ -9,7 +9,7 @@
     "PlayerData": {
         "disablePersonalLight": false,
         "spawnGearPresetFiles": [
-            "./custom/spawnGearPresetFiles.json"
+            "./custom/spawnGearPresetFilesEventDam.json"
         ],
         "StaminaData": {
             "sprintStaminaModifierErc": 0,
@@ -49,8 +49,8 @@
             "./custom/SafezoneDevilsCastle.json",
             "./custom/BaseStaff.json",
             "./custom/BaseIsland.json",
-            "./custom/BasePersonnel.json",
-            "./custom/BasePrisonIslandBridge.json"            
+			"./custom/EventDamBunkerNL.json",
+			"./custom/EventExodusLogo.json"			
         ],
         "environmentMinTemps": [
             -3.0,
