@@ -1,13 +1,35 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <messages>
-    <message>
-        <delay>0</delay>
+
+
+<!-- 1) following message will be for the NWAF Event and will displayed every 15 minutes. -->
+ 	
+	<message>
+	    <repeat>15</repeat>
+        <delay>15</delay>
         <onconnect>1</onconnect>
-        <text>Welcome to server Exodus. NWAF PVP Event in progress! Please join our discord to take advantage of our economy. Linking your account is required. https://discord.gg/exodusdayz</text>
+        <text> 
+            NWAF PvP Event in progress: Thank you for joining!!!!!!
+        </text>
     </message>
-	
+
     <message>
-        <repeat>15</repeat>
-        <text>You're playing on Exodus. NWAF PVP Event in progress! Reminder you are earning credits as you play. See you on discord https://discord.gg/exodusdayz</text>
+	    <repeat>15</repeat>
+        <delay>15</delay>
+        <onconnect>1</onconnect>
+        <text>
+            NPCs will be at the North and South side of the Airfield!!!
+        </text>
+    </message>
+    
+    <message>
+	    <repeat>15</repeat>
+        <delay>15</delay>
+        <onconnect>1</onconnect>
+        <text>
+            Thank you for playing, Join our Discord to stay up to date on what we have going on. https://discord.gg/exodusdayz
+        </text>
     </message>	
-</messages>  
+
+
+</messages>
