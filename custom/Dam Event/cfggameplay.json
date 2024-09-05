@@ -49,8 +49,9 @@
             "./custom/SafezoneDevilsCastle.json",
             "./custom/BaseStaff.json",
             "./custom/BaseIsland.json",
-			"./custom/EventDamBunkerNL.json",
-			"./custom/EventExodusLogo.json"			
+            "./custom/BasePersonnel.json",
+            "./custom/BasePrisonIslandBridge.json",
+			"./custom/EventDamBunkerNL.json"
         ],
         "environmentMinTemps": [
             -3.0,

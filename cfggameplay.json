@@ -49,7 +49,8 @@
             "./custom/SafezoneDevilsCastle.json",
             "./custom/BaseStaff.json",
             "./custom/BaseIsland.json",
-			"./custom/BasePrisonIslandBridge.json"			
+            "./custom/BasePersonnel.json",
+            "./custom/BasePrisonIslandBridge.json"
         ],
         "environmentMinTemps": [
             -3.0,
