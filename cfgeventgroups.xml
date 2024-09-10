@@ -1160,5 +1160,181 @@
                 <child type="GhillieHood_Woodland" deloot="0" lootmax="2" lootmin="0" x="-0.937500" y="-0.020996" z="3.247070" a="-1.10521"/>
                 <child type="PlateCarrierVest_Black" deloot="0" lootmax="2" lootmin="0" x="-3.597656" y="-0.652984" z="-0.162597" a="-5.03678"/>   
                 <child type="BDUPants" deloot="0" lootmax="2" lootmin="0" x="-3.487305" y="-0.615997" z="1.887207" a="1.69228"/>
-            </group>    
+            </group>   
+    <!--StaticC130crashAirfield--> 
+    <group name="CrashAirfield">
+        <child type="Land_Wreck_C130J" deloot="0" lootmax="20" lootmin="15" x="0" z="0" y="0" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="-3.9205" z="3.5215" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="-3.2198" z="6.2109" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="-2.0186" z="7.9043" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="0.7841" z="10.7930" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="3.0863" z="8.4023" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="-0.2169" z="8.6016" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Small" spawnsecondary="false" x="2.9428" z="-7.4238" y="-6.2866" a="300.986317"/>
+        <child type="StaticObj_ShellCrater2_Small" spawnsecondary="false" x="1.8417" z="-9.7148" y="-6.4993" a="300.986317"/>
+        <child type="StaticObj_Mine_Heap" spawnsecondary="false" x="1.4921" z="-12.5371" y="-7.8487" a="55.146774"/>
+        <child type="StaticObj_ShellCrater2_Small" spawnsecondary="false" x="0.0107" z="4.9922" y="-6.1765" a="301.845444"/>
+        <child type="StaticObj_ShellCrater2_Small" spawnsecondary="false" x="0.0107" z="6.5859" y="-6.1765" a="301.84547"/>
+        <child type="StaticObj_ShellCrater2_Small" spawnsecondary="false" x="0.0107" z="6.5859" y="-6.1765" a="118.498924"/>
+        <child type="StaticObj_ShellCrater2_Small" spawnsecondary="false" x="0.5038" z="5.0918" y="-5.9991" a="209.602432"/>
+        <child type="StaticObj_ShellCrater2_Small" spawnsecondary="false" x="0.5038" z="8.0010" y="-6.1918" a="209.602432"/>
+        <child type="StaticObj_ShellCrater2_Small" spawnsecondary="false" x="0.5038" z="6.4072" y="-6.1918" a="209.602432"/>
+        <child type="StaticObj_ShellCrater1" spawnsecondary="false" x="-0.6495" z="7.9814" y="-4.9876" a="99.264862"/>
+        <child type="StaticObj_ShellCrater1" spawnsecondary="false" x="0.5810" z="7.9404" y="-4.9876" a="71.046043"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="142.8539" z="144.3516" y="-4.9997" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="-178.7135" z="-33.6563" y="-3.7608" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="-163.3673" z="282.2529" y="-5.0205" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="0.5053" z="-142.9473" y="-4.9573" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="57.1547" z="46.6895" y="-4.3547" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="203.2353" z="-5.4424" y="-4.9983" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="-108.7037" z="-145.2178" y="-4.9602" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="-55.2052" z="-111.8662" y="-4.1890" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="-15.4307" z="42.1523" y="-5.2501" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="-83.1104" z="-17.0723" y="-4.2957" a="0"/>
+        <child type="StaticObj_Forest_HumanSkeleton" spawnsecondary="false" x="2.8378" z="17.9443" y="-5.2239" a="55.57687"/>
+        <child type="StaticObj_Forest_HumanSkeleton" spawnsecondary="false" x="-2.1524" z="26.6104" y="-5.1813" a="197.099731"/>
+        <child type="StaticObj_Forest_HumanSkeleton" spawnsecondary="false" x="2.2934" z="7.8838" y="-4.8313" a="211.031158"/>
+        <child type="StaticObj_Forest_HumanSkeleton" spawnsecondary="false" x="1.2924" z="10.5732" y="-5.0665" a="291.245316"/>
+        <child type="StaticObj_Forest_HumanSkeleton" spawnsecondary="false" x="1.2802" z="-9.9502" y="-4.6732" a="153.735001"/>
+        <child type="StaticObj_Forest_HumanSkeleton" spawnsecondary="false" x="2.9941" z="-10.4443" y="-5.0665" a="291.245316"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="-243.2979" z="411.4521" y="-5.3723" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="-365.3082" z="260.1201" y="-5.0105" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="34.1484" z="302.4268" y="-5.0002" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="-67.6085" z="469.7080" y="-5.0644" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="-183.4454" z="168.6738" y="-5.0394" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="54.6015" z="-337.8047" y="-4.9868" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="354.9784" z="-220.4697" y="-4.9985" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="-60.4376" z="236.2939" y="-4.7921" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="-271.9180" z="99.9043" y="-3.3273" a="0"/>
+        <child type="StaticObj_ShellCrater1" spawnsecondary="false" x="-0.6715" z="3.7598" y="-5.0427" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="-4.4210" z="-8.0332" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Large" spawnsecondary="false" x="-0.2701" z="-1.3398" y="-7.3625" a="0"/>
+        <child type="StaticObj_ShellCrater2_Small" spawnsecondary="false" x="-0.2091" z="4.0342" y="-6.1490" a="0"/>
+        <child type="StaticObj_Mine_Heap" spawnsecondary="false" x="-0.7808" z="-12.8037" y="-7.7061" a="31.799047"/>
+        <child type="StaticObj_Misc_Cover_Big" spawnsecondary="false" x="-0.9063" z="4.2539" y="-5.3024" a="288.380051"/>
+        <child type="StaticObj_Misc_Cover_Small" spawnsecondary="false" x="-1.0133" z="-9.3525" y="-4.7755" a="194.805511"/>
+        <child type="StaticObj_Misc_SupplyBox1_DE" deloot="0" lootmax="8" lootmin="5" x="-9.9898" z="37.6074" y="-4.6494" a="0"/>
+        <child type="StaticObj_Misc_SupplyBox2_DE" deloot="0" lootmax="8" lootmin="5" x="9.9291" z="20.7500" y="-4.4236" a="0"/>
+        <child type="StaticObj_Misc_SupplyBox3_DE" deloot="0" lootmax="8" lootmin="5" x="0.2763" z="61.3740" y="-4.3325" a="0"/>
+        <child type="StaticObj_Rubble_DirtPile_Large" spawnsecondary="false" x="2.5487" z="-7.3213" y="-4.7063" a="114.591454"/>
+        <child type="StaticObj_Rubble_DirtPile_Medium1" spawnsecondary="false" x="-1.6197" z="-7.5234" y="-5.1729" a="0"/>
+        <child type="StaticObj_Rubble_DirtPile_Medium2" spawnsecondary="false" x="2.1332" z="-9.5459" y="-5.1611" a="0"/>
+        <child type="StaticObj_Forest_HumanSkeleton" spawnsecondary="false" x="-1.7105" z="7.8838" y="-4.8112" a="0"/>
+        <child type="StaticObj_ShellCrater1" spawnsecondary="false" x="-2.3731" z="-5.5039" y="-5.0427" a="0"/>
+        <child type="StaticObj_ShellCrater2_Small" spawnsecondary="false" x="-1.2467" z="-0.5479" y="-6.1490" a="173.502457"/>
+        <child type="StaticObj_ShellCrater2_Small" spawnsecondary="false" x="0.5331" z="0.4424" y="-6.1490" a="303.850323"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="-4.4210" z="-10.8223" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="-6.1226" z="-14.3086" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="-4.7213" z="-17.9941" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="-6.0225" z="-16.5000" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="-3.3199" z="-20.0859" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="-0.9176" z="-20.9824" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="1.8852" z="-20.3848" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="3.6869" z="-18.6914" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="4.3876" z="-17.0977" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="4.7880" z="-14.7070" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="4.7880" z="-12.1172" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="5.9892" z="-10.4238" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="6.8100" z="-8.1201" y="-5.1750" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="6.1093" z="-5.5303" y="-5.1750" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="4.8080" z="-3.8369" y="-5.1750" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="4.8080" z="-0.5498" y="-5.1750" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="4.8080" z="1.6416" y="-5.1750" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="4.8080" z="3.9326" y="-5.1750" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="3.7070" z="6.0244" y="-5.1750" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="-5.6221" z="-4.7461" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="-6.1226" z="-1.6582" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="-4.9215" z="1.0313" y="-5.1850" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="-358.3966" z="628.5459" y="-5.6990" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="-71.9776" z="127.1426" y="-4.9435" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="16.2109" z="-21.0293" y="-5.2860" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="-22.7794" z="22.9316" y="-5.2606" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="-13.7823" z="-23.9043" y="-5.1887" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="-382.0304" z="490.0762" y="-4.8515" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="21.9633" z="166.9883" y="-4.6808" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="214.1059" z="-266.9668" y="-4.1964" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="174.7094" z="-65.6836" y="-4.9998" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="135.0917" z="-280.7559" y="-5.4789" a="0"/>
+        <child type="ExplosionTest" spawnsecondary="false" x="58.7123" z="-97.6396" y="-5.2222" a="0"/>
+        <child type="StaticObj_Furniture_box_c_multi" spawnsecondary="false" x="-14.9107" z="51.7178" y="-5.1631" a="0"/>
+        <child type="StaticObj_Furniture_box_c" spawnsecondary="false" x="-16.0025" z="50.2363" y="-4.9317" a="0"/>
+        <child type="Land_Roadblock_WoodenCrate" spawnsecondary="false" x="-14.7305" z="50.5381" y="-4.8967" a="0"/>
+        <child type="StaticObj_Misc_BoxWooden" spawnsecondary="false" x="-16.8819" z="52.9775" y="-4.7453" a="0"/>
+        <child type="StaticObj_Misc_BoxWooden" spawnsecondary="false" x="-17.2042" z="51.3281" y="-4.7453" a="0"/>
+        <child type="StaticObj_Misc_BoxWooden" spawnsecondary="false" x="-17.2042" z="52.1426" y="-3.7968" a="0"/>
+        <child type="StaticObj_Misc_BoxWooden" spawnsecondary="false" x="-13.1417" z="53.1768" y="-4.7453" a="0"/>
+        <child type="Land_Roadblock_WoodenCrate" spawnsecondary="false" x="-14.8575" z="52.2725" y="-3.7663" a="0"/>
+        <child type="StaticObj_Furniture_box_c_multi" spawnsecondary="false" x="-15.0670" z="53.4463" y="-5.1631" a="0"/>
+        <child type="StaticObj_Furniture_box_c" spawnsecondary="false" x="-12.6993" z="51.9297" y="-4.9317" a="0"/>
+        <child type="StaticObj_Furniture_box_c" spawnsecondary="false" x="-12.6993" z="54.6191" y="-4.9317" a="0"/>
+        <child type="StaticObj_Furniture_box_c" spawnsecondary="false" x="-19.5059" z="53.2246" y="-4.9317" a="0"/>
+        <child type="StaticObj_Furniture_box_c" spawnsecondary="false" x="-16.9034" z="54.4199" y="-4.9317" a="0"/>
+        <child type="Land_Roadblock_WoodenCrate" spawnsecondary="false" x="-12.1549" z="52.9229" y="-4.8967" a="0"/>
+        <child type="Land_Roadblock_WoodenCrate" spawnsecondary="false" x="-14.2569" z="55.5127" y="-4.8967" a="0"/>
+        <child type="StaticObj_Misc_BoxWooden" spawnsecondary="false" x="-14.9239" z="53.4668" y="-3.5852" a="0"/>
+        <child type="StaticObj_Furniture_box_c_multi" spawnsecondary="false" x="-15.0304" z="52.8867" y="-5.1631" a="0"/>
+        <child type="StaticObj_Furniture_box_c" spawnsecondary="false" x="-14.8551" z="54.2031" y="-3.7890" a="0"/>
+        <child type="Land_Wreck_Uaz" spawnsecondary="false" x="7.2865" z="66.6318" y="-4.2784" a="0"/>
+        <child type="StaticObj_ShellCrater2_Debris" spawnsecondary="false" x="-8.2247" z="32.1094" y="-5.1850" a="0"/>
+        <child type="StaticObj_ShellCrater1" spawnsecondary="false" x="-7.5782" z="29.7578" y="-5.0427" a="0"/>
+        <child type="StaticObj_ShellCrater1" spawnsecondary="false" x="14.0746" z="44.6582" y="-4.9401" a="0"/>
+        <child type="StaticObj_ShellCrater2_Small" spawnsecondary="false" x="14.0512" z="44.9326" y="-5.9716" a="209.602432"/>
+        <child type="Land_Roadblock_WoodenCrate" spawnsecondary="false" x="13.4701" z="35.0928" y="-4.8967" a="0"/>
+        <child type="Land_Roadblock_WoodenCrate" spawnsecondary="false" x="11.3681" z="37.6826" y="-4.8967" a="0"/>
+        <child type="StaticObj_Misc_BoxWooden" spawnsecondary="false" x="10.7011" z="35.6367" y="-3.5852" a="0"/>
+        <child type="StaticObj_Furniture_box_c_multi" spawnsecondary="false" x="10.5946" z="35.0566" y="-5.1631" a="0"/>
+        <child type="StaticObj_Furniture_box_c" spawnsecondary="false" x="10.7699" z="36.3730" y="-3.7890" a="0"/>
+        <child type="StaticObj_Furniture_box_c_multi" spawnsecondary="false" x="10.7143" z="33.8877" y="-5.1631" a="0"/>
+        <child type="StaticObj_Furniture_box_c" spawnsecondary="false" x="9.6225" z="32.4063" y="-4.9317" a="0"/>
+        <child type="Land_Roadblock_WoodenCrate" spawnsecondary="false" x="10.8945" z="32.7080" y="-4.8967" a="0"/>
+        <child type="StaticObj_Misc_BoxWooden" spawnsecondary="false" x="8.7431" z="35.1475" y="-4.7453" a="0"/>
+        <child type="StaticObj_Misc_BoxWooden" spawnsecondary="false" x="8.4208" z="33.4980" y="-4.7453" a="0"/>
+        <child type="StaticObj_Misc_BoxWooden" spawnsecondary="false" x="8.4208" z="34.3125" y="-3.7968" a="0"/>
+        <child type="StaticObj_Misc_BoxWooden" spawnsecondary="false" x="12.4833" z="35.3467" y="-4.7453" a="0"/>
+        <child type="Land_Roadblock_WoodenCrate" spawnsecondary="false" x="10.7675" z="34.4424" y="-3.7663" a="0"/>
+        <child type="StaticObj_Furniture_box_c_multi" spawnsecondary="false" x="10.5580" z="35.6162" y="-5.1631" a="0"/>
+        <child type="StaticObj_Furniture_box_c" spawnsecondary="false" x="12.9257" z="34.0996" y="-4.9317" a="0"/>
+        <child type="StaticObj_Furniture_box_c" spawnsecondary="false" x="12.9257" z="36.7891" y="-4.9317" a="0"/>
+        <child type="StaticObj_Furniture_box_c" spawnsecondary="false" x="6.1191" z="35.3945" y="-4.9317" a="0"/>
+        <child type="StaticObj_Furniture_box_c" spawnsecondary="false" x="8.7216" z="36.5898" y="-4.9317" a="0"/>
+        <child type="StaticObj_Furniture_patient_monitor" deloot="0" lootmax="3" lootmin="1" x="0.0141" z="1.3984" y="-4.4117" a="0"/>
+        <child type="StaticObj_Furniture_hospital_transport_bed" deloot="0" lootmax="3" lootmin="1" x="1.1235" z="2.1289" y="-4.3801" a="0"/>
+        <child type="StaticObj_Misc_WoodenCrate" deloot="0" lootmax="14" lootmin="12" x="2.8627" z="38.0469" y="-5.0278" a="0"/>
+        <child type="StaticObj_Misc_WoodenCrate_3x" deloot="0" lootmax="11" lootmin="9" x="0.8593" z="78.5254" y="-4.5400" a="0"/>
+        <child type="StaticObj_Misc_WoodenCrate_5x" deloot="0" lootmax="7" lootmin="5" x="-7.6734" z="68.4844" y="-4.2140" a="0"/>
+        <child type="StaticObj_ammoboxes_big" deloot="0" lootmax="4" lootmin="3" x="1.4100" z="26.6699" y="-4.4200" a="0"/>
+        <child type="StaticObj_ammoboxes_single" deloot="0" lootmax="2" lootmin="1" x="-6.2200" z="18.1699" y="-4.8300" a="90"/>
+        <child type="StaticObj_ammoboxes_stacked" deloot="0" lootmax="13" lootmin="10" x="-4.0723" z="46.1289" y="-4.4753" a="0"/>
+        <child type="ZmbM_CommercialPilotOld_Olive" spawnsecondary="false" x="21.8295" z="-0.0605" y="-4.9823" a="0"/>
+        <child type="ZmbM_MotobikerFat_Black" spawnsecondary="false" x="-17.2804" z="13.6016" y="-4.9444" a="0"/>
+        <child type="ZmbM_usSoldier_normal_Woodland" spawnsecondary="false" x="15.6376" z="3.5791" y="-4.9857" a="0"/>
+        <child type="ZmbM_usSoldier_normal_Woodland" spawnsecondary="false" x="-34.9234" z="39.7754" y="-4.9097" a="0"/>
+        <child type="ZmbM_usSoldier_normal_Desert" spawnsecondary="false" x="8.7944" z="27.9414" y="-4.9361" a="0"/>
+        <child type="ZmbM_usSoldier_normal_Desert" spawnsecondary="false" x="-8.8985" z="49.4404" y="-4.9076" a="0"/>
+        <child type="ZmbM_usSoldier_Officer_Desert" spawnsecondary="false" x="-0.1773" z="39.7734" y="-4.9019" a="0"/>
+        <child type="ZmbM_usSoldier_Officer_Convoy" spawnsecondary="false" x="-25.2315" z="34.6455" y="-4.9270" a="0"/>
+        <child type="ZmbM_usSoldier_Heavy_Woodland" spawnsecondary="false" x="-32.8043" z="-5.5469" y="-4.8314" a="0"/>
+        <child type="ZmbM_usSoldier_Heavy_Woodland" spawnsecondary="false" x="30.6571" z="46.8750" y="-4.5725" a="0"/>
+        <child type="ZmbM_PatrolNormal_PautRev" spawnsecondary="false" x="-27.2135" z="71.7832" y="-4.8209" a="0"/>
+        <child type="ZmbM_PatrolNormal_PautRev" spawnsecondary="false" x="2.6181" z="111.4541" y="-4.6340" a="0"/>
+        <child type="ZmbM_PatrolNormal_Autumn" spawnsecondary="false" x="36.7817" z="78.2656" y="-4.3917" a="0"/>
+        <child type="ZmbM_PatrolNormal_Flat" spawnsecondary="false" x="-51.5743" z="30.4502" y="-4.7815" a="0"/>
+        <child type="ZmbM_PatrolNormal_Flat" spawnsecondary="false" x="40.5063" z="15.5186" y="-4.7886" a="0"/>
+        <child type="ZmbM_PatrolNormal_Summer" spawnsecondary="false" x="7.1987" z="-31.9268" y="-4.8987" a="0"/>
+        <child type="ZmbM_PatrolNormal_Summer" spawnsecondary="false" x="14.5209" z="83.4482" y="-4.6898" a="0"/>
+        <child type="ZmbM_NBC_Grey" spawnsecondary="false" x="17.3066" z="63.9473" y="-4.6307" a="0"/>
+        <child type="ZmbM_PolicemanSpecForce" spawnsecondary="false" x="-19.0264" z="44.3418" y="-4.9158" a="0"/>
+        <child type="ZmbM_PolicemanSpecForce_Heavy" spawnsecondary="false" x="33.8031" z="-31.2705" y="-4.9482" a="0"/>
+        <child type="ZmbM_PatientSkinny" spawnsecondary="false" x="19.8310" z="-40.0713" y="-4.8963" a="0"/>
+        <child type="ZmbM_PatientSkinny" spawnsecondary="false" x="4.3676" z="13.4355" y="-4.9456" a="0"/>
+        <child type="ZmbM_SoldierNormal" spawnsecondary="false" x="-3.3209" z="-24.1484" y="-4.9053" a="0"/>
+        <child type="ZmbM_ParamedicNormal_Blue" spawnsecondary="false" x="13.3290" z="11.0508" y="-4.9563" a="0"/>
+        <child type="ZmbM_ParamedicNormal_Red" spawnsecondary="false" x="-22.9044" z="39.8594" y="-4.9267" a="0"/>
+        <child type="ZmbM_ParamedicNormal_Black" spawnsecondary="false" x="27.1703" z="18.1289" y="-4.8934" a="0"/>
+        <child type="ZmbM_DoctorFat" spawnsecondary="false" x="24.2177" z="37.8301" y="-4.7818" a="0"/>
+        <child type="ZmbM_NBC_Yellow" spawnsecondary="false" x="-4.1353" z="36.7158" y="-4.8486" a="0"/>
+        <child type="ZmbM_FirefighterNormal" spawnsecondary="false" x="24.3100" z="8.9316" y="-4.9397" a="0"/>
+        <child type="ZmbM_CommercialPilotOld_Grey" spawnsecondary="false" x="8.0478" z="6.6279" y="-4.9851" a="0"/>
+        <child type="ZmbM_usSoldier_Heavy_Woodland" spawnsecondary="false" x="20.4716" z="14.3867" y="-4.9492" a="0"/>
+    </group>            
 </eventgroupdef>
