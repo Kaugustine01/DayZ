@@ -1202,11 +1202,11 @@
         </children>
     </event> 
     <event name="StaticC130crashAirfield">
-        <nominal>3</nominal><!--up to 5-->
-        <min>0</min>
-        <max>0</max>
+        <nominal>6</nominal>        
+        <min>1</min>
+        <max>1</max>
         <lifetime>900</lifetime>
-        <restock>0</restock>
+        <restock>3600</restock>
         <saferadius>500</saferadius>
         <distanceradius>500</distanceradius>
         <cleanupradius>1000</cleanupradius>
