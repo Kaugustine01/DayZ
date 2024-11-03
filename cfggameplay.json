@@ -50,7 +50,8 @@
             "./custom/BaseStaff.json",
             "./custom/BaseIsland.json",
             "./custom/BasePersonnel.json",
-            "./custom/BasePrisonIslandBridge.json"
+            "./custom/BasePrisonIslandBridge.json",
+            "./custom/playerRequests.json"
         ],
         "environmentMinTemps": [
             -3.0,
