@@ -1438,7 +1438,7 @@
     <event name="StaticC130crashAirfield">
 	           <!--NWAF-->
 		<pos x="4606.920000" z="9977.830078" a="0" y="344.000000" group="CrashAirfield"/>
-		       <!--NWAFN-->
+               <!--NWAFN-->
 		<pos x="4036.610596" z="10663.018555" a="0" y="344.126404" group="CrashAirfield"/>
 		       <!--KrasnoEast-->
 		<pos x="12427.143555" z="12370.784180" a="0" y="145.106445" group="CrashAirfield"/>
@@ -1447,8 +1447,8 @@
 		       <!--BalatoEast-->
 		<pos x="5147.648438" z="2246.242432" a="0" y="14.484016" group="CrashAirfield"/>
 		       <!--BalatoWest-->
-		<pos x="4974.899902" z="2466.058838" a="0" y="14.609008" group="CrashAirfield"/>		
-	</event>   
+		<pos x="4974.899902" z="2466.058838" a="0" y="14.609008" group="CrashAirfield"/>
+	</event>	
     <!--1.26--> 
     <event name="VehicleBoat">
         <pos x="1716.188110" z="2000.763306" />

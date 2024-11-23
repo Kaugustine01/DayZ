@@ -18351,286 +18351,303 @@
 		</group>
 		-->
 	<!--StaticC130crashAirfield-->
-	<group name="Land_Wreck_C130J" lootmax="20">
-		<usage name="Military" />
-		<usage name="Medic"/>
-		<container name="lootFloor" lootmax="20">
-			<category name="tools" />
-			<category name="containers" />
-			<category name="clothes" />
-			<category name="weapons" />
-			<category name="food"/>
-			<tag name="floor" />
-			<tag name="shelves" />
-			<!-- Right side of plane -->		
-			<point pos="3.293945 -1.541862 6.939941" range="1.100000" height="1.145172" flags="32" />
-			<point pos="4.630615 -1.221848 5.478027" range="1.203125" height="1.058037" flags="32" />
-			<point pos="4.128174 -1.250969 5.282227" range="1.237500" height="1.899963" flags="32" />
-			<point pos="3.601563 -1.275345 5.026855" range="1.237500" height="1.900002" flags="32" />
-			<point pos="3.976563 -1.479630 7.021972" range="1.340625" height="1.139282" flags="32" />
-			<point pos="5.462646 -1.856918 4.474609" range="1.595988" height="1.900002" flags="32" />
-			<point pos="5.462646 -1.856918 4.474609" range="1.595988" height="1.900002" flags="32" />
-			<point pos="5.462646 -1.856918 4.474609" range="1.595988" height="1.900002" flags="32" />
-			<point pos="5.462646 -1.856918 4.474609" range="1.595988" height="1.900002" flags="32" />
-			<point pos="5.462646 -1.856918 4.474609" range="1.595988" height="1.900002" flags="32" />
-			<point pos="3.273926 -1.856918 8.096679" range="1.718352" height="1.900002" flags="32" />
-			<point pos="2.722656 -1.856918 5.948730" range="1.821779" height="1.900002" flags="32" />
-			<point pos="6.276123 -1.856918 9.080566" range="1.827611" height="1.900002" flags="32" />
-			<point pos="4.192871 -1.856918 5.159668" range="1.846799" height="1.900002" flags="32" />
-			<point pos="7.588379 -1.856918 4.039551" range="1.898411" height="1.900002" flags="32" />
-			<point pos="4.540283 -1.856918 9.118164" range="1.908636" height="1.900002" flags="32" />
-			<point pos="1.502686 -1.856918 7.775879" range="1.942924" height="1.900002" flags="32" />
-			<point pos="6.894042 -1.856918 5.567383" range="2.068359" height="1.900002" flags="32" />
-			<point pos="7.488282 -1.856918 7.621094" range="2.069595" height="1.900002" flags="32" />
-			<!-- Center of the plane-->
-			<point pos="3.200000 -1.856918 0.200000" range="0.199951" height="1.900002" flags="32" />
-			<point pos="2.400000 -1.856918 1.400000" range="0.199951" height="1.900002" flags="32" />
-			<point pos="1.600000 -1.856918 -0.600000" range="0.199951" height="1.900002" flags="32" />
-			<point pos="-0.800000 -1.856918 1.800000" range="0.199951" height="1.900002" flags="32" />			
-			<point pos="-1.800000 -1.856918 -0.800000" range="0.199951" height="1.900002" flags="32" />			
-			<point pos="-2.800000 -1.856918 0.800000" range="0.199951" height="1.900002" flags="32" />			
-			<!-- Left side of plane -->
-			<point pos="3.293945 -1.541862 -6.939941" range="1.100000" height="1.145172" flags="32" />
-			<point pos="4.630615 -1.221848 -5.478027" range="1.203125" height="1.058037" flags="32" />
-			<point pos="4.128174 -1.250969 -5.282227" range="1.237500" height="1.899963" flags="32" />
-			<point pos="3.601563 -1.275345 -5.026855" range="1.237500" height="1.900002" flags="32" />
-			<point pos="3.976563 -1.479630 -7.021972" range="1.340625" height="1.139282" flags="32" />
-			<point pos="5.462646 -1.856918 -4.474609" range="1.595988" height="1.900002" flags="32" />
-			<point pos="3.273926 -1.856918 -8.096679" range="1.718352" height="1.900002" flags="32" />
-			<point pos="2.722656 -1.856918 -5.948730" range="1.821779" height="1.900002" flags="32" />
-			<point pos="6.276123 -1.856918 -9.080566" range="1.827611" height="1.900002" flags="32" />
-			<point pos="4.192871 -1.856918 -5.159668" range="1.846799" height="1.900002" flags="32" />
-			<point pos="7.588379 -1.856918 -4.039551" range="1.898411" height="1.900002" flags="32" />
-			<point pos="4.540283 -1.856918 -9.118164" range="1.908636" height="1.900002" flags="32" />
-			<point pos="1.502686 -1.856918 -7.775879" range="1.942924" height="1.900002" flags="32" />
-			<point pos="6.894042 -1.856918 -5.567383" range="2.068359" height="1.900002" flags="32" />
-			<point pos="7.488282 -1.856918 -7.621094" range="2.069595" height="1.900002" flags="32" />	            
-		</container>
-		<container name="loot">
-			<category name="weapons" />
-			<tag name="floor" />
-			<tag name="ground" />
-			<point pos="-2.139313 -4.527470 0.572631" range="0.884644" height="2.000002" flags="32" />
-			<point pos="-7.879120 -4.568596 0.246337" range="1.070224" height="2.000002" flags="32" />
-			<point pos="0.352356 -4.509430 0.665771" range="0.834839" height="2.000000" flags="32" />
-			<point pos="5.928223 -4.833448 -0.836671" range="0.409375" height="1.023438" flags="32" />
-			<point pos="5.909514 -4.836582 0.714355" range="0.409375" height="1.023438" flags="32" />
-			<point pos="4.918579 -4.715311 -0.710938" range="0.409375" height="1.023438" flags="32" />
-			<point pos="5.039856 -4.732702 0.205566" range="0.409375" height="1.023438" flags="32" />
-			<point pos="3.935394 -4.605631 0.972046" range="0.409375" height="1.023438" flags="32" />
-			<point pos="3.871979 -4.592604 -0.651612" range="0.409375" height="1.023438" flags="32" />
-			<point pos="5.085053 -5.184137 -2.382080" range="1.117920" height="0.173845" flags="32" />
-			<point pos="5.688843 -5.184137 2.855345" range="1.199951" height="2.000000" flags="32" />
-		</container>
-		<dispatch dechance="1.0">
-			<proxy type="M4A1" pos="-1.462890 -3.663147 1.414629" rpy="-0.000000 90.527878 -0.000000" dechance="1.00" />	
-		</dispatch>	
-		<dispatch dechance="1.0">
-			<proxy type="FirstAidKit" pos="-0.066406 -3.209991 1.726152" rpy="0.500000 180.000000 0.000000" dechance="1.00" />
-		</dispatch>	
-		<dispatch dechance="1.0">
-			<proxy type="FirstAidKit" pos="-8.830078 -2.800000 -1.280000" rpy="0.000000 180.000000 0.000000" dechance="1.00" />
-		</dispatch>	
-		<dispatch dechance="1.0">
-			<proxy type="FirefighterAxe" pos="-8.966797 -3.450348 1.527422" rpy="-0.000000 86.941154 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="FieldShovel" pos="-8.754606 -3.988007 0.420000" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="AssaultBag_Ttsko" pos="-4.906255 -3.600494 0.207109" rpy="0.000000 90.000000 180.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="Hatchet" pos="-8.775390 -3.246521 0.437578" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="Splint" pos="-0.041015 -3.777008 1.600176" rpy="4.499993 0.000000 0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="SalineBagIV" pos="-0.101562 -2.905243 1.730547" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="GPSReceiver" pos="-0.120078 -3.200000 -1.590000" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="Bonfire" pos="4.080078 -8.614990 0.080156" rpy="0.000000 0.000000 0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="Wreck_UH1Y" pos="-10.310547 -6.562012 -0.680098" rpy="0.000000 0.000000 0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="Bonfire" pos="-12.950195 -7.145996 0.290117" rpy="0.000000 0.000000 0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="Bonfire" pos="53.486328 -7.319611 14.832598" rpy="0.000000 88.522423 0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="Bonfire" pos="65.580078 -8.267578 -7.241133" rpy="0.000000 -41.538239 0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="Bonfire" pos="30.636719 -8.897949 7.430742" rpy="0.000000 -40.107502 0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="Bonfire" pos="46.425781 -8.643250 -12.659590" rpy="0.000000 -38.816593 0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.000000">
-			<proxy type="Bonfire" pos="35.669922 -7.321991 -10.729902" rpy="0.000000 73.482483 0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="AmmoBox" pos="44.439453 -5.124237 4.683184" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="AmmoBox_556x45_20Rnd" pos="45.919922 -3.718750 3.461016" rpy="90.000000 180.000000 180.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="AmmoBox_308Win_20Rnd" pos="43.769531 -5.219086 4.069902" rpy="90.000000 180.000000 180.000000" dechance="1.00" />
-		</dispatch>	
-		<dispatch dechance="1.0">
-			<proxy type="AmmoBox_308WinTracer_20Rnd" pos="46.011719 -3.708588 4.371172" rpy="90.000000 180.000000 180.000000" dechance="1.00" />
-		</dispatch>	
-		<dispatch dechance="1.0">
-			<proxy type="AmmoBox_556x45_20Rnd" pos="44.269531 -5.222534 0.739824" rpy="90.000000 180.000000 180.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="AmmoBox_556x45Tracer_20Rnd" pos="43.269531 -5.225555 2.190020" rpy="90.000000 180.000000 180.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="AmmoBox_762x54Tracer_20Rnd" pos="44.669922 -5.202576 6.710039" rpy="90.000000 180.000000 180.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="AmmoBox_762x39Tracer_20Rnd" pos="46.570313 -5.200531 6.370195" rpy="90.000000 180.000000 180.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="AmmoBox_22_50Rnd" pos="46.899414 -3.698029 4.784746" rpy="-90.000000 180.000000 180.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="AmmoBox_45ACP_25rnd" pos="48.269531 -5.193542 2.770098" rpy="90.000000 180.000000 180.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="AmmoBox_545x39Tracer_20Rnd" pos="47.669922 -5.200043 0.810137" rpy="90.000000 180.000000 180.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="AmmoBox_9x39AP_20Rnd" pos="46.269531 -5.177032 0.049883" rpy="90.000000 180.000000 180.000000" dechance="1.00" />
-		</dispatch>	
-		<dispatch dechance="1.0">
-			<proxy type="AmmoBox_9x19_25rnd" pos="45.070313 -5.212036 5.290117" rpy="90.000000 180.000000 180.000000" dechance="1.00" />
-		</dispatch>                  
-		<dispatch dechance="1.0">
-			<proxy type="Winchester70" pos="17.969922 -4.900000 6.020000" rpy="90.000000 90.000000 0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="CZ550" pos="17.969922 -4.900000 6.320000" rpy="90.000000 90.000000 0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="Aug" pos="26.669922 -4.160000 -2.710000" rpy="90.000000 90.000000 0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="AugShort" pos="26.769922 -3.760000 -0.580000" rpy="90.000000 90.000000 0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="AKM" pos="26.669922 -4.160000 -2.430000" rpy="90.000000 90.000000 0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="M4A1" pos="26.769922 -3.760000 -1.480000" rpy="90.000000 90.000000 0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="AK74" pos="26.669922 -4.160000 0.320000" rpy="90.000000 90.000000 0.000000" dechance="1.00" />
-		</dispatch>                  
-		<dispatch dechance="1.0">
-			<proxy type="WitchHoodCoif_Black" pos="68.870117 -3.815582 8.250078" rpy="90.000000 180.000000 180.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="Jeans_Black" pos="68.995117 -3.208832 7.537187" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="RidersJacket_Black" pos="68.193360 -3.217102 7.425371" rpy="0.500000 0.000000 -90.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="CowboyHat_black" pos="67.150391 -5.149139 8.392656" rpy="-90.000000 180.000000 180.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="Jeans_Blue" pos="67.992188 -5.181335 9.466875" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="DenimJacket" pos="69.466797 -5.150757 10.070879" rpy="-90.000000 180.000000 180.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="HikingBoots_Black" pos="70.401367 -5.134613 6.764727" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="BakedBeansCan" pos="78.919922 -4.620239 -0.165938" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="BakedBeansCan" pos="78.770508 -5.088196 -1.328047" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="BakedBeansCan" pos="78.362305 -5.052979 -1.330000" rpy="-90.000000 180.000000 180.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="BakedBeansCan" pos="78.362305 -5.062988 0.239824" rpy="-90.000000 180.000000 180.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="PeachesCan" pos="78.481445 -5.099548 0.742754" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="PeachesCan" pos="78.830078 -5.099548 -1.483809" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="TacticalBaconCan" pos="77.070313 -5.076019 -0.229902" rpy="90.000000 180.000000 180.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="SpaghettiCan" pos="79.522461 -5.094025 -1.214277" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="SardinesCan" pos="78.397461 -4.617889 -0.044355" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="PorkCan" pos="79.170899 -5.072937 -2.190840" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>	
-		<dispatch dechance="1.0">
-			<proxy type="UnknownFoodCan" pos="75.580078 -5.109924 0.810625" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="Pot" pos="38.374024 -4.701813 -2.889082" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="PotatoSeed" pos="37.014649 -5.215240 -3.138594" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="PotatoSeed" pos="37.711914 -5.215240 -3.939375" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="PotatoSeed" pos="38.110352 -5.215240 -3.939375" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>	
-		<dispatch dechance="1.0">
-			<proxy type="PotatoSeed" pos="37.811524 -5.215240 -3.438887" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="PotatoSeed" pos="39.305664 -5.215240 -3.538984" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="PotatoSeed" pos="39.006836 -5.215240 -2.538008" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>	
-		<dispatch dechance="1.0">
-			<proxy type="PotatoSeed" pos="38.807617 -5.215240 -1.637129" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="PotatoSeed" pos="37.911133 -5.215240 -2.137617" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>	
-		<dispatch dechance="1.0">
-			<proxy type="PotatoSeed" pos="37.512695 -5.215240 -1.336836" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="PotatoSeed" pos="36.815430 -5.215240 -2.538008" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="PotatoSeed" pos="37.969727 -4.689728 -3.111738" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>	
-		<dispatch dechance="1.0">
-			<proxy type="PotatoSeed" pos="37.808594 -4.689728 -2.943281" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-		<dispatch dechance="1.0">
-			<proxy type="PotatoSeed" pos="38.476563 -4.689728 -2.677168" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
-		</dispatch>
-    </group>		
+    <group name="StaticObj_ammoboxes_stacked" lootmax="13">
+        <usage name="Hunting" />
+        <usage name="Military" />
+        <usage name="Police" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+        <container name="lootFloor" lootmax="13">
+            <category name="weapons" />
+            <category name="explosives" />
+            <tag name="floor" />
+            <tag name="ground" />
+            <tag name="shelves" />
+            <point pos="-1.689453 -0.648895 0.610840" range="0.4500" height="1.5000" />
+            <point pos="-0.208984 0.756592 -0.611328" range="0.4500" height="1.5000" />
+            <point pos="-2.359375 -0.743744 -0.002442" range="0.4500" height="1.5000" />
+            <point pos="-0.117187 0.766754 0.298828" range="0.4500" height="1.5000" />
+            <point pos="-1.859375 -0.747192 -3.332520" range="0.4500" height="1.5000" />
+            <point pos="-2.859375 -0.750213 -1.882324" range="0.4500" height="1.5000" />
+            <point pos="-1.458984 -0.727234 2.637695" range="0.4500" height="1.5000" />
+            <point pos="0.441407 -0.725189 2.297851" range="0.4500" height="1.5000" />
+            <point pos="0.770508 0.777313 0.712402" range="0.4500" height="1.5000" />
+            <point pos="2.140625 -0.718200 -1.302246" range="0.4500" height="1.5000" />
+            <point pos="1.541016 -0.724701 -3.262207" range="0.4500" height="1.5000" />
+            <point pos="0.140625 -0.701690 -4.022461" range="0.4500" height="1.5000" />
+            <point pos="-1.058593 -0.736694 1.217773" range="0.4500" height="1.5000" />
+        </container>
+    </group>
+    <group name="StaticObj_ammoboxes_single" lootmax="2">
+        <usage name="Military" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+        <container name="lootFloor" lootmax="2">
+            <category name="weapons" />
+            <tag name="floor" />
+            <tag name="ground" />
+            <tag name="shelves" />
+            <point pos="-0.200000 -0.070000 -0.200000" range="0.4500" height="1.5000" />
+            <point pos="-0.200000 -0.070000 0.100000" range="0.4500" height="1.5000" />
+        </container>
+    </group>
+    <group name="StaticObj_ammoboxes_big" lootmax="5">
+        <usage name="Industrial" />
+        <usage name="Hunting" />
+        <usage name="Farm" />
+        <usage name="School" />
+        <usage name="Military" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+        <container name="lootFloor" lootmax="5">
+            <category name="containers" />
+            <category name="weapons" />
+            <category name="tools" />
+            <tag name="floor" />
+            <tag name="ground" />
+            <tag name="shelves" />
+            <point pos="0.000000 0.260000 -1.300000" range="0.4500" height="1.5000" />
+            <point pos="0.100000 0.660000 0.830000" range="0.4500" height="1.5000" />
+            <point pos="0.000000 0.260000 -1.020000" range="0.4500" height="1.5000" />
+            <point pos="0.100000 0.660000 -0.070000" range="0.4500" height="1.5000" />
+            <point pos="0.000000 0.260000 1.730000" range="0.4500" height="1.5000" />
+        </container>
+    </group>
+    <group name="StaticObj_Misc_WoodenCrate" lootmax="14">
+        <usage name="Farm" />
+        <usage name="Industrial" />
+        <usage name="Lunapark" />
+        <usage name="Town" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+        <container name="lootFloor" lootmax="14">
+            <category name="food" />
+            <tag name="floor" />
+            <tag name="ground" />
+            <tag name="shelves" />
+            <point pos="0.327149 0.325958 -0.026367" range="0.4500" height="1.5000" />
+            <point pos="-1.032226 -0.187469 -0.275879" range="0.4500" height="1.5000" />
+            <point pos="-0.334961 -0.187469 -1.076660" range="0.4500" height="1.5000" />
+            <point pos="0.063477 -0.187469 -1.076660" range="0.4500" height="1.5000" />
+            <point pos="-0.235351 -0.187469 -0.576172" range="0.4500" height="1.5000" />
+            <point pos="1.258789 -0.187469 -0.676269" range="0.4500" height="1.5000" />
+            <point pos="0.959961 -0.187469 0.324707" range="0.4500" height="1.5000" />
+            <point pos="0.760742 -0.187469 1.225586" range="0.4500" height="1.5000" />
+            <point pos="-0.135742 -0.187469 0.725098" range="0.4500" height="1.5000" />
+            <point pos="-0.534180 -0.187469 1.525879" range="0.4500" height="1.5000" />
+            <point pos="-1.231445 -0.187469 0.324707" range="0.4500" height="1.5000" />
+            <point pos="-0.077148 0.338043 -0.249023" range="0.4500" height="1.5000" />
+            <point pos="-0.238281 0.338043 -0.080566" range="0.4500" height="1.5000" />
+            <point pos="0.429688 0.338043 0.185547" range="0.4500" height="1.5000" />
+        </container>
+    </group>
+    <group name="StaticObj_Misc_WoodenCrate_3x" lootmax="11">
+        <usage name="Town" />
+        <usage name="Farm" />
+        <usage name="Military" />
+        <usage name="Historical" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+        <container name="lootFloor" lootmax="11">
+            <category name="food" />
+            <category name="clothes" />
+            <category name="tools" />
+            <tag name="floor" />
+            <tag name="ground" />
+            <tag name="shelves" />
+            <point pos="0.394531 -0.080261 0.693359" range="0.4500" height="1.5000" />
+            <point pos="0.245117 -0.548218 -0.468751" range="0.4500" height="1.5000" />
+            <point pos="-0.163086 -0.513001 -0.470703" range="0.4500" height="1.5000" />
+            <point pos="-0.163086 -0.523010 1.099121" range="0.4500" height="1.5000" />
+            <point pos="-0.043946 -0.559570 1.602051" range="0.4500" height="1.5000" />
+            <point pos="0.304687 -0.559570 -0.624512" range="0.4500" height="1.5000" />
+            <point pos="-1.455078 -0.536041 0.629395" range="0.4500" height="1.5000" />
+            <point pos="0.997070 -0.554047 -0.354980" range="0.4500" height="1.5000" />
+            <point pos="-0.127930 -0.077911 0.814942" range="0.4500" height="1.5000" />
+            <point pos="0.645508 -0.532959 -1.331543" range="0.4500" height="1.5000" />
+            <point pos="-2.945313 -0.569946 1.669922" range="0.4500" height="1.5000" />
+        </container>
+    </group>
+    <group name="StaticObj_Misc_WoodenCrate_5x" lootmax="7">
+        <usage name="Farm" />
+        <usage name="Firefighter" />
+        <usage name="Historical" />
+        <usage name="Hunting" />
+        <usage name="Industrial" />
+        <usage name="Lunapark" />
+        <usage name="Military" />
+        <usage name="Office" />
+        <usage name="Police" />
+        <value name="Tier1" />
+        <value name="Tier2" />
+        <value name="Tier3" />
+        <value name="Tier4" />
+        <container name="lootFloor" lootmax="7">
+            <category name="clothes" />
+            <tag name="floor" />
+            <tag name="ground" />
+            <tag name="shelves" />
+            <point pos="0.385742 0.398468 0.576660" range="0.4500" height="1.5000" />
+            <point pos="0.510742 1.005218 -0.136231" range="0.4500" height="1.5000" />
+            <point pos="-0.291015 0.996948 -0.248047" range="0.4500" height="1.5000" />
+            <point pos="-1.333984 -0.935089 0.719238" range="0.4500" height="1.5000" />
+            <point pos="-0.492187 -0.967285 1.793457" range="0.4500" height="1.5000" />
+            <point pos="0.982422 -0.936707 2.397461" range="0.4500" height="1.5000" />
+            <point pos="1.916992 -0.920563 -0.908691" range="0.4500" height="1.5000" />
+        </container>
+    </group>
+    <group name="Land_Wreck_C130J" lootmax="20">
+        <usage name="Military" />
+        <usage name="Medic" />
+        <container name="lootFloor" lootmax="20">
+            <category name="tools" />
+            <category name="containers" />
+            <category name="clothes" />
+            <category name="weapons" />
+            <category name="food" />
+            <tag name="floor" />
+            <tag name="shelves" />
+            <!-- Right side of plane -->
+            <point pos="3.293945 -1.541862 6.939941" range="1.100000" height="1.145172" flags="32" />
+            <point pos="4.630615 -1.221848 5.478027" range="1.203125" height="1.058037" flags="32" />
+            <point pos="4.128174 -1.250969 5.282227" range="1.237500" height="1.899963" flags="32" />
+            <point pos="3.601563 -1.275345 5.026855" range="1.237500" height="1.900002" flags="32" />
+            <point pos="3.976563 -1.479630 7.021972" range="1.340625" height="1.139282" flags="32" />
+            <point pos="5.462646 -1.856918 4.474609" range="1.595988" height="1.900002" flags="32" />
+            <point pos="5.462646 -1.856918 4.474609" range="1.595988" height="1.900002" flags="32" />
+            <point pos="5.462646 -1.856918 4.474609" range="1.595988" height="1.900002" flags="32" />
+            <point pos="5.462646 -1.856918 4.474609" range="1.595988" height="1.900002" flags="32" />
+            <point pos="5.462646 -1.856918 4.474609" range="1.595988" height="1.900002" flags="32" />
+            <point pos="3.273926 -1.856918 8.096679" range="1.718352" height="1.900002" flags="32" />
+            <point pos="2.722656 -1.856918 5.948730" range="1.821779" height="1.900002" flags="32" />
+            <point pos="6.276123 -1.856918 9.080566" range="1.827611" height="1.900002" flags="32" />
+            <point pos="4.192871 -1.856918 5.159668" range="1.846799" height="1.900002" flags="32" />
+            <point pos="7.588379 -1.856918 4.039551" range="1.898411" height="1.900002" flags="32" />
+            <point pos="4.540283 -1.856918 9.118164" range="1.908636" height="1.900002" flags="32" />
+            <point pos="1.502686 -1.856918 7.775879" range="1.942924" height="1.900002" flags="32" />
+            <point pos="6.894042 -1.856918 5.567383" range="2.068359" height="1.900002" flags="32" />
+            <point pos="7.488282 -1.856918 7.621094" range="2.069595" height="1.900002" flags="32" />
+            <!-- Center of the plane-->
+            <point pos="3.200000 -1.856918 0.200000" range="0.199951" height="1.900002" flags="32" />
+            <point pos="2.400000 -1.856918 1.400000" range="0.199951" height="1.900002" flags="32" />
+            <point pos="1.600000 -1.856918 -0.600000" range="0.199951" height="1.900002" flags="32" />
+            <point pos="-0.800000 -1.856918 1.800000" range="0.199951" height="1.900002" flags="32" />
+            <point pos="-1.800000 -1.856918 -0.800000" range="0.199951" height="1.900002" flags="32" />
+            <point pos="-2.800000 -1.856918 0.800000" range="0.199951" height="1.900002" flags="32" />
+            <!-- Left side of plane -->
+            <point pos="3.293945 -1.541862 -6.939941" range="1.100000" height="1.145172" flags="32" />
+            <point pos="4.630615 -1.221848 -5.478027" range="1.203125" height="1.058037" flags="32" />
+            <point pos="4.128174 -1.250969 -5.282227" range="1.237500" height="1.899963" flags="32" />
+            <point pos="3.601563 -1.275345 -5.026855" range="1.237500" height="1.900002" flags="32" />
+            <point pos="3.976563 -1.479630 -7.021972" range="1.340625" height="1.139282" flags="32" />
+            <point pos="5.462646 -1.856918 -4.474609" range="1.595988" height="1.900002" flags="32" />
+            <point pos="3.273926 -1.856918 -8.096679" range="1.718352" height="1.900002" flags="32" />
+            <point pos="2.722656 -1.856918 -5.948730" range="1.821779" height="1.900002" flags="32" />
+            <point pos="6.276123 -1.856918 -9.080566" range="1.827611" height="1.900002" flags="32" />
+            <point pos="4.192871 -1.856918 -5.159668" range="1.846799" height="1.900002" flags="32" />
+            <point pos="7.588379 -1.856918 -4.039551" range="1.898411" height="1.900002" flags="32" />
+            <point pos="4.540283 -1.856918 -9.118164" range="1.908636" height="1.900002" flags="32" />
+            <point pos="1.502686 -1.856918 -7.775879" range="1.942924" height="1.900002" flags="32" />
+            <point pos="6.894042 -1.856918 -5.567383" range="2.068359" height="1.900002" flags="32" />
+            <point pos="7.488282 -1.856918 -7.621094" range="2.069595" height="1.900002" flags="32" />
+        </container>
+        <container name="loot">
+            <category name="weapons" />
+            <tag name="floor" />
+            <tag name="ground" />
+            <point pos="-2.139313 -4.527470 0.572631" range="0.884644" height="2.000002" flags="32" />
+            <point pos="-7.879120 -4.568596 0.246337" range="1.070224" height="2.000002" flags="32" />
+            <point pos="0.352356 -4.509430 0.665771" range="0.834839" height="2.000000" flags="32" />
+            <point pos="5.928223 -4.833448 -0.836671" range="0.409375" height="1.023438" flags="32" />
+            <point pos="5.909514 -4.836582 0.714355" range="0.409375" height="1.023438" flags="32" />
+            <point pos="4.918579 -4.715311 -0.710938" range="0.409375" height="1.023438" flags="32" />
+            <point pos="5.039856 -4.732702 0.205566" range="0.409375" height="1.023438" flags="32" />
+            <point pos="3.935394 -4.605631 0.972046" range="0.409375" height="1.023438" flags="32" />
+            <point pos="3.871979 -4.592604 -0.651612" range="0.409375" height="1.023438" flags="32" />
+            <point pos="5.085053 -5.184137 -2.382080" range="1.117920" height="0.173845" flags="32" />
+            <point pos="5.688843 -5.184137 2.855345" range="1.199951" height="2.000000" flags="32" />
+        </container>
+        <dispatch dechance="1.0">
+            <proxy type="M4A1" pos="-1.462890 -3.663147 1.414629" rpy="-0.000000 90.527878 -0.000000"
+                dechance="1.00" />
+        </dispatch>
+        <dispatch dechance="1.0">
+            <proxy type="FirstAidKit" pos="-0.066406 -3.209991 1.726152"
+                rpy="0.500000 180.000000 0.000000" dechance="1.00" />
+        </dispatch>
+        <dispatch dechance="1.0">
+            <proxy type="FirstAidKit" pos="-8.830078 -2.800000 -1.280000"
+                rpy="0.000000 180.000000 0.000000" dechance="1.00" />
+        </dispatch>
+        <dispatch dechance="1.0">
+            <proxy type="FirefighterAxe" pos="-8.966797 -3.450348 1.527422"
+                rpy="-0.000000 86.941154 -0.000000" dechance="1.00" />
+        </dispatch>
+        <dispatch dechance="1.0">
+            <proxy type="FieldShovel" pos="-8.754606 -3.988007 0.420000"
+                rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
+        </dispatch>
+        <dispatch dechance="1.0">
+            <proxy type="AssaultBag_Ttsko" pos="-4.906255 -3.600494 0.207109"
+                rpy="0.000000 90.000000 180.000000" dechance="1.00" />
+        </dispatch>
+        <dispatch dechance="1.0">
+            <proxy type="Hatchet" pos="-8.775390 -3.246521 0.437578" rpy="-0.000000 0.000000 -0.000000"
+                dechance="1.00" />
+        </dispatch>
+        <dispatch dechance="1.0">
+            <proxy type="Splint" pos="-0.041015 -3.777008 1.600176" rpy="4.499993 0.000000 0.000000"
+                dechance="1.00" />
+        </dispatch>
+        <dispatch dechance="1.0">
+            <proxy type="SalineBagIV" pos="-0.101562 -2.905243 1.730547"
+                rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
+        </dispatch>
+        <dispatch dechance="1.0">
+            <proxy type="GPSReceiver" pos="-0.120078 -3.200000 -1.590000"
+                rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
+        </dispatch>
+        <dispatch dechance="1.0">
+            <proxy type="Bonfire" pos="4.080078 -8.614990 0.080156" rpy="0.000000 0.000000 0.000000"
+                dechance="1.00" />
+        </dispatch>
+        <dispatch dechance="1.0">
+            <proxy type="Wreck_UH1Y" pos="-10.310547 -6.562012 -0.680098"
+                rpy="0.000000 0.000000 0.000000" dechance="1.00" />
+        </dispatch>
+        <dispatch dechance="1.0">
+            <proxy type="Bonfire" pos="-12.950195 -7.145996 0.290117" rpy="0.000000 0.000000 0.000000"
+                dechance="1.00" />
+        </dispatch>
+        <dispatch dechance="1.0">
+            <proxy type="Bonfire" pos="53.486328 -7.319611 14.832598" rpy="0.000000 88.522423 0.000000"
+                dechance="1.00" />
+        </dispatch>
+        <dispatch dechance="1.0">
+            <proxy type="Bonfire" pos="65.580078 -8.267578 -7.241133" rpy="0.000000 -41.538239 0.000000"
+                dechance="1.00" />
+        </dispatch>
+        <dispatch dechance="1.0">
+            <proxy type="Bonfire" pos="30.636719 -8.897949 7.430742" rpy="0.000000 -40.107502 0.000000"
+                dechance="1.00" />
+        </dispatch>
+        <dispatch dechance="1.0">
+            <proxy type="Bonfire" pos="46.425781 -8.643250 -12.659590"
+                rpy="0.000000 -38.816593 0.000000" dechance="1.00" />
+        </dispatch>
+        <dispatch dechance="1.0">
+            <proxy type="Bonfire" pos="35.669922 -7.321991 -10.729902" rpy="0.000000 73.482483 0.000000"
+                dechance="1.00" />
+        </dispatch>
+    </group>	
 </prototype>
