@@ -1409,17 +1409,17 @@
     </event>
     <event name="StaticMildrop">
         <zone smin="0" smax="0" dmin="1" dmax="2" r="30" />
-            <pos x="4172.5" y="301" z="7766.8" a="0" group="Mildrop" />
-    </event> 
-    <event name="StaticNPCLewis">	
+        <pos x="4172.5" y="301" z="7766.8" a="0" group="Mildrop" />
+    </event>
+    <event name="StaticNPCLewis">
         <pos x="3959.5344" z="10738.403" a="0.0" />
     </event>
-    <event name="StaticNPCOliver">	
+    <event name="StaticNPCOliver">
         <pos x="4486.8055" z="9392.9761" a="0.0" />
-    </event>    
+    </event>
     <event name="ItemPunchedCard">
         <pos x="3835.800048828125" z="9951.16015625" a="362.15289306640627" />
-    </event>         
+    </event>
     <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />
@@ -1436,20 +1436,20 @@
     <event name="AnimalWolf" />
     <event name="AnimalWildBoar" />
     <event name="StaticC130crashAirfield">
-	           <!--NWAF-->
-		<pos x="4606.920000" z="9977.830078" a="0" y="344.000000" group="CrashAirfield"/>
-               <!--NWAFN-->
-		<pos x="4036.610596" z="10663.018555" a="0" y="344.126404" group="CrashAirfield"/>
-		       <!--KrasnoEast-->
-		<pos x="12427.143555" z="12370.784180" a="0" y="145.106445" group="CrashAirfield"/>
-		       <!--KrasnoWest-->
-		<pos x="11655.402344" z="12834.665039" a="0" y="156.734344" group="CrashAirfield"/>
-		       <!--BalatoEast-->
-		<pos x="5147.648438" z="2246.242432" a="0" y="14.484016" group="CrashAirfield"/>
-		       <!--BalatoWest-->
-		<pos x="4974.899902" z="2466.058838" a="0" y="14.609008" group="CrashAirfield"/>
-	</event>	
-    <!--1.26--> 
+        <!--NWAF-->
+        <pos x="4606.920000" z="9977.830078" a="0" y="344.000000" group="CrashAirfield" />
+        <!--NWAFN-->
+        <pos x="4036.610596" z="10663.018555" a="0" y="344.126404" group="CrashAirfield" />
+        <!--KrasnoEast-->
+        <pos x="12427.143555" z="12370.784180" a="0" y="145.106445" group="CrashAirfield" />
+        <!--KrasnoWest-->
+        <pos x="11655.402344" z="12834.665039" a="0" y="156.734344" group="CrashAirfield" />
+        <!--BalatoEast-->
+        <pos x="5147.648438" z="2246.242432" a="0" y="14.484016" group="CrashAirfield" />
+        <!--BalatoWest-->
+        <pos x="4974.899902" z="2466.058838" a="0" y="14.609008" group="CrashAirfield" />
+    </event>
+    <!--1.26-->
     <event name="VehicleBoat">
         <pos x="1716.188110" z="2000.763306" />
         <pos x="1748.611328" z="2014.182007" />
@@ -1523,5 +1523,5 @@
         <pos x="15211.263672" z="13814.097656" />
         <pos x="15227.822266" z="13816.418945" />
         <pos x="15244.462891" z="13821.070313" />
-    </event>    
+    </event>
 </eventposdef>
