@@ -6230,7 +6230,8 @@
 	<!--1.24-->
     <type name="Vikhr">
         <attachments chance="1.0">
-            <item name="KobraOptic" chance="1.00" />
+            <item name="KashtanOptic" chance="0.50" />
+            <item name="PSO1Optic" chance="0.50" />
         </attachments>
         <attachments chance="1.0">
             <item name="Battery9V" chance="1.0" />
@@ -6253,13 +6254,14 @@
             <item name="ACOGOptic_6x" chance="0.15" />
         </attachments>
         <attachments chance="1.0">
-            <item name="Battery9V" chance="1.0" />
-        </attachments>				
-        <attachments chance="1.0">
             <item name="Mag_SV98_10Rnd" chance="1.0" />
         </attachments>
     </type>
-
+	<!--added-->
+	<type name="ScientificBriefcase">
+		<hoarder />
+	</type>
+	
 	<!--1.26-->
 	<type name="PlateCarrierVest_Black">        
         <attachments chance="1.00">
@@ -6400,7 +6402,7 @@
         <attachments chance="1.0">
             <item name="SparkPlug" chance="1.0" />
         </attachments>
-    </type>	
+    </type>
 
 <!--
 	<type name="V3S_Chassis">
