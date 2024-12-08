@@ -1417,9 +1417,6 @@
     <event name="StaticNPCOliver">
         <pos x="4486.8055" z="9392.9761" a="0.0" />
     </event>
-    <event name="ItemPunchedCard">
-        <pos x="3835.800048828125" z="9951.16015625" a="362.15289306640627" />
-    </event>
     <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />
@@ -1448,6 +1445,13 @@
         <pos x="5147.648438" z="2246.242432" a="0" y="14.484016" group="CrashAirfield" />
         <!--BalatoWest-->
         <pos x="4974.899902" z="2466.058838" a="0" y="14.609008" group="CrashAirfield" />
+    </event>
+    <!--Added-->
+    <event name="ItemPunchedCardship">
+        <pos x="13799.400391" z="11143.200195" a="0" y="24.584600" group="punchedcardship"/>
+    </event>
+    <event name="ItemPunchedCardpavlovo">
+        <pos x="2170.560059" z="3347.860107" a="0" y="92.378502" group="punchedcardpavlovo"/>
     </event>
     <!--1.26-->
     <event name="VehicleBoat">

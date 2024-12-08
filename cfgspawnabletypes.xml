@@ -2635,6 +2635,11 @@
 			<item name="HuntingOptic" chance="1.00" />
 		</attachments>
 	</type>
+	<type name="Winchester70_Green">
+		<attachments chance="1.0">
+			<item name="HuntingOptic" chance="1.00" />
+		</attachments>
+	</type>
 	<type name="Mosin9130">
 		<attachments chance="1.0">
 			<item name="Mosin_Compensator" chance="1.00" />
@@ -2672,6 +2677,25 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AK74_Hndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="KashtanOptic" chance="0.80" />
+			<item name="PSO11Optic" chance="0.20" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="Battery9V" chance="1.00" />
+		</attachments>		
+		<attachments chance="1.0">
+			<item name="Mag_AK74_45Rnd" chance="0.50" />
+			<item name="Mag_AK74_30Rnd" chance="0.50" />
+		</attachments>
+	</type>
+	<type name="AK74_Green">
+		<attachments chance="1.00">
+			<item name="AK_PlasticBttstck_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="AK_RailHndgrd_Green" chance="1.00" />
 		</attachments>
 		<attachments chance="1.0">
 			<item name="KashtanOptic" chance="0.80" />
@@ -6242,7 +6266,7 @@
     </type>
 
 	<type name="PunchedCard">
-		<damage min="0.9" max="0.9" />
+		<damage min="0.7" max="0.70" />
 	</type>
 
 	<!--1.25-->
@@ -6261,6 +6285,18 @@
 	<type name="ScientificBriefcase">
 		<hoarder />
 	</type>
+	<type name="ScientificBriefcase">
+        <damage min="0.0" max="0.0" />
+        <cargo chance="1.0">
+            <item name="PunchedCard" chance="0.02" />
+        </cargo>
+        <cargo chance="1.0">
+            <item name="TetracyclineAntibiotics" chance="1.00" />
+        </cargo>
+        <cargo chance="1.0">
+            <item name="ChelatingTablets" chance="0.25" />
+        </cargo>
+    </type>
 	
 	<!--1.26-->
 	<type name="PlateCarrierVest_Black">        

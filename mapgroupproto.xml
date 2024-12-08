@@ -12756,7 +12756,10 @@
 						<point pos="-4.802368 -1.856922 -0.578615" range="0.329033" height="1.024933" flags="32" />
 				</container>					
 				<dispatch dechance="1.0">
-					<proxy type="M4A1_Green" pos="-3.017131 -1.5 0.206791" rpy="90.0 30.0 -10.0" dechance="1.00" />
+					<proxy type="M4A1_Green" pos="-2.900391 -1.480011 0.070068" rpy="90.000000 90.000000 0.000000" dechance="1.00" />
+			    </dispatch>
+				<dispatch dechance="1.0">
+					<proxy type="PunchedCard" pos="-2.599609 -1.197022 1.989990" rpy="90.000000 0.000000 90.000000" dechance="0.25" /><!--Added-->
 			    </dispatch>						
 		</group>
 		<group name="Wreck_Mi8" lootmax="20">
@@ -12834,8 +12837,11 @@
 						<point pos="-2.769746 -1.517029 -2.799561" range="0.203125" height="0.507813" />
 						<point pos="-3.818542 -1.811153 -1.685303" range="0.460957" height="1.302490" />
 				</container>
-				<dispatch dechance="0.50">
-					<proxy type="M4A1_Black" pos="-8.088387 -1.1 -0.340433" rpy="0.0 15.0 0.0" dechance="1.00" />
+				<dispatch dechance="1.0">
+					<proxy type="M4A1_Black" pos="-8.058594 -0.831055 -0.383545" rpy="0.000000 15.000000 0.000000" dechance="1.00" />
+				</dispatch>
+				<dispatch dechance="1.0">
+					<proxy type="PunchedCard" pos="-73322.000000 -1.300995 -0.429932" rpy="90.000000 90.000000 0.000000" dechance="0.25" /><!--Added-->
 				</dispatch>
 		</group>
 		<group name="Land_Wreck_Volha_Police" lootmax="10">
@@ -18598,6 +18604,30 @@
 				<dispatch dechance="1.0">
                     <proxy type="GPSReceiver" pos="-0.120078 -3.200000 -1.590000" rpy="-0.000000 0.000000 -0.000000" dechance="1.00" />
 				</dispatch>
+        </group>
+
+<!--Oil RIG-->
+
+        <group name="Static_Misc_Gunrack_OilRigGuns1" lootmax="1">
+            <container name="loot" lootmax="1">
+            </container>
+            <dispatch dechance="1.0">
+                <proxy type="M4A1_Green" pos="0.0 0.0 0.0" rpy="0.0 0.0 270.0" dechance="1.00" />
+            </dispatch>
+        </group>
+		<group name="Static_Misc_Gunrack_OilRigGuns2" lootmax="1">
+            <container name="loot" lootmax="1">
+            </container>
+            <dispatch dechance="1.0">
+                <proxy type="Winchester70_Green" pos="0.0 0.0 0.0" rpy="0.0 0.0 270.0" dechance="1.00" />
+            </dispatch>
+        </group>
+		<group name="Static_Misc_Gunrack_OilRigGuns3" lootmax="1">
+            <container name="loot" lootmax="1">
+            </container>
+            <dispatch dechance="1.0">
+                <proxy type="AK74_Green" pos="0.0 0.0 0.0" rpy="0.0 0.0 270.0" dechance="1.00" />
+            </dispatch>
         </group>
 
 <!--for C130 added in helicrash furture-->

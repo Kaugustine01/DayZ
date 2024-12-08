@@ -9,7 +9,7 @@
         <category name="weapons"/>
         <category name="books"/>
         <category name="explosives"/>
-        <category name="m4a1"/>		
+        <category name="m4a1"/>
         <category name="PunchedCard"/>
     </categories>
     <tags>
@@ -36,6 +36,7 @@
         <usage name="ContaminatedArea"/>
         <usage name="Historical"/>
         <usage name="Convoy"/>
+        <usage name="0ilrig"/>
     </usageflags>
     <valueflags>
         <value name="Tier1"/>

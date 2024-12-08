@@ -46,12 +46,15 @@
     "WorldsData": {
         "lightingConfig": 1,
         "objectSpawnersArr": [
-            "./custom/SafezoneDevilsCastle.json",
-            "./custom/BaseStaff.json",
             "./custom/BaseIsland.json",
             "./custom/BasePersonnel.json",
             "./custom/BasePrisonIslandBridge.json",
-            "./custom/playerRequests.json"
+            "./custom/SafezoneDevilsCastle.json",
+            "./custom/playerRequests.json",
+            "./custom/BaseStaff.json",
+            "./custom/OilRig.json",
+            "./custom/OilRigGunrack.json",
+            "./custom/PunchCards.json"
         ],
         "environmentMinTemps": [
             -3.0,
