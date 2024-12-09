@@ -22318,7 +22318,7 @@
         <value name="Tier3"/>
     </type>    
     <type name="PunchedCard">
-        <nominal>1</nominal>
+        <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
