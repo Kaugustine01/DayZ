@@ -88,10 +88,10 @@
         <category name="weapons"/>
     </type>
     <type name="AK74_Green">
-        <nominal>150</nominal>
-        <lifetime>3603</lifetime>
-        <restock>3600</restock>
-        <min>150</min>
+        <nominal>200</nominal>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <min>200</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -11537,10 +11537,10 @@
         <usage name="Convoy"/>		
     </type>
     <type name="M4A1_Green">
-        <nominal>150</nominal>
-        <lifetime>3603</lifetime>
-        <restock>3600</restock>
-        <min>150</min>
+        <nominal>200</nominal>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <min>200</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -19665,10 +19665,10 @@
         <value name="Tier4"/>
     </type>
 	<type name="Winchester70_Green">
-        <nominal>150</nominal>
-        <lifetime>3603</lifetime>
-        <restock>3600</restock>
-        <min>150</min>
+        <nominal>200</nominal>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <min>200</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
