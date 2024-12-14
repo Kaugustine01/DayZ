@@ -3031,21 +3031,6 @@
             "enableCEPersistency": 0
         },
         {
-            "name": "Land_Underground_Panel_Lever",
-            "pos": [
-                6051.69140625,
-                31.24650001525879,
-                501.0050964355469
-            ],
-            "ypr": [
-                52.91938018798828,
-                0.0,
-                -0.0
-            ],
-            "scale": 0.999998927116394,
-            "enableCEPersistency": 0
-        },
-        {
             "name": "StaticObj_Panel_Concrete_1",
             "pos": [
                 6065.025390625,

@@ -88,15 +88,16 @@
         <category name="weapons"/>
     </type>
     <type name="AK74_Green">
-        <nominal>20</nominal>
-        <lifetime>7201</lifetime>
-        <restock>0</restock>
-        <min>10</min>
+        <nominal>150</nominal>
+        <lifetime>3603</lifetime>
+        <restock>3600</restock>
+        <min>150</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="weapons"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/> 
+        <category name="m4a1"/>
+        <usage name="Convoy"/>
     </type>
     <type name="AK74_Hndgrd">
         <nominal>0</nominal>
@@ -19662,6 +19663,18 @@
         <usage name="Military"/>       
         <value name="Tier3"/>
         <value name="Tier4"/>
+    </type>
+	<type name="Winchester70_Green">
+        <nominal>150</nominal>
+        <lifetime>3603</lifetime>
+        <restock>3600</restock>
+        <min>150</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/> 
+        <category name="m4a1"/>
+        <usage name="Convoy"/>
     </type>
     <type name="WinterCoif_Black">
         <nominal>10</nominal>
