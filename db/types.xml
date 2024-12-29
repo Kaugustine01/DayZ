@@ -23530,4 +23530,137 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="clothes"/>
     </type>   
+    <!-- Christmas-->
+    <type name="SantasHat">
+        <nominal>100</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>50</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+    </type>
+     <type name="SantasBeard">
+        <nominal>100</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>50</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+    </type>  
+     <type name="Candycane_Green">
+        <nominal>50</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>25</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+    </type>   
+     <type name="Candycane_RedGreen">
+        <nominal>50</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>25</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+    </type>    
+     <type name="Candycane_Red">
+        <nominal>50</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>25</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+    </type>   
+     <type name="Candycane_Yellow">
+        <nominal>50</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>25</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+    </type> 
+     <type name="Sweater_ChristmasBlue">
+        <nominal>100</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>50</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+    </type>  
+     <type name="Sweater_ChristmasGreen">
+        <nominal>100</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>50</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+    </type>  
+     <type name="Sweater_ChristmasRed">
+        <nominal>100</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>50</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+    </type> 
+      <type name="ChristmasHeadband_Antlers">
+        <nominal>50</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>25</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+    </type>     
+       <type name="ChristmasHeadband_Gingerbread">
+        <nominal>50</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>25</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+    </type>
+       <type name="ChristmasHeadband_Trees">
+        <nominal>50</nominal>
+        <lifetime>28800</lifetime>
+        <restock>0</restock>
+        <min>25</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+    </type>                                         
 </types>
