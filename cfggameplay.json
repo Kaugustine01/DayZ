@@ -95,7 +95,8 @@
         ],
         "playerRestrictedAreaFiles": [
             "./custom/TeleportOilRig.json",
-            "./custom/TeleportStaffBase.json"
+            "./custom/TeleportStaffBase.json",
+            "./custom/TeleportBaseCluckersCastle2.json"
         ]
     },
     "BaseBuildingData": {
