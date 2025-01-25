@@ -1432,6 +1432,8 @@
     <event name="AnimalRoeDeer" />
     <event name="AnimalWolf" />
     <event name="AnimalWildBoar" />
+	<event name="AmbientFox" />
+	<event name="AmbientHare" />    
     <event name="StaticC130crashAirfield">
         <!--NWAF-->
         <pos x="4606.920000" z="9977.830078" a="0" y="344.000000" group="CrashAirfield" />

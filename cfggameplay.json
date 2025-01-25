@@ -56,7 +56,8 @@
             "./custom/OilRigGunrack.json",
             "./custom/OilRigPrison.json",
             "./custom/PunchCards.json",
-            "./custom/BaseCluckersCastle2.json"
+            "./custom/BaseCluckersCastle2.json",
+            "./custom/BaseGinja.json"
         ],
         "environmentMinTemps": [
             -3.0,
