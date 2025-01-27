@@ -46,7 +46,6 @@
     "WorldsData": {
         "lightingConfig": 1,
         "objectSpawnersArr": [
-            "./custom/BaseIsland.json",
             "./custom/BasePersonnel.json",
             "./custom/BasePrisonIslandBridge.json",
             "./custom/SafezoneDevilsCastle.json",
@@ -56,8 +55,8 @@
             "./custom/OilRigGunrack.json",
             "./custom/OilRigPrison.json",
             "./custom/PunchCards.json",
-            "./custom/BaseCluckersCastle2.json",
-            "./custom/BaseGinja.json"
+            "./custom/BaseGinja.json",
+            "./custom/BaseChef.json"
         ],
         "environmentMinTemps": [
             -3.0,
@@ -96,8 +95,7 @@
         ],
         "playerRestrictedAreaFiles": [
             "./custom/TeleportOilRig.json",
-            "./custom/TeleportStaffBase.json",
-            "./custom/TeleportBaseCluckersCastle2.json"
+            "./custom/TeleportStaffBase.json"
         ]
     },
     "BaseBuildingData": {
