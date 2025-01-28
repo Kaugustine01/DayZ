@@ -46,7 +46,6 @@
     "WorldsData": {
         "lightingConfig": 1,
         "objectSpawnersArr": [
-            "./custom/BasePersonnel.json",
             "./custom/BasePrisonIslandBridge.json",
             "./custom/SafezoneDevilsCastle.json",
             "./custom/playerRequests.json",
