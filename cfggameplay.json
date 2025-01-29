@@ -55,7 +55,8 @@
             "./custom/OilRigPrison.json",
             "./custom/PunchCards.json",
             "./custom/BaseGinja.json",
-            "./custom/BaseChef.json"
+            "./custom/BaseChef.json",
+            "./custom/BaseYellow.json"
         ],
         "environmentMinTemps": [
             -3.0,
