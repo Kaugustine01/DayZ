@@ -45,7 +45,7 @@
     },
     "WorldsData": {
         "lightingConfig": 1,
-        "objectSpawnersArr": [
+        "objectSpawnersArr": [            
             "./custom/BasePrisonIslandBridge.json",
             "./custom/SafezoneDevilsCastle.json",
             "./custom/playerRequests.json",
@@ -56,7 +56,8 @@
             "./custom/PunchCards.json",
             "./custom/BaseGinja.json",
             "./custom/BaseChef.json",
-            "./custom/BaseYellow.json"
+            "./custom/BaseYellow.json",
+            "./custom/BaseGreen.json"   
         ],
         "environmentMinTemps": [
             -3.0,
