@@ -1255,9 +1255,7 @@
             <child lootmax="0" lootmin="0" max="10" min="6" type="Boat_01_Orange" />
         </children>
     </event>
-
-<!--Oil RIG-->
-
+    <!--Oil RIG-->
     <event name="ItemPunchedCardship">
         <nominal>1</nominal>
         <min>1</min>
