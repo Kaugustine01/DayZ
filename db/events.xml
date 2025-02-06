@@ -6,18 +6,18 @@
         <max>50</max>
         <lifetime>33</lifetime>
         <restock>15</restock>
-        <saferadius>40</saferadius>
-        <distanceradius>0</distanceradius>
-        <cleanupradius>0</cleanupradius>
-        <flags deletable="0" init_random="0" remove_damaged="0" />
+        <saferadius>0</saferadius>
+        <distanceradius>60</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="0"/>
         <position>fixed</position>
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_GallusGallusDomesticus" />
-            <child lootmax="0" lootmin="0" max="4" min="1" type="Animal_GallusGallusDomesticusF_Brown" />
-            <child lootmax="0" lootmin="0" max="4" min="1" type="Animal_GallusGallusDomesticusF_Spotted" />
-            <child lootmax="0" lootmin="0" max="4" min="1" type="Animal_GallusGallusDomesticusF_White" />
+            <child lootmax="0" lootmin="0" max="2" min="1" type="Animal_GallusGallusDomesticus"/>
+            <child lootmax="0" lootmin="0" max="4" min="1" type="Animal_GallusGallusDomesticusF_Brown"/>
+            <child lootmax="0" lootmin="0" max="4" min="1" type="Animal_GallusGallusDomesticusF_Spotted"/>
+            <child lootmax="0" lootmin="0" max="4" min="1" type="Animal_GallusGallusDomesticusF_White"/>
         </children>
     </event>
     <event name="AnimalBear">
@@ -1255,9 +1255,7 @@
             <child lootmax="0" lootmin="0" max="10" min="6" type="Boat_01_Orange" />
         </children>
     </event>
-
-<!--Oil RIG-->
-
+    <!--Oil RIG-->
     <event name="ItemPunchedCardship">
         <nominal>1</nominal>
         <min>1</min>
