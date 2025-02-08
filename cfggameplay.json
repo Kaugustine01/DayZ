@@ -96,7 +96,8 @@
         ],
         "playerRestrictedAreaFiles": [
             "./custom/TeleportOilRig.json",
-            "./custom/TeleportStaffBase.json"
+            "./custom/TeleportStaffBase.json",
+            "./custom/TeleportBaseChef.json"
         ]
     },
     "BaseBuildingData": {

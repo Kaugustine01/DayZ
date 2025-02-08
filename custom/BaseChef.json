@@ -1514,6 +1514,21 @@
             ],
             "scale": 0.9999997615814209,
             "enableCEPersistency": 0
-        }
+        },
+        {
+            "name": "StaticObj_Misc_SurveyMarker_Post",
+            "pos": [
+                6391.4765625,
+                384.2933044433594,
+                6571.20166015625
+            ],
+            "ypr": [
+                144.2569580078125,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992251396179,
+            "enableCEPersistency": 0
+        }        
     ]
 }
