@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<messages>
+	
+<!-- 1) following message will be for the Dam Event and will displayed every 15 minutes. -->
+	
+	<message>
+	    <repeat>15</repeat>
+        <delay>15</delay>
+        <onconnect>1</onconnect>
+        <text> 
+            Dolina PvP Event in progress: eyes up, and light em up!!!
+        </text>
+    </message>
+
+    <message>
+	    <repeat>15</repeat>
+        <delay>15</delay>
+        <onconnect>1</onconnect>
+        <text>
+            Load in battle ready, and ready to battle!!!
+        </text>
+    </message>
+    
+    <message>
+	    <repeat>15</repeat>
+        <delay>15</delay>
+        <onconnect></onconnect>
+        <text>
+            Thank you for playing, Join our Discord to stay up to date on what we have going on. https://discord.gg/exodusdayz
+        </text>
+    </message>	
+
+</messages>
