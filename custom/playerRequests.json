@@ -44,6 +44,21 @@
             ],
             "scale": 1.0,
             "enableCEPersistency": 0
-        }
+        },
+        {
+            "name": "Land_Misc_Well_Pump_Blue",
+            "pos": [
+                1352.5262451171876,
+                292.09356689453127,
+                9301.107421875
+            ],
+            "ypr": [
+                -62.99997329711914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0
+        }        
     ]
 }
