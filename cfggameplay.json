@@ -57,7 +57,8 @@
             "./custom/BaseGinja.json",
             "./custom/BaseChef.json",
             "./custom/BaseYellow.json",
-            "./custom/BaseGreen.json"   
+            "./custom/BaseGreen.json",
+            "./custom/BasePink.json"   
         ],
         "environmentMinTemps": [
             -3.0,
