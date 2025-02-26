@@ -6264,11 +6264,9 @@
             <item name="Mag_Vikhr_30Rnd" chance="1.0" />
         </attachments>
     </type>
-
 	<type name="PunchedCard">
 		<damage min="0.7" max="0.70" />
 	</type>
-
 	<!--1.25-->
 	<type name="SV98">
         <attachments chance="1.0">
@@ -6283,9 +6281,6 @@
     </type>
 	<!--added-->
 	<type name="ScientificBriefcase">
-		<hoarder />
-	</type>
-	<type name="ScientificBriefcase">
         <damage min="0.0" max="0.0" />
         <cargo chance="1.0">
             <item name="PunchedCard" chance="0.02" />
@@ -6296,8 +6291,7 @@
         <cargo chance="1.0">
             <item name="ChelatingTablets" chance="0.25" />
         </cargo>
-    </type>
-	
+    </type>	
 	<!--1.26-->
 	<type name="PlateCarrierVest_Black">        
         <attachments chance="1.00">
@@ -6439,6 +6433,19 @@
             <item name="SparkPlug" chance="1.0" />
         </attachments>
     </type>
+    <type name="Shrimp">
+        <nominal>0</nominal>
+        <lifetime>14400</lifetime>
+        <restock>0</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="food"/>
+        <usage name="Town"/>
+        <usage name="Village"/>
+    </type>	
 	<!-- 1.27-->
     <type name="SVD_Wooden">
         <damage min="0.3" max="0.7" />
