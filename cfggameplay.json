@@ -58,7 +58,9 @@
             "./custom/BaseChef.json",
             "./custom/BaseYellow.json",
             "./custom/BaseGreen.json",
-            "./custom/BasePink.json"   
+            "./custom/BasePink.json",
+            "./custom/BaseClucker.json",
+            "./custom/BaseNSahrani.json"   
         ],
         "environmentMinTemps": [
             -3.0,
@@ -99,7 +101,9 @@
             "./custom/TeleportOilRig.json",
             "./custom/TeleportStaffBase.json",
             "./custom/TeleportBaseChef.json",            
-            "./custom/TeleportBasePink.json"            
+            "./custom/TeleportBasePink.json",
+            "./custom/TeleportBaseClucker.json",
+            "./custom/TeleportBaseNSahrani.json"            
         ]
     },
     "BaseBuildingData": {
