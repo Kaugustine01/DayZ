@@ -58,6 +58,7 @@
             "./custom/BaseChef.json",
             "./custom/BaseYellow.json",
             "./custom/BaseGreen.json",
+            "./custom/BaseGreenVIP.json",
             "./custom/BasePink.json",
             "./custom/BaseClucker.json",
             "./custom/BaseNSahrani.json"   
