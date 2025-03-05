@@ -495,6 +495,22 @@
             "scale": 0.9999858736991882,
             "enableCEPersistency": 0,
             "customString": ""
+        },
+        {
+            "name": "Land_Misc_Well_Pump_Blue",
+            "pos": [
+                5390.98486328125,
+                245.24298095703126,
+                11572.9921875
+            ],
+            "ypr": [
+                62.99997329711914,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999999403953552,
+            "enableCEPersistency": 0,
+            "customString": ""
         }
     ]
 }
