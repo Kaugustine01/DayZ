@@ -52,7 +52,6 @@
             "./custom/BaseStaff.json",
             "./custom/OilRig.json",
             "./custom/OilRigGunrack.json",
-            "./custom/OilRigPrison.json",
             "./custom/PunchCards.json",
             "./custom/BaseGinja.json",
             "./custom/BaseChef.json",
@@ -99,7 +98,7 @@
             2.0
         ],
         "playerRestrictedAreaFiles": [
-            "./custom/TeleportOilRig.json",
+            "./custom/TeleportPrison.json",
             "./custom/TeleportStaffBase.json",
             "./custom/TeleportBaseChef.json",            
             "./custom/TeleportBasePink.json",
