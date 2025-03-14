@@ -108,7 +108,7 @@
     },
     "BaseBuildingData": {
         "HologramData": {
-            "disableColdAreaBuildingCheck": false,
+            "disableColdAreaPlacementCheck": true,
             "disableIsCollidingBBoxCheck": true,
             "disableIsCollidingPlayerCheck": true,
             "disableIsClippingRoofCheck": true,
