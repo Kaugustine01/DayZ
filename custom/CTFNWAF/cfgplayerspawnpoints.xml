@@ -25,17 +25,9 @@
             <counter>-1</counter>
         </group_params>
         <generator_posbubbles>
-            <group name="NWAF">
-                <pos x="4782.68" z="8959.10" />
-                <pos x="4269.42" z="9429.95" />
-                <pos x="4040.01" z="9881.33" />
-                <pos x="3666.72" z="10449.46" />
-                <pos x="3534.52" z="10838.59" />
-                <pos x="4001.12" z="11029.26" />
-                <pos x="4413.29" z="11126.54" />
-                <pos x="4794.35" z="10776.33" />
-                <pos x="5058.76" z="10363.85" />
-                <pos x="5144.30" z="9865.77" />
+            <group name="CTF NWAF">
+                <pos x="4721.22" z="338.702" />
+                <pos x="4184.37" z="338.702" />
             </group>
         </generator_posbubbles>
     </fresh>
