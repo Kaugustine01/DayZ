@@ -5592,10 +5592,10 @@
 		</attachments>
 		<!-- End of Plate Carrier attachments -->
 		<attachments chance="1.00">
-			<item name="TacticalShirt_Black" chance="1.00" />
+			<item name="ParamedicJacket_Blue" chance="1.00" />
 		</attachments>	
 		<attachments chance="1.00">
-			<item name="CargoPants_Black" chance="1.00" />
+			<item name="ParamedicPants_Blue" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AssaultBag_Black" chance="1.00" />
@@ -5760,10 +5760,10 @@
 		</attachments>
 		<!-- End of Plate Carrier attachments -->
 		<attachments chance="1.00">
-			<item name="TacticalShirt_Black" chance="1.00" />
+			<item name="ParamedicJacket_Crimson" chance="1.00" />
 		</attachments>	
 		<attachments chance="1.00">
-			<item name="CargoPants_Black" chance="1.00" />
+			<item name="ParamedicPants_Crimson" chance="1.00" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="AssaultBag_Black" chance="1.00" />
@@ -5853,7 +5853,7 @@
 		<attachments chance="1.00">
 			<item name="Armband_NSahrani" chance="1.00" />
 		</attachments>					
-	</type>	
+	</type>
 	<type name="SurvivorM_Mirek">
 		<attachments chance="1.00">
 			<item name="AUG" chance="100." />

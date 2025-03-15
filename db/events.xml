@@ -1151,6 +1151,7 @@
             <child lootmax="5" lootmin="0" max="0" min="30" type="ZmbM_Mummy" />
         </children>
     </event>
+    <!-- EVENT NWAF-->
     <event name="StaticNPCLewis">
         <nominal>1</nominal>
         <min>1</min>
@@ -1185,6 +1186,41 @@
             <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorM_Oliver" />
         </children>
     </event>
+    <!-- EVENT CTF NWAF-->
+    <event name="StaticNPCSeth">
+        <nominal>1</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <saferadius>1</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorM_Seth" />
+        </children>
+    </event>
+    <event name="StaticNPCTaiki">
+        <nominal>1</nominal>
+        <min>1</min>
+        <max>1</max>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <saferadius>1</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>100</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1" />
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>0</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="SurvivorM_Taiki" />
+        </children>
+    </event>    
     <event name="StaticC130crashAirfield">
         <nominal>2</nominal>
         <min>1</min>
