@@ -6456,16 +6456,15 @@
         <usage name="Village"/>
     </type>	
 	<!-- 1.27-->
-    <type name="SVD_Wooden">
-        <damage min="0.3" max="0.7" />
-        <attachments chance="0.10">
-            <item name="Mag_SVD_10Rnd" chance="1.00" />
-        </attachments>
-        <attachments chance="0.50">
-            <item name="KashtanOptic" chance="0.50" />
-            <item name="PSO11Optic" chance="0.30" />
-        </attachments>
-    </type>
+	<type name="SVD_Wooden">
+		<attachments chance="1.0">
+			<item name="Mag_SVD_10Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.0">
+			<item name="KashtanOptic" chance="0.80" />
+			<item name="PSO11Optic" chance="0.20" />
+		</attachments>
+	</type>	
     <type name="FilteringBottle">
         <damage min="0.1" max="0.1" />
     </type>
