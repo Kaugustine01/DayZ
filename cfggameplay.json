@@ -1,8 +1,8 @@
 {
     "version": 122,
     "GeneralData": {
-        "disableBaseDamage": true,
-        "disableContainerDamage": true,
+        "disableBaseDamage": false,
+        "disableContainerDamage": false,
         "disableRespawnDialog": false,
         "disableRespawnInUnconsciousness": false
     },
@@ -14,10 +14,10 @@
         "StaminaData": {
             "sprintStaminaModifierErc": 0,
             "sprintStaminaModifierCro": 0,
-            "staminaWeightLimitThreshold": 6000.0,
-            "staminaMax": 100.0,
+            "staminaWeightLimitThreshold": 6000,
+            "staminaMax": 100,
             "staminaKgToStaminaPercentPenalty": 0,
-            "staminaMinCap": 5.0,
+            "staminaMinCap": 5,
             "sprintSwimmingStaminaModifier": 0,
             "sprintLadderStaminaModifier": 0,
             "meleeStaminaModifier": 0,
@@ -25,8 +25,8 @@
             "holdBreathStaminaModifier": 0
         },
         "ShockHandlingData": {
-            "shockRefillSpeedConscious": 5.0,
-            "shockRefillSpeedUnconscious": 1.0,
+            "shockRefillSpeedConscious": 5,
+            "shockRefillSpeedUnconscious": 1,
             "allowRefillSpeedModifier": true
         },
         "MovementData": {
@@ -38,14 +38,14 @@
             "allowStaminaAffectInertia": true
         },
         "DrowningData": {
-            "staminaDepletionSpeed": 10.0,
-            "healthDepletionSpeed": 10.0,
-            "shockDepletionSpeed": 10.0
+            "staminaDepletionSpeed": 10,
+            "healthDepletionSpeed": 10,
+            "shockDepletionSpeed": 10
         }
     },
     "WorldsData": {
         "lightingConfig": 1,
-        "objectSpawnersArr": [            
+        "objectSpawnersArr": [
             "./custom/BasePrisonIslandBridge.json",
             "./custom/SafezoneDevilsCastle.json",
             "./custom/playerRequests.json",
@@ -60,47 +60,47 @@
             "./custom/BaseGreenVIP.json",
             "./custom/BasePink.json",
             "./custom/BaseClucker.json",
-            "./custom/BaseNSahrani.json"   
+            "./custom/BaseNSahrani.json"
         ],
         "environmentMinTemps": [
-            -3.0,
-            -2.0,
-            0.0,
-            4.0,
-            9.0,
-            14.0,
-            18.0,
-            17.0,
-            12.0,
-            7.0,
-            4.0,
-            0.0
+            -3,
+            -2,
+            0,
+            4,
+            9,
+            14,
+            18,
+            17,
+            12,
+            7,
+            4,
+            0
         ],
         "environmentMaxTemps": [
-            3.0,
-            5.0,
-            7.0,
-            14.0,
-            19.0,
-            24.0,
-            26.0,
-            25.0,
-            21.0,
-            16.0,
-            10.0,
-            5.0
+            3,
+            5,
+            7,
+            14,
+            19,
+            24,
+            26,
+            25,
+            21,
+            16,
+            10,
+            5
         ],
         "wetnessWeightModifiers": [
-            1.0,
-            1.0,
+            1,
+            1,
             1.33,
             1.66,
-            2.0
+            2
         ],
         "playerRestrictedAreaFiles": [
             "./custom/TeleportPrison.json",
             "./custom/TeleportStaffBase.json",
-            "./custom/TeleportBaseChef.json",            
+            "./custom/TeleportBaseChef.json",
             "./custom/TeleportBasePink.json",
             "./custom/TeleportBaseClucker.json",
             "./custom/TeleportBaseNSahrani.json",
@@ -139,9 +139,9 @@
             "hitDirectionBehaviour": 1,
             "hitDirectionStyle": 0,
             "hitDirectionIndicatorColorStr": "0xffbb0a1e",
-            "hitDirectionMaxDuration": 2.0,
+            "hitDirectionMaxDuration": 2,
             "hitDirectionBreakPointRelative": 0.2,
-            "hitDirectionScatter": 10.0,
+            "hitDirectionScatter": 10,
             "hitIndicationPostProcessEnabled": true
         }
     },
@@ -151,8 +151,7 @@
         "displayPlayerPosition": true,
         "displayNavInfo": true
     },
-    "VehicleData":
-    {
+    "VehicleData": {
         "boatDecayMultiplier": 1
     }
 }

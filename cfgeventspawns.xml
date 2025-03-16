@@ -1424,7 +1424,7 @@
     </event>
     <event name="StaticNPCTaiki">
         <pos x="4204.45" z="10872.6" a="0.0" />
-    </event>    
+    </event>
     <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />
@@ -1440,8 +1440,8 @@
     <event name="AnimalRoeDeer" />
     <event name="AnimalWolf" />
     <event name="AnimalWildBoar" />
-	<event name="AmbientFox" />
-	<event name="AmbientHare" />    
+    <event name="AmbientFox" />
+    <event name="AmbientHare" />
     <event name="StaticC130crashAirfield">
         <!--NWAF-->
         <pos x="4606.920000" z="9977.830078" a="0" y="344.000000" group="CrashAirfield" />
@@ -1458,10 +1458,10 @@
     </event>
     <!--Added-->
     <event name="ItemPunchedCardship">
-        <pos x="13799.400391" z="11143.200195" a="0" y="24.584600" group="punchedcardship"/>
+        <pos x="13799.400391" z="11143.200195" a="0" y="24.584600" group="punchedcardship" />
     </event>
     <event name="ItemPunchedCardpavlovo">
-        <pos x="2170.560059" z="3347.860107" a="0" y="92.378502" group="punchedcardpavlovo"/>
+        <pos x="2170.560059" z="3347.860107" a="0" y="92.378502" group="punchedcardpavlovo" />
     </event>
     <!--1.26-->
     <event name="VehicleBoat">
