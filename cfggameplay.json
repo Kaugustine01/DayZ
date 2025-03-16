@@ -103,7 +103,8 @@
             "./custom/TeleportBaseChef.json",            
             "./custom/TeleportBasePink.json",
             "./custom/TeleportBaseClucker.json",
-            "./custom/TeleportBaseNSahrani.json"            
+            "./custom/TeleportBaseNSahrani.json",
+            "./custom/TeleportBaseYellow.json"
         ]
     },
     "BaseBuildingData": {
