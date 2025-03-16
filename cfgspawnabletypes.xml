@@ -2616,7 +2616,7 @@
 			<item name="Battery9V" chance="1.00" />
 		</attachments>		
 		<attachments chance="0.50">
-			<item name="TLRLight" chance="1.00" />
+			<item name="UniversalLight" chance="1.00" />
 		</attachments>
 		<attachments chance="1.0">
 			<item name="Battery9V" chance="1.00" />
@@ -2800,7 +2800,7 @@
 			<item name="Battery9V" chance="1.00" />
 		</attachments>			
 		<attachments chance="0.50">
-			<item name="TLRLight" chance="1.00" />
+			<item name="UniversalLight" chance="1.00" />
 		</attachments>
 		<attachments chance="1.0">
 			<item name="Battery9V" chance="1.00" />
