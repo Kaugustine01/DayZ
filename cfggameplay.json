@@ -60,7 +60,8 @@
             "./custom/BaseGreenVIP.json",
             "./custom/BasePink.json",
             "./custom/BaseClucker.json",
-            "./custom/BaseNSahrani.json"
+            "./custom/BaseNSahrani.json",
+            "./custom/BaseBlue.json"
         ],
         "environmentMinTemps": [
             -3,
@@ -104,7 +105,7 @@
             "./custom/TeleportBasePink.json",
             "./custom/TeleportBaseClucker.json",
             "./custom/TeleportBaseNSahrani.json",
-            "./custom/TeleportBaseYellow.json"
+            "./custom/TeleportBaseYellow.json"            
         ]
     },
     "BaseBuildingData": {
