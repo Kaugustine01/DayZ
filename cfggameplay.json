@@ -61,7 +61,8 @@
             "./custom/BasePink.json",
             "./custom/BaseClucker.json",
             "./custom/BaseNSahrani.json",
-            "./custom/BaseBlue.json"
+            "./custom/BaseBlue.json",
+            "./custom/BaseMy40sTucked.json"
         ],
         "environmentMinTemps": [
             -3,
