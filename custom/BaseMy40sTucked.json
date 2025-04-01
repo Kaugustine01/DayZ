@@ -2095,6 +2095,22 @@
             "scale": 0.9999997615814209,
             "enableCEPersistency": 0,
             "customString": ""
+        },
+        {
+            "name": "Land_Castle_Wall1_20",
+            "pos": [
+                6570.373046875,
+                71.03482818603516,
+                3707.642333984375
+            ],
+            "ypr": [
+                2.356264114379883,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999630451202393,
+            "enableCEPersistency": 0,
+            "customString": ""
         }
     ]
 }
