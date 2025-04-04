@@ -56,7 +56,8 @@
             "./custom/BaseChef.json",
             "./custom/BaseYellow.json",
             "./custom/BaseGreen.json",
-            "./custom/BaseClucker.json",
+            "./custom/BaseBeer.json",
+			"./custom/BaseSentinels.json",
             "./custom/BaseNSahrani.json",
             "./custom/BaseBlue.json",
             "./custom/BaseMy40sTucked.json"
@@ -99,7 +100,6 @@
         "playerRestrictedAreaFiles": [
             "./custom/TeleportPrison.json",
             "./custom/TeleportStaffBase.json",
-            "./custom/TeleportBaseClucker.json",
             "./custom/TeleportBaseNSahrani.json",
             "./custom/TeleportBaseYellow.json"            
         ]
