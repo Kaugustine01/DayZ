@@ -465,7 +465,7 @@
           "complexChildrenTypes": []
         },
         {
-          "itemType": "ChernarusMap_Open",
+          "itemType": "ChernarusMap",
           "attributes": {
             "healthMin": 1.0,
             "healthMax": 1.0,
