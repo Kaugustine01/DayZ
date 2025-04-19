@@ -60,7 +60,8 @@
 			"./custom/BaseSentinels.json",
             "./custom/BaseNSahrani.json",
             "./custom/BaseBlue.json",
-            "./custom/BaseMy40sTucked.json"
+            "./custom/BaseMy40sTucked.json",
+            "./custom/BaseBschmit09.json"
         ],
         "environmentMinTemps": [
             -3,
